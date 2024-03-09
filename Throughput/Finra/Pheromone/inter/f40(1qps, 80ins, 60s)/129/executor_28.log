@@ -1,0 +1,48 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_marketdata. lib_load_elasped: 11978, func_load_elasped: 8
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+force_push: msg_id = 3043294, remain = 10, size = 64
+Send to executer failed.Loaded function exp06_run_audit_15. lib_load_elasped: 341, func_load_elasped: 1
+Loaded function exp06_run_audit_34. lib_load_elasped: 292, func_load_elasped: 1
+Loaded function exp06_run_audit_21. lib_load_elasped: 292, func_load_elasped: 2
+Loaded function exp06_run_audit_2. lib_load_elasped: 384, func_load_elasped: 1
+Loaded function exp06_run_audit_7. lib_load_elasped: 283, func_load_elasped: 1
+Loaded function exp06_run_audit_27. lib_load_elasped: 232, func_load_elasped: 1

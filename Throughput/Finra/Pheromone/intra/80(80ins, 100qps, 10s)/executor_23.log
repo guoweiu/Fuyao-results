@@ -1,0 +1,87 @@
+Read file config.yml
+Running executor...
+Load lib exp06_run_audit_60.so failed
+Fail to execute function  due to load errorexp06_run_audit_60
+Load lib exp06_run_audit_12.so failed
+Fail to execute function  due to load errorexp06_run_audit_12
+Loaded function exp06_marketdata. lib_load_elasped: 5736, func_load_elasped: 9
+force_push: msg_id = 1882133, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1881941, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 1881938, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 1881951, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1881935, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 1881519, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 1882156, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882185, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882184, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882215, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882250, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882252, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882217, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882354, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882374, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882376, remain = 10, size = 64
+Send to executer failed.Load lib exp06_run_audit_59.so failed
+Fail to execute function  due to load errorexp06_run_audit_59
+Load lib exp06_run_audit_7.so failed
+Fail to execute function  due to load errorexp06_run_audit_7
+Load lib exp06_run_audit_43.so failed
+Fail to execute function  due to load errorexp06_run_audit_43
+Load lib exp06_run_audit_18.so failed
+Fail to execute function  due to load errorexp06_run_audit_18
+Load lib exp06_run_audit_45.so failed
+Fail to execute function  due to load errorexp06_run_audit_45
+Loaded function exp06_run_audit_5. lib_load_elasped: 405, func_load_elasped: 1
+Loaded function exp06_run_audit_46. lib_load_elasped: 299, func_load_elasped: 1
+Loaded function exp06_run_audit_25. lib_load_elasped: 349, func_load_elasped: 1
+force_push: msg_id = 1917466, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917540, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917499, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917501, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917546, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917549, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917559, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917423, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917547, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917544, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917399, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 1917502, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1917404, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 1917421, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917415, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917538, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917543, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1917508, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1917413, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1917417, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1917400, remain = -56, size = 8
+Send to executer failed.force_push: msg_id = 1917410, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917408, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917411, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1917535, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917420, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1917515, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917553, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917556, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917562, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917506, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917558, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917507, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1917459, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917561, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917550, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917539, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917440, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917412, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917552, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1917427, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1917418, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917406, remain = -56, size = 8
+Send to executer failed.force_push: msg_id = 1917527, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1917443, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1917505, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1917497, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1917435, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1917433, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1917560, remain = -54, size = 10
+Send to executer failed.

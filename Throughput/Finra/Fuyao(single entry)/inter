@@ -1,0 +1,36 @@
+  
+# fanout 10  
+  62598 requests in 1.50m, 10.15MB read
+Requests/sec:    695.33
+Transfer/sec:    115.44KB
+
+
+
+# fanout 20
+
+
+  39246 requests in 1.50m, 6.36MB read
+Requests/sec:    435.92
+Transfer/sec:     72.37KB
+
+
+# fanout 40
+
+  23320 requests in 1.50m, 3.78MB read
+Requests/sec:    259.02
+Transfer/sec:     43.00KB
+
+
+# fanout 60
+
+  18174 requests in 1.50m, 2.95MB read
+Requests/sec:    201.86
+Transfer/sec:     33.51KB
+
+
+# fanout 80
+
+  13419 requests in 1.50m, 2.18MB read
+Requests/sec:    149.04
+Transfer/sec:     24.74KB
+

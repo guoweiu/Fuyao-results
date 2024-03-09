@@ -1,0 +1,7 @@
+I0419 11:18:40.074453 Main        (347299) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:96] Register main thread: tid=347299
+I0419 11:18:40.076960 Main        (347299) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09Start[1]
+I0419 11:18:40.077149 Main        (347299) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09End[2]
+I0419 11:18:40.077230 Main        (347299) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09Register[3]
+I0419 11:18:40.077483 Main        (347299) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:107] My client_id is 11
+I0419 11:18:40.077593 Main        (347299) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:173] Use extra pipes for messages
+I0419 11:18:40.078031 Main        (347299) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:195] Handshake done

@@ -1,0 +1,12 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_marketdata. lib_load_elasped: 9377, func_load_elasped: 6
+fail release: invalid id (mem = (nil), size = 48)
+force_push: msg_id = 1533, remain = 71, size = 64
+Send to executer failed.force_push: msg_id = 1522, remain = -57, size = 7
+Send to executer failed.force_push: msg_id = 1524, remain = 71, size = 64
+Send to executer failed.force_push: msg_id = 1638, remain = 71, size = 64
+Send to executer failed.Loaded function exp06_run_audit_10. lib_load_elasped: 230, func_load_elasped: 1
+Loaded function exp06_run_audit_4. lib_load_elasped: 270, func_load_elasped: 1
+Loaded function exp06_run_audit_3. lib_load_elasped: 161, func_load_elasped: 0
+Loaded function exp06_run_audit_9. lib_load_elasped: 164, func_load_elasped: 0

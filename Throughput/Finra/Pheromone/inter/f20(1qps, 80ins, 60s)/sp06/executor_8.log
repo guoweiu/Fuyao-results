@@ -1,0 +1,12 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_run_audit_5. lib_load_elasped: 318, func_load_elasped: 3
+Loaded function exp06_run_audit_8. lib_load_elasped: 210, func_load_elasped: 8
+Loaded function exp06_run_audit_17. lib_load_elasped: 171, func_load_elasped: 1
+Loaded function exp06_marketdata. lib_load_elasped: 3382, func_load_elasped: 2
+fail release: invalid id (mem = (nil), size = 48)
+Loaded function exp06_run_audit_20. lib_load_elasped: 213, func_load_elasped: 1
+Loaded function exp06_run_audit_3. lib_load_elasped: 209, func_load_elasped: 1
+Loaded function exp06_run_audit_13. lib_load_elasped: 306, func_load_elasped: 1
+Loaded function exp06_run_audit_16. lib_load_elasped: 221, func_load_elasped: 1
+Loaded function exp06_run_audit_11. lib_load_elasped: 175, func_load_elasped: 1

@@ -1,0 +1,12 @@
+I0419 02:19:44.674604 Main        (1770115) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:96] Register main thread: tid=1770115
+E0419 02:19:44.675422 Main        (1770115) /home/lgw/Lumine-benchmarks/Lumine/lib/utils/docker.cpp:57] Cannot find docker's cgroup in /proc/self/cgroup
+I0419 02:19:44.675749 Launcher EL (1770116) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:36] Start thread: Launcher EL
+I0419 02:19:44.675857 Launcher EL (1770116) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:60] Does not find cpuset setting for IO threads (can be set by FAAS_IO_THREAD_CPUSET)
+I0419 02:19:44.675890 Launcher EL (1770116) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:78] Does not find nice setting for IO threads (can be set by FAAS_IO_THREAD_NICE)
+I0419 02:19:44.675918 Launcher EL (1770116) /home/lgw/Lumine-benchmarks/Lumine/src/host/launcher/launcher.cpp:93] Launcher: Event loop starts
+I0419 02:19:44.675985 Launcher EL (1770116) /home/lgw/Lumine-benchmarks/Lumine/src/host/launcher/engine_connection.cpp:91] EngineConnection: Connected to engine, start writing handshake message
+I0419 02:19:44.677890 Launcher EL (1770116) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09Start[1]
+I0419 02:19:44.677967 Launcher EL (1770116) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09End[2]
+I0419 02:19:44.678015 Launcher EL (1770116) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09Register[3]
+I0419 02:19:44.678231 Launcher EL (1770116) /home/lgw/Lumine-benchmarks/Lumine/src/host/launcher/engine_connection.cpp:63] EngineConnection: Handshake done
+W0419 02:19:44.689552 Launcher EL (1770116) /home/lgw/Lumine-benchmarks/Lumine/src/host/launcher/engine_connection.cpp:164] EngineConnection: nread=0, will do nothing

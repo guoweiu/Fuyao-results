@@ -1,0 +1,87 @@
+Read file config.yml
+Running executor...
+Load lib exp06_run_audit_18.so failed
+Fail to execute function  due to load errorexp06_run_audit_18
+Load lib exp06_run_audit_27.so failed
+Fail to execute function  due to load errorexp06_run_audit_27
+Load lib exp06_run_audit_11.so failed
+Fail to execute function  due to load errorexp06_run_audit_11
+Load lib exp06_run_audit_5.so failed
+Fail to execute function  due to load errorexp06_run_audit_5
+Load lib exp06_run_audit_32.so failed
+Fail to execute function  due to load errorexp06_run_audit_32
+Load lib exp06_run_audit_6.so failed
+Fail to execute function  due to load errorexp06_run_audit_6
+Load lib exp06_run_audit_19.so failed
+Fail to execute function  due to load errorexp06_run_audit_19
+Load lib exp06_run_audit_2.so failed
+Fail to execute function  due to load errorexp06_run_audit_2
+Load lib exp06_run_audit_36.so failed
+Fail to execute function  due to load errorexp06_run_audit_36
+Load lib exp06_run_audit_32.so failed
+Fail to execute function  due to load errorexp06_run_audit_32
+Load lib exp06_run_audit_33.so failed
+Fail to execute function  due to load errorexp06_run_audit_33
+Load lib exp06_run_audit_37.so failed
+Fail to execute function  due to load errorexp06_run_audit_37
+Load lib exp06_run_audit_31.so failed
+Fail to execute function  due to load errorexp06_run_audit_31
+Load lib exp06_run_audit_16.so failed
+Fail to execute function  due to load errorexp06_run_audit_16
+Load lib exp06_run_audit_22.so failed
+Fail to execute function  due to load errorexp06_run_audit_22
+Load lib exp06_run_audit_5.so failed
+Fail to execute function  due to load errorexp06_run_audit_5
+Load lib exp06_run_audit_34.so failed
+Fail to execute function  due to load errorexp06_run_audit_34
+Load lib exp06_run_audit_16.so failed
+Fail to execute function  due to load errorexp06_run_audit_16
+Load lib exp06_run_audit_2.so failed
+Fail to execute function  due to load errorexp06_run_audit_2
+Load lib exp06_run_audit_2.so failed
+Fail to execute function  due to load errorexp06_run_audit_2
+Load lib exp06_run_audit_11.so failed
+Fail to execute function  due to load errorexp06_run_audit_11
+Load lib exp06_run_audit_1.so failed
+Fail to execute function  due to load errorexp06_run_audit_1
+Load lib exp06_run_audit_37.so failed
+Fail to execute function  due to load errorexp06_run_audit_37
+Load lib exp06_run_audit_14.so failed
+Fail to execute function  due to load errorexp06_run_audit_14
+Loaded function exp06_run_audit_3. lib_load_elasped: 285, func_load_elasped: 3
+Loaded function exp06_marketdata. lib_load_elasped: 4533, func_load_elasped: 2
+force_push: msg_id = 1856518, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1856494, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 1856491, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 1856536, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1856538, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1856496, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 1856555, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1856530, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1856526, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1856520, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1856525, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1856508, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1856539, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1856492, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 1856495, remain = -56, size = 8
+Send to executer failed.force_push: msg_id = 1856521, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1856542, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1856556, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1856554, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1856543, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1856523, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1856507, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1856500, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1856528, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1856513, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1856547, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1856545, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1856498, remain = 8, size = 64
+Send to executer failed.Loaded function exp06_run_audit_25. lib_load_elasped: 362, func_load_elasped: 1
+Loaded function exp06_run_audit_50. lib_load_elasped: 380, func_load_elasped: 2
+force_push: msg_id = 1861530, remain = 75, size = 64
+Send to executer failed.force_push: msg_id = 1861535, remain = 75, size = 64
+Send to executer failed.force_push: msg_id = 1861527, remain = 75, size = 64
+Send to executer failed.force_push: msg_id = 1861393, remain = -55, size = 9
+Send to executer failed.

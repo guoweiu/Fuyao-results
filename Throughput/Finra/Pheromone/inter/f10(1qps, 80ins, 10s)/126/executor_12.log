@@ -1,0 +1,13 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_marketdata. lib_load_elasped: 7008, func_load_elasped: 3
+Loaded function exp06_run_audit_2. lib_load_elasped: 186, func_load_elasped: 0
+Loaded function exp06_run_audit_4. lib_load_elasped: 176, func_load_elasped: 1
+Loaded function exp06_run_audit_8. lib_load_elasped: 212, func_load_elasped: 1
+Loaded function exp06_run_audit_9. lib_load_elasped: 259, func_load_elasped: 1
+Loaded function exp06_run_audit_7. lib_load_elasped: 270, func_load_elasped: 1
+Loaded function exp06_run_audit_5. lib_load_elasped: 275, func_load_elasped: 1
+Loaded function exp06_marginbalance. lib_load_elasped: 275, func_load_elasped: 1
+req_id = 900002, token 35308 us.
+req_id = 1020003, token 41868 us.
+req_id = 420005, token 25866 us.

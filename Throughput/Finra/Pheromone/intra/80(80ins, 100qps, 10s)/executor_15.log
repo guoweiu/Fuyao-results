@@ -1,0 +1,85 @@
+Read file config.yml
+Running executor...
+Load lib exp06_run_audit_47.so failed
+Fail to execute function  due to load errorexp06_run_audit_47
+Load lib exp06_run_audit_2.so failed
+Fail to execute function  due to load errorexp06_run_audit_2
+Load lib exp06_run_audit_56.so failed
+Fail to execute function  due to load errorexp06_run_audit_56
+Load lib exp06_run_audit_21.so failed
+Fail to execute function  due to load errorexp06_run_audit_21
+Loaded function exp06_marketdata. lib_load_elasped: 5665, func_load_elasped: 9
+force_push: msg_id = 1881842, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1881933, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882000, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882003, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882053, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882058, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882105, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882090, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882128, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882087, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1881602, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 1882146, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882148, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882171, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882179, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882208, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882205, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882209, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1881649, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 1882243, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882244, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1881383, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 1882285, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882286, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882287, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882288, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882311, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882325, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1881651, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 1882326, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882359, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1882497, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1881654, remain = -54, size = 10
+Send to executer failed.Load lib exp06_run_audit_8.so failed
+Fail to execute function  due to load errorexp06_run_audit_8
+Load lib exp06_run_audit_50.so failed
+Fail to execute function  due to load errorexp06_run_audit_50
+Load lib exp06_run_audit_50.so failed
+Fail to execute function  due to load errorexp06_run_audit_50
+Load lib exp06_run_audit_41.so failed
+Fail to execute function  due to load errorexp06_run_audit_41
+Load lib exp06_run_audit_22.so failed
+Fail to execute function  due to load errorexp06_run_audit_22
+Load lib exp06_run_audit_14.so failed
+Fail to execute function  due to load errorexp06_run_audit_14
+Loaded function exp06_run_audit_6. lib_load_elasped: 377, func_load_elasped: 1
+force_push: msg_id = 1913300, remain = -56, size = 8
+Send to executer failed.force_push: msg_id = 1913448, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1913677, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1913676, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1913390, remain = -56, size = 8
+Send to executer failed.force_push: msg_id = 1914050, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1913302, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 1913915, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1913675, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1913396, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1913622, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1914056, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1913780, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1914029, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1913553, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1913679, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1913385, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 1913562, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1914026, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1913892, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1913885, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1913776, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1913398, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1913400, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1913929, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1913512, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1914062, remain = -54, size = 10
+Send to executer failed.

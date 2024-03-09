@@ -1,0 +1,14 @@
+Thread count 1
+Successfully set max socket number to 10000
+Notifying handler binded
+Querying handler binded
+Bucket operation handler binded
+Trigger operation handler binded
+Update status handler binded
+func create socket binded
+app regist socket binded
+func call socket binded
+forward func socket binded
+Application registered. name: exp00
+Coordinator report. notify_count: 0, query_count: 0, call_count: 101
+Coordinator report. notify_count: 0, query_count: 0, call_count: 200

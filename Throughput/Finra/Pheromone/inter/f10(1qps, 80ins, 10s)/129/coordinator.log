@@ -1,0 +1,131 @@
+Thread count 4
+Successfully set max socket number to 10000
+Successfully set max socket number to 10000
+Successfully set max socket number to 10000
+Successfully set max socket number to 10000
+Notifying handler bindedNotifying handler bindedNotifying handler binded
+
+
+Notifying handler binded
+Querying handler binded
+Querying handler binded
+Querying handler binded
+Querying handler binded
+Bucket operation handler binded
+Bucket operation handler binded
+Bucket operation handler binded
+Bucket operation handler binded
+Trigger operation handler binded
+Trigger operation handler binded
+Trigger operation handler binded
+Update status handler binded
+Update status handler binded
+Trigger operation handler binded
+Update status handler binded
+func create socket binded
+func create socket binded
+Update status handler binded
+func create socket binded
+app regist socket binded
+app regist socket binded
+func create socket binded
+app regist socket binded
+func call socket binded
+func call socket binded
+app regist socket binded
+func call socket binded
+forward func socket binded
+forward func socket binded
+forward func socket binded
+func call socket binded
+forward func socket binded
+Application registered. name: exp06
+App data-driven call exp06_marginbalance to 192.168.1.129 arg_size 10. recv: 1702544399243325, trigger: 1702544399243452, check: 1702544399243543, package: 1702544399243576, scheduled 1702544399243583.
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+App data-driven call exp06_marginbalance to 192.168.1.126 arg_size 10. recv: 1702544399440331, trigger: 1702544399440408, check: 1702544399440495, package: 1702544399440507, scheduled 1702544399440512.
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+App data-driven call exp06_marginbalance to 192.168.1.126 arg_size 10. recv: 1702544399487108, trigger: 1702544399487159, check: 1702544399487207, package: 1702544399487221, scheduled 1702544399487224.
+App data-driven call exp06_marginbalance to 192.168.1.126 arg_size 10. recv: 1702544399488418, trigger: 1702544399488471, check: 1702544399488514, package: 1702544399488522, scheduled 1702544399488525.
+App data-driven call exp06_marginbalance to 192.168.1.126 arg_size 10. recv: 1702544399488703, trigger: 1702544399488758, check: 1702544399488801, package: 1702544399488808, scheduled 1702544399488812.
+App data-driven call exp06_marginbalance to 192.168.1.126 arg_size 10. recv: 1702544399489149, trigger: 1702544399489207, check: 1702544399489254, package: 1702544399489261, scheduled 1702544399489264.
+App data-driven call exp06_marginbalance to 192.168.1.126 arg_size 10. recv: 1702544399492409, trigger: 1702544399492473, check: 1702544399492515, package: 1702544399492523, scheduled 1702544399492526.
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+No available worker found for app exp06
+App data-driven call exp06_marginbalance to 192.168.1.126 arg_size 10. recv: 1702544399517730, trigger: 1702544399517776, check: 1702544399517823, package: 1702544399517831, scheduled 1702544399517834.
+App data-driven call exp06_marginbalance to 192.168.1.126 arg_size 10. recv: 1702544399517937, trigger: 1702544399518009, check: 1702544399518054, package: 1702544399518061, scheduled 1702544399518065.
+App data-driven call exp06_marginbalance to 192.168.1.126 arg_size 10. recv: 1702544399518392, trigger: 1702544399518445, check: 1702544399518487, package: 1702544399518494, scheduled 1702544399518498.
+App data-driven call exp06_marginbalance to 192.168.1.126 arg_size 10. recv: 1702544399519441, trigger: 1702544399519497, check: 1702544399519543, package: 1702544399519550, scheduled 1702544399519554.
+App data-driven call exp06_marginbalance to 192.168.1.126 arg_size 10. recv: 1702544399519754, trigger: 1702544399519806, check: 1702544399519849, package: 1702544399519856, scheduled 1702544399519859.
+App data-driven call exp06_marginbalance to 192.168.1.126 arg_size 10. recv: 1702544399520056, trigger: 1702544399520107, check: 1702544399520151, package: 1702544399520158, scheduled 1702544399520162.
+App data-driven call exp06_marginbalance to 192.168.1.126 arg_size 10. recv: 1702544399520325, trigger: 1702544399520378, check: 1702544399520421, package: 1702544399520427, scheduled 1702544399520431.
+App data-driven call exp06_marginbalance to 192.168.1.126 arg_size 10. recv: 1702544399520619, trigger: 1702544399520667, check: 1702544399520711, package: 1702544399520718, scheduled 1702544399520721.
+App data-driven call exp06_marginbalance to 192.168.1.126 arg_size 10. recv: 1702544399520882, trigger: 1702544399520933, check: 1702544399520974, package: 1702544399520981, scheduled 1702544399520984.
+App data-driven call exp06_marginbalance to 192.168.1.126 arg_size 10. recv: 1702544399521093, trigger: 1702544399521160, check: 1702544399521203, package: 1702544399521210, scheduled 1702544399521214.
+App data-driven call exp06_marginbalance to 192.168.1.126 arg_size 10. recv: 1702544399521386, trigger: 1702544399521436, check: 1702544399521481, package: 1702544399521487, scheduled 1702544399521491.
+Coordinator report. notify_count: 0, query_count: 0, call_count: 0Coordinator report. notify_count: 953, query_count: 0, call_count: 6828
+
+Coordinator report. notify_count: 0, query_count: 0, call_count: 0
+Coordinator report. notify_count: 0, query_count: 0, call_count: 0

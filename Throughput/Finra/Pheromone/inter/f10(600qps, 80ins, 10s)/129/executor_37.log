@@ -1,0 +1,38 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_marketdata. lib_load_elasped: 13293, func_load_elasped: 5
+fail release: invalid id (mem = (nil), size = 48)
+Loaded function exp06_run_audit_2. lib_load_elasped: 391, func_load_elasped: 2
+Loaded function exp06_run_audit_8. lib_load_elasped: 336, func_load_elasped: 2
+Loaded function exp06_run_audit_5. lib_load_elasped: 348, func_load_elasped: 2
+Loaded function exp06_run_audit_10. lib_load_elasped: 372, func_load_elasped: 2
+Loaded function exp06_run_audit_3. lib_load_elasped: 283, func_load_elasped: 1
+Loaded function exp06_run_audit_6. lib_load_elasped: 271, func_load_elasped: 1
+Loaded function exp06_run_audit_4. lib_load_elasped: 289, func_load_elasped: 1
+Loaded function exp06_run_audit_1. lib_load_elasped: 270, func_load_elasped: 1
+Loaded function exp06_run_audit_9. lib_load_elasped: 228, func_load_elasped: 1
+force_push: msg_id = 2621443, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 2621843, remain = 73, size = 64
+Send to executer failed.force_push: msg_id = 2626392, remain = 72, size = 64
+Send to executer failed.Loaded function exp06_run_audit_7. lib_load_elasped: 488, func_load_elasped: 2
+force_push: msg_id = 2632349, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 2637814, remain = -56, size = 8
+Send to executer failed.force_push: msg_id = 2637813, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 2637807, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 2637815, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 2637810, remain = 8, size = 64
+force_push: msg_id = 2637806, remain = 8, size = 64
+force_push: msg_id = 2637812, remain = 72, size = 64
+Send to executer failed.Send to executer failed.force_push: msg_id = 2637809, remain = 8, size = 64
+Send to executer failed.Send to executer failed.force_push: msg_id = 2650552, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 2653490, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 2653491, remain = 72, size = 64
+Send to executer failed.Loaded function exp06_marginbalance. lib_load_elasped: 606, func_load_elasped: 2
+req_id = 1020103, token 3668465 us.
+req_id = 1140257, token 3809854 us.
+req_id = 1080161, token 8498596 us.
+req_id = 840236, token 2235898 us.
+req_id = 540156, token 5328783 us.
+req_id = 600229, token 289002 us.
+req_id = 240249, token 243341 us.
+req_id = 480061, token 166819 us.

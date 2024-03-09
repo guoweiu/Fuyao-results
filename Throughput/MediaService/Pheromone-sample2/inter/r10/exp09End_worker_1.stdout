@@ -1,0 +1,12 @@
+I0420 16:01:11.351031 Main        (1920682) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:96] Register main thread: tid=1920682
+I0420 16:01:11.352942 Main        (1920682) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09Start[1]
+I0420 16:01:11.353088 Main        (1920682) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09End[2]
+I0420 16:01:11.353145 Main        (1920682) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09Register[3]
+I0420 16:01:11.353190 Main        (1920682) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09StartFinra[4]
+I0420 16:01:11.353343 Main        (1920682) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:107] My client_id is 10
+I0420 16:01:11.353439 Main        (1920682) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:173] Use extra pipes for messages
+I0420 16:01:11.354259 Main        (1920682) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:195] Handshake done
+I0420 16:01:41.215547 Main        (1920682) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 2760006, end_time = 1682006501215535
+I0420 16:01:41.216704 Main        (1920682) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 1380006, end_time = 1682006501216702
+I0420 16:01:41.217483 Main        (1920682) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 2160005, end_time = 1682006501217477
+I0420 16:01:41.218680 Main        (1920682) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 2940005, end_time = 1682006501218674

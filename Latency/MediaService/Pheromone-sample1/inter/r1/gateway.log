@@ -1,0 +1,424 @@
+I0419 11:52:14.034198 Main        (597340) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:96] Register main thread: tid=597340
+I0419 11:52:14.035501 Main        (597340) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09Start[1]
+I0419 11:52:14.035556 Main        (597340) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09End[2]
+I0419 11:52:14.035588 Main        (597340) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09Register[3]
+I0419 11:52:14.035738 Main        (597340) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:75] Server: Start 4 IO workers
+I0419 11:52:14.035985 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:36] Start thread: IO-0 EL
+I0419 11:52:14.036073 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:166] IO-0: Event loop starts
+I0419 11:52:14.036177 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:36] Start thread: IO-1 EL
+I0419 11:52:14.036263 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:166] IO-1: Event loop starts
+I0419 11:52:14.036348 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:36] Start thread: IO-2 EL
+I0419 11:52:14.036407 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:166] IO-2: Event loop starts
+I0419 11:52:14.036516 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:36] Start thread: IO-3 EL
+I0419 11:52:14.036574 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:166] IO-3: Event loop starts
+I0419 11:52:14.036679 Main        (597340) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:94] Server: Listen on 192.168.1.129:10014 for engine connections
+I0419 11:52:14.036869 Main        (597340) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:102] Server: Listen on 192.168.1.129:8084 for HTTP requests
+I0419 11:52:14.036928 Main        (597340) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:109] Server: Listen on 192.168.1.129:50014 for gRPC requests
+I0419 11:52:14.037056 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:36] Start thread: Server EL
+I0419 11:52:14.037124 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/lib/server/server_base.cpp:49] Server: Event loop starts
+I0419 11:52:15.964398 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:419] Server: Number of connected nodes: 1
+I0419 11:52:15.964483 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:423] Server: New engine connection (node_id=102, conn_id=0) assigned to IO worker 0
+I0419 11:52:15.964645 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:423] Server: New engine connection (node_id=102, conn_id=1) assigned to IO worker 1
+I0419 11:52:15.964652 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 104, total of type 104 is 1
+I0419 11:52:15.964736 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:423] Server: New engine connection (node_id=102, conn_id=2) assigned to IO worker 2
+I0419 11:52:15.964824 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:423] Server: New engine connection (node_id=102, conn_id=3) assigned to IO worker 3
+I0419 11:52:15.964840 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 104, total of type 104 is 1
+I0419 11:52:15.964795 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 104, total of type 104 is 1
+I0419 11:52:15.964911 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:423] Server: New engine connection (node_id=102, conn_id=4) assigned to IO worker 0
+I0419 11:52:15.964958 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 104, total of type 104 is 1
+I0419 11:52:15.965214 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 104, total of type 104 is 2
+I0419 11:52:15.967884 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:423] Server: New engine connection (node_id=102, conn_id=5) assigned to IO worker 1
+I0419 11:52:15.967980 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:423] Server: New engine connection (node_id=102, conn_id=6) assigned to IO worker 2
+I0419 11:52:15.967993 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 104, total of type 104 is 2
+I0419 11:52:15.968053 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:423] Server: New engine connection (node_id=102, conn_id=7) assigned to IO worker 3
+I0419 11:52:15.968067 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 104, total of type 104 is 2
+I0419 11:52:15.968156 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 104, total of type 104 is 2
+I0419 11:53:37.459893 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:37.460148 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 1
+I0419 11:53:37.460260 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/http_connection.cpp:86] HttpConnection closed by client
+I0419 11:53:37.460328 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:150] IO-0: One connection of type 0 closed, total of type 0 is 0
+I0419 11:53:37.460771 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:37.460909 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 0, total of type 0 is 1
+I0419 11:53:37.461097 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=1
+I0419 11:53:37.461352 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=1] to Engine
+I0419 11:53:37.510105 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:37.510205 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 0, total of type 0 is 1
+I0419 11:53:37.510325 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=2
+I0419 11:53:37.510446 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=2] to Engine
+I0419 11:53:38.461958 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=3
+I0419 11:53:38.462058 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=3] to Engine
+I0419 11:53:38.469228 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:38.469350 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 0, total of type 0 is 1
+I0419 11:53:38.469538 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=4
+I0419 11:53:38.469642 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=4] to Engine
+I0419 11:53:39.462119 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=5
+I0419 11:53:39.462216 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=5] to Engine
+I0419 11:53:39.468807 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:39.468887 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 1
+I0419 11:53:39.468988 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=6
+I0419 11:53:39.469064 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=6] to Engine
+I0419 11:53:40.462116 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=7
+I0419 11:53:40.462203 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=7] to Engine
+I0419 11:53:40.469178 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:40.469288 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 0, total of type 0 is 2
+I0419 11:53:40.469414 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=8
+I0419 11:53:40.469486 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=8] to Engine
+I0419 11:53:41.462536 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=9
+I0419 11:53:41.462629 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=9] to Engine
+I0419 11:53:41.469436 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:41.469524 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 0, total of type 0 is 2
+I0419 11:53:41.469624 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=10
+I0419 11:53:41.469682 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=10] to Engine
+I0419 11:53:42.462583 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=11
+I0419 11:53:42.462670 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=11] to Engine
+I0419 11:53:42.469520 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:42.469664 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 0, total of type 0 is 2
+I0419 11:53:42.469803 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=12
+I0419 11:53:42.469878 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=12] to Engine
+I0419 11:53:43.462451 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=13
+I0419 11:53:43.462542 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=13] to Engine
+I0419 11:53:43.469303 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:43.469391 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 2
+I0419 11:53:43.469492 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=14
+I0419 11:53:43.469547 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=14] to Engine
+I0419 11:53:44.462387 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=15
+I0419 11:53:44.462475 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=15] to Engine
+I0419 11:53:44.469499 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:44.469588 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 0, total of type 0 is 3
+I0419 11:53:44.469709 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=16
+I0419 11:53:44.469782 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=16] to Engine
+I0419 11:53:45.462191 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=17
+I0419 11:53:45.462283 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=17] to Engine
+I0419 11:53:45.469601 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:45.469682 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 0, total of type 0 is 3
+I0419 11:53:45.469781 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=18
+I0419 11:53:45.469839 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=18] to Engine
+I0419 11:53:46.462229 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=19
+I0419 11:53:46.462317 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=19] to Engine
+I0419 11:53:46.468818 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:46.468918 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 0, total of type 0 is 3
+I0419 11:53:46.469056 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=20
+I0419 11:53:46.469130 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=20] to Engine
+I0419 11:53:47.461997 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=21
+I0419 11:53:47.462047 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests counter: value=21, rate=2.1 per sec
+I0419 11:53:47.462136 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] dispatched_requests[102] counter: value=21, rate=2.1 per sec
+I0419 11:53:47.462186 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=21] to Engine
+I0419 11:53:47.469089 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:47.469169 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 3
+I0419 11:53:47.469268 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=22
+I0419 11:53:47.469301 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[2] counter: value=11, rate=1.10464 per sec
+I0419 11:53:47.469358 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=22] to Engine
+I0419 11:53:48.461690 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=23
+I0419 11:53:48.461746 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[1] counter: value=12, rate=1.09091 per sec
+I0419 11:53:48.461809 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=23] to Engine
+I0419 11:53:48.468456 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:48.468553 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 0, total of type 0 is 4
+I0419 11:53:48.468674 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=24
+I0419 11:53:48.468745 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=24] to Engine
+I0419 11:53:49.462145 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=25
+I0419 11:53:49.462234 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=25] to Engine
+I0419 11:53:49.468874 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:49.468972 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 0, total of type 0 is 4
+I0419 11:53:49.469072 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=26
+I0419 11:53:49.469127 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=26] to Engine
+I0419 11:53:50.461402 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=27
+I0419 11:53:50.461487 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=27] to Engine
+I0419 11:53:50.467727 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:50.520833 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 0, total of type 0 is 4
+I0419 11:53:50.520972 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=28
+I0419 11:53:50.521047 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=28] to Engine
+I0419 11:53:51.461098 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=29
+I0419 11:53:51.461185 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=29] to Engine
+I0419 11:53:51.467988 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:51.468076 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 4
+I0419 11:53:51.468191 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=30
+I0419 11:53:51.468248 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=30] to Engine
+I0419 11:53:52.461486 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=31
+I0419 11:53:52.461601 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=31] to Engine
+I0419 11:53:52.468909 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:52.469005 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 0, total of type 0 is 5
+I0419 11:53:52.469125 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=32
+I0419 11:53:52.469196 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=32] to Engine
+I0419 11:53:53.461937 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=33
+I0419 11:53:53.462028 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=33] to Engine
+I0419 11:53:53.469491 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:53.469573 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 0, total of type 0 is 5
+I0419 11:53:53.469673 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=34
+I0419 11:53:53.469731 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=34] to Engine
+I0419 11:53:54.462206 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=35
+I0419 11:53:54.462294 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=35] to Engine
+I0419 11:53:54.468859 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:54.468960 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 0, total of type 0 is 5
+I0419 11:53:54.469098 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=36
+I0419 11:53:54.469173 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=36] to Engine
+I0419 11:53:55.461342 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=37
+I0419 11:53:55.461428 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=37] to Engine
+I0419 11:53:55.468068 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:55.468147 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 5
+I0419 11:53:55.468246 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=38
+I0419 11:53:55.468300 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=38] to Engine
+I0419 11:53:56.461520 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=39
+I0419 11:53:56.461612 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=39] to Engine
+I0419 11:53:56.468159 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:56.468262 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 0, total of type 0 is 6
+I0419 11:53:56.468383 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=40
+I0419 11:53:56.468454 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=40] to Engine
+I0419 11:53:57.460993 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=41
+I0419 11:53:57.461059 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests counter: value=41, rate=2.0002 per sec
+I0419 11:53:57.461111 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] dispatched_requests[102] counter: value=41, rate=2.0004 per sec
+I0419 11:53:57.461160 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=41] to Engine
+I0419 11:53:57.467876 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:57.467968 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 0, total of type 0 is 6
+I0419 11:53:57.468069 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=42
+I0419 11:53:57.468102 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[2] counter: value=21, rate=1.0002 per sec
+I0419 11:53:57.468158 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=42] to Engine
+I0419 11:53:58.461831 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=43
+I0419 11:53:58.461919 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=43] to Engine
+I0419 11:53:58.468452 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:58.468581 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 0, total of type 0 is 6
+I0419 11:53:58.468718 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=44
+I0419 11:53:58.468825 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=44] to Engine
+I0419 11:53:59.461606 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=45
+I0419 11:53:59.461665 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[1] counter: value=23, rate=1.00009 per sec
+I0419 11:53:59.461728 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=45] to Engine
+I0419 11:53:59.468443 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:53:59.468558 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 6
+I0419 11:53:59.468680 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=46
+I0419 11:53:59.468739 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=46] to Engine
+I0419 11:54:00.461864 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=47
+I0419 11:54:00.461956 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=47] to Engine
+I0419 11:54:00.468628 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:00.468722 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 0, total of type 0 is 7
+I0419 11:54:00.468855 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=48
+I0419 11:54:00.468930 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=48] to Engine
+I0419 11:54:01.462214 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=49
+I0419 11:54:01.462302 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=49] to Engine
+I0419 11:54:01.467814 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:01.467901 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 0, total of type 0 is 7
+I0419 11:54:01.468003 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=50
+I0419 11:54:01.468059 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=50] to Engine
+I0419 11:54:02.460927 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=51
+I0419 11:54:02.461015 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=51] to Engine
+I0419 11:54:03.462448 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=52
+I0419 11:54:03.462535 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=52] to Engine
+I0419 11:54:03.469407 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:03.469510 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 0, total of type 0 is 7
+I0419 11:54:03.469648 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=53
+I0419 11:54:03.469724 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=53] to Engine
+I0419 11:54:04.461739 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=54
+I0419 11:54:04.461827 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=54] to Engine
+I0419 11:54:04.468466 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:04.468548 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 7
+I0419 11:54:04.468655 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=55
+I0419 11:54:04.468733 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=55] to Engine
+I0419 11:54:05.461554 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=56
+I0419 11:54:05.461639 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=56] to Engine
+I0419 11:54:05.466781 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:05.466880 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 0, total of type 0 is 8
+I0419 11:54:05.467011 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=57
+I0419 11:54:05.467082 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=57] to Engine
+I0419 11:54:06.461104 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=58
+I0419 11:54:06.461190 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=58] to Engine
+I0419 11:54:06.468977 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:06.469067 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 0, total of type 0 is 8
+I0419 11:54:06.469168 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=59
+I0419 11:54:06.469223 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=59] to Engine
+I0419 11:54:07.460901 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=60
+I0419 11:54:07.460952 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests counter: value=60, rate=1.90019 per sec
+I0419 11:54:07.461002 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] dispatched_requests[102] counter: value=60, rate=1.90019 per sec
+I0419 11:54:07.461051 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=60] to Engine
+I0419 11:54:07.468665 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:07.468785 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 0, total of type 0 is 8
+I0419 11:54:07.468925 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=61
+I0419 11:54:07.468972 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[2] counter: value=30, rate=0.9 per sec
+I0419 11:54:07.469076 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=61] to Engine
+I0419 11:54:08.461855 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=62
+I0419 11:54:08.461940 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=62] to Engine
+I0419 11:54:08.469369 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:08.469456 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 8
+I0419 11:54:08.469562 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=63
+I0419 11:54:08.469619 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=63] to Engine
+I0419 11:54:09.461767 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=64
+I0419 11:54:09.461858 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=64] to Engine
+I0419 11:54:09.470236 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:09.470329 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 0, total of type 0 is 9
+I0419 11:54:09.470450 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=65
+I0419 11:54:09.470524 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=65] to Engine
+I0419 11:54:10.462648 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=66
+I0419 11:54:10.462712 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[1] counter: value=34, rate=0.999909 per sec
+I0419 11:54:10.462779 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=66] to Engine
+I0419 11:54:10.471266 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:10.471351 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 0, total of type 0 is 9
+I0419 11:54:10.471454 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=67
+I0419 11:54:10.471512 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=67] to Engine
+I0419 11:54:11.461543 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=68
+I0419 11:54:11.461636 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=68] to Engine
+I0419 11:54:11.469591 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:11.469692 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 0, total of type 0 is 9
+I0419 11:54:11.469830 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=69
+I0419 11:54:11.469906 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=69] to Engine
+I0419 11:54:12.461413 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=70
+I0419 11:54:12.461503 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=70] to Engine
+I0419 11:54:12.468954 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:12.469035 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 9
+I0419 11:54:12.469142 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=71
+I0419 11:54:12.469198 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=71] to Engine
+I0419 11:54:13.461340 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=72
+I0419 11:54:13.461432 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=72] to Engine
+I0419 11:54:13.468975 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:13.469067 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 0, total of type 0 is 10
+I0419 11:54:13.469198 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=73
+I0419 11:54:13.469272 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=73] to Engine
+I0419 11:54:14.461728 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=74
+I0419 11:54:14.461818 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=74] to Engine
+I0419 11:54:14.469693 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:14.469775 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 0, total of type 0 is 10
+I0419 11:54:14.469878 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=75
+I0419 11:54:14.469934 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=75] to Engine
+I0419 11:54:15.462416 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=76
+I0419 11:54:15.462507 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=76] to Engine
+I0419 11:54:15.470213 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:15.470308 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 0, total of type 0 is 10
+I0419 11:54:15.470462 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=77
+I0419 11:54:15.470538 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=77] to Engine
+I0419 11:54:16.461713 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=78
+I0419 11:54:16.461800 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=78] to Engine
+I0419 11:54:16.469759 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:16.469842 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 10
+I0419 11:54:16.469948 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=79
+I0419 11:54:16.470005 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=79] to Engine
+I0419 11:54:17.460985 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=80
+I0419 11:54:17.461034 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests counter: value=80, rate=2 per sec
+I0419 11:54:17.461084 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] dispatched_requests[102] counter: value=80, rate=2 per sec
+I0419 11:54:17.461132 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=80] to Engine
+I0419 11:54:17.468812 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:17.468904 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 0, total of type 0 is 11
+I0419 11:54:17.469034 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=81
+I0419 11:54:17.469079 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[2] counter: value=40, rate=1 per sec
+I0419 11:54:17.469149 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=81] to Engine
+I0419 11:54:18.461106 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=82
+I0419 11:54:18.461190 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=82] to Engine
+I0419 11:54:18.469440 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:18.469521 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 0, total of type 0 is 11
+I0419 11:54:18.469624 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=83
+I0419 11:54:18.469680 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=83] to Engine
+I0419 11:54:19.461786 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=84
+I0419 11:54:19.461894 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=84] to Engine
+I0419 11:54:19.470604 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:19.470710 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 0, total of type 0 is 11
+I0419 11:54:19.470848 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=85
+I0419 11:54:19.470924 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=85] to Engine
+I0419 11:54:20.462099 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=86
+I0419 11:54:20.462187 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=86] to Engine
+I0419 11:54:20.470152 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:20.470234 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 11
+I0419 11:54:20.470338 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=87
+I0419 11:54:20.470394 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=87] to Engine
+I0419 11:54:21.461187 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=88
+I0419 11:54:21.461245 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[1] counter: value=45, rate=1.00018 per sec
+I0419 11:54:21.461309 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=88] to Engine
+I0419 11:54:21.468910 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:21.469005 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 0, total of type 0 is 12
+I0419 11:54:21.469126 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=89
+I0419 11:54:21.469197 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=89] to Engine
+I0419 11:54:22.461047 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=90
+I0419 11:54:22.461132 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=90] to Engine
+I0419 11:54:22.469137 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:22.469220 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 0, total of type 0 is 12
+I0419 11:54:22.469324 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=91
+I0419 11:54:22.469421 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=91] to Engine
+I0419 11:54:23.461003 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=92
+I0419 11:54:23.461090 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=92] to Engine
+I0419 11:54:23.468945 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:23.469040 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 0, total of type 0 is 12
+I0419 11:54:23.469178 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=93
+I0419 11:54:23.469253 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=93] to Engine
+I0419 11:54:24.461472 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=94
+I0419 11:54:24.461562 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=94] to Engine
+I0419 11:54:24.469479 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:24.469562 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 12
+I0419 11:54:24.469664 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=95
+I0419 11:54:24.469719 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=95] to Engine
+I0419 11:54:25.461052 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=96
+I0419 11:54:25.461151 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=96] to Engine
+I0419 11:54:25.469158 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:25.469270 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 0, total of type 0 is 13
+I0419 11:54:25.469391 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=97
+I0419 11:54:25.469462 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=97] to Engine
+I0419 11:54:26.460970 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=98
+I0419 11:54:26.461056 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=98] to Engine
+I0419 11:54:26.469419 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:26.469519 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 0, total of type 0 is 13
+I0419 11:54:26.469636 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=99
+I0419 11:54:26.469693 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=99] to Engine
+I0419 11:54:27.461187 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=100
+I0419 11:54:27.461237 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests counter: value=100, rate=2 per sec
+I0419 11:54:27.461289 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] dispatched_requests[102] counter: value=100, rate=2 per sec
+I0419 11:54:27.461338 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=100] to Engine
+I0419 11:54:27.469760 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:27.469893 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 0, total of type 0 is 13
+I0419 11:54:27.470029 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=101
+I0419 11:54:27.470074 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[2] counter: value=50, rate=1 per sec
+I0419 11:54:27.470138 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=101] to Engine
+I0419 11:54:28.461013 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=102
+I0419 11:54:28.461098 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=102] to Engine
+I0419 11:54:28.469528 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:28.469625 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 13
+I0419 11:54:28.469733 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=103
+I0419 11:54:28.469791 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=103] to Engine
+I0419 11:54:29.460970 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=104
+I0419 11:54:29.461059 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=104] to Engine
+I0419 11:54:30.461733 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=105
+I0419 11:54:30.461825 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=105] to Engine
+I0419 11:54:30.469585 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:30.469679 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 0, total of type 0 is 14
+I0419 11:54:30.469823 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=106
+I0419 11:54:30.469895 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=106] to Engine
+I0419 11:54:31.461384 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=107
+I0419 11:54:31.461473 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=107] to Engine
+I0419 11:54:31.469012 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:31.469098 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 0, total of type 0 is 14
+I0419 11:54:31.469202 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=108
+I0419 11:54:31.469258 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=108] to Engine
+I0419 11:54:32.461067 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=109
+I0419 11:54:32.461124 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[1] counter: value=56, rate=1.00009 per sec
+I0419 11:54:32.461188 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=109] to Engine
+I0419 11:54:32.466728 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:32.466824 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 0, total of type 0 is 14
+I0419 11:54:32.466961 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=110
+I0419 11:54:32.467035 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=110] to Engine
+I0419 11:54:33.461353 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=111
+I0419 11:54:33.461439 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=111] to Engine
+I0419 11:54:33.469459 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:33.469542 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 14
+I0419 11:54:33.469665 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=112
+I0419 11:54:33.469723 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=112] to Engine
+I0419 11:54:34.461658 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=113
+I0419 11:54:34.461747 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=113] to Engine
+I0419 11:54:34.469721 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:34.469828 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 0, total of type 0 is 15
+I0419 11:54:34.469955 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=114
+I0419 11:54:34.470027 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=114] to Engine
+I0419 11:54:35.461678 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=115
+I0419 11:54:35.461765 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=115] to Engine
+I0419 11:54:35.533488 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:35.533585 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 0, total of type 0 is 15
+I0419 11:54:35.533689 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=116
+I0419 11:54:35.533744 IO-2 EL     (597343) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=116] to Engine
+I0419 11:54:36.461475 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=117
+I0419 11:54:36.461562 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=117] to Engine
+I0419 11:54:36.469933 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:36.470043 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 0, total of type 0 is 15
+I0419 11:54:36.470178 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=118
+I0419 11:54:36.470253 IO-3 EL     (597344) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=118] to Engine
+I0419 11:54:37.460976 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=1, client_id=0, call_id=119
+I0419 11:54:37.461028 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests counter: value=119, rate=1.90019 per sec
+I0419 11:54:37.461077 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] dispatched_requests[102] counter: value=119, rate=1.90019 per sec
+I0419 11:54:37.461127 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=1,client_id=0,call_id=119] to Engine
+I0419 11:54:37.465744 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/http_connection.cpp:86] HttpConnection closed by client
+I0419 11:54:37.465837 IO-1 EL     (597342) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:150] IO-1: One connection of type 0 closed, total of type 0 is 14
+I0419 11:54:37.469340 Server EL   (597345) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:444] Analyze latency: Gateway accepted a new HTTP connection
+I0419 11:54:37.469447 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 15
+I0419 11:54:37.469554 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:149] OnNewHttpFuncCall: func_id=2, client_id=0, call_id=120
+I0419 11:54:37.469588 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[2] counter: value=59, rate=0.90009 per sec
+I0419 11:54:37.469637 IO-0 EL     (597341) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:365] Analyze latency: Gateway will dispatch a function call[func_id=2,client_id=0,call_id=120] to Engine

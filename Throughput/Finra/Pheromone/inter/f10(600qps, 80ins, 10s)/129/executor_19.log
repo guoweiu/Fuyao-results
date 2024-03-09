@@ -1,0 +1,20 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_marketdata. lib_load_elasped: 13022, func_load_elasped: 7
+Loaded function exp06_run_audit_9. lib_load_elasped: 271, func_load_elasped: 1
+Loaded function exp06_run_audit_3. lib_load_elasped: 232, func_load_elasped: 1
+Loaded function exp06_run_audit_10. lib_load_elasped: 175, func_load_elasped: 1
+Loaded function exp06_run_audit_6. lib_load_elasped: 177, func_load_elasped: 1
+Loaded function exp06_run_audit_5. lib_load_elasped: 189, func_load_elasped: 1
+Loaded function exp06_run_audit_8. lib_load_elasped: 173, func_load_elasped: 1
+Loaded function exp06_run_audit_7. lib_load_elasped: 346, func_load_elasped: 1
+Loaded function exp06_run_audit_2. lib_load_elasped: 451, func_load_elasped: 4
+Loaded function exp06_run_audit_1. lib_load_elasped: 332, func_load_elasped: 1
+force_push: msg_id = 2633453, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 2643102, remain = 72, size = 64
+Send to executer failed.Loaded function exp06_run_audit_4. lib_load_elasped: 339, func_load_elasped: 1
+force_push: msg_id = 2652733, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 2669066, remain = 72, size = 64
+Send to executer failed.Loaded function exp06_marginbalance. lib_load_elasped: 362, func_load_elasped: 1
+req_id = 240057, token 7504330 us.
+req_id = 660280, token 2139664 us.

@@ -1,0 +1,24 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_run_audit_7. lib_load_elasped: 447, func_load_elasped: 3
+Loaded function exp06_marketdata. lib_load_elasped: 5791, func_load_elasped: 3
+force_push: msg_id = 3282982, remain = 75, size = 64
+Send to executer failed.Loaded function exp06_run_audit_67. lib_load_elasped: 422, func_load_elasped: 3
+Loaded function exp06_run_audit_29. lib_load_elasped: 384, func_load_elasped: 2
+Loaded function exp06_run_audit_78. lib_load_elasped: 328, func_load_elasped: 1
+Loaded function exp06_run_audit_45. lib_load_elasped: 318, func_load_elasped: 1
+Loaded function exp06_run_audit_76. lib_load_elasped: 311, func_load_elasped: 2
+force_push: msg_id = 3289207, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3289160, remain = -56, size = 8
+Send to executer failed.force_push: msg_id = 3289283, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3289352, remain = 74, size = 64
+Send to executer failed.Loaded function exp06_run_audit_42. lib_load_elasped: 316, func_load_elasped: 2
+Loaded function exp06_run_audit_23. lib_load_elasped: 336, func_load_elasped: 2
+Loaded function exp06_run_audit_55. lib_load_elasped: 257, func_load_elasped: 1
+Loaded function exp06_run_audit_4. lib_load_elasped: 288, func_load_elasped: 1
+Loaded function exp06_run_audit_21. lib_load_elasped: 298, func_load_elasped: 1
+Loaded function exp00_front. lib_load_elasped: 331, func_load_elasped: 3
+Loaded function exp00_back. lib_load_elasped: 143, func_load_elasped: 1
+chain_length = 128, payload_size = 512, token 3165143 us.
+chain_length = 128, payload_size = 512, token 3521950 us.
+chain_length = 128, payload_size = 512, token 2959401 us.

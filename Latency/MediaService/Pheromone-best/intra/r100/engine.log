@@ -1,0 +1,823 @@
+I0419 08:20:56.696074 Main        (122207) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:96] Register main thread: tid=122207
+E0419 08:20:56.696552 Main        (122207) /home/lgw/Lumine-benchmarks/Lumine/lib/utils/docker.cpp:57] Cannot find docker's cgroup in /proc/self/cgroup
+I0419 08:20:56.697503 Main        (122207) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09Start[1]
+I0419 08:20:56.697562 Main        (122207) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09End[2]
+I0419 08:20:56.697594 Main        (122207) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09Register[3]
+I0419 08:20:56.698207 Main        (122207) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:100] Engine: Start 4 IO workers
+I0419 08:20:56.698465 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:36] Start thread: IO-0 EL
+I0419 08:20:56.698549 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:166] IO-0: Event loop starts
+I0419 08:20:56.698654 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:36] Start thread: IO-1 EL
+I0419 08:20:56.698717 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:166] IO-1: Event loop starts
+I0419 08:20:56.698820 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:36] Start thread: IO-2 EL
+I0419 08:20:56.698875 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:166] IO-2: Event loop starts
+I0419 08:20:56.698987 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:36] Start thread: IO-3 EL
+I0419 08:20:56.699054 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:166] IO-3: Event loop starts
+I0419 08:20:56.699620 Main        (122207) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:138] Engine: Listen on /dev/shm/ipc6/engine.sock for IPC connections
+I0419 08:20:56.699672 Main        (122207) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:157] Engine: Listen on 0.0.0.0:10028 for agent connections
+I0419 08:20:56.727403 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:36] Start thread: Server EL
+I0419 08:20:56.727458 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/lib/server/server_base.cpp:49] Server: Event loop starts
+I0419 08:20:56.727540 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:731] Engine: New gateway connection (conn_id=0) assigned to IO worker 0
+I0419 08:20:56.727615 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:731] Engine: New gateway connection (conn_id=1) assigned to IO worker 1
+I0419 08:20:56.727660 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:731] Engine: New gateway connection (conn_id=2) assigned to IO worker 2
+I0419 08:20:56.727698 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:731] Engine: New gateway connection (conn_id=3) assigned to IO worker 3
+I0419 08:20:56.727742 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:731] Engine: New gateway connection (conn_id=4) assigned to IO worker 0
+I0419 08:20:56.727756 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 0, total of type 0 is 1
+I0419 08:20:56.727796 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/gateway_connection.cpp:147] GatewayConnection[1]: Handshake done
+I0419 08:20:56.727729 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 1
+I0419 08:20:56.727800 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 0, total of type 0 is 1
+I0419 08:20:56.727837 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/gateway_connection.cpp:147] GatewayConnection[0]: Handshake done
+I0419 08:20:56.727858 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/gateway_connection.cpp:147] GatewayConnection[2]: Handshake done
+I0419 08:20:56.727833 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 0, total of type 0 is 1
+I0419 08:20:56.727777 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:731] Engine: New gateway connection (conn_id=5) assigned to IO worker 1
+I0419 08:20:56.731093 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/gateway_connection.cpp:147] GatewayConnection[3]: Handshake done
+I0419 08:20:56.731139 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:731] Engine: New gateway connection (conn_id=6) assigned to IO worker 2
+I0419 08:20:56.731144 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 2
+I0419 08:20:56.731180 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/gateway_connection.cpp:147] GatewayConnection[4]: Handshake done
+I0419 08:20:56.731185 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:731] Engine: New gateway connection (conn_id=7) assigned to IO worker 3
+I0419 08:20:56.731196 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 0, total of type 0 is 2
+I0419 08:20:56.731229 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/gateway_connection.cpp:147] GatewayConnection[5]: Handshake done
+I0419 08:20:56.731250 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 0, total of type 0 is 2
+I0419 08:20:56.731283 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/gateway_connection.cpp:147] GatewayConnection[6]: Handshake done
+I0419 08:20:56.731288 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 0, total of type 0 is 2
+I0419 08:20:56.731320 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/gateway_connection.cpp:147] GatewayConnection[7]: Handshake done
+I0419 08:20:58.606091 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0419 08:20:58.606258 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 1, total of type 1 is 1
+I0419 08:20:58.606400 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0419 08:20:58.606429 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:22] WorkerManager: Launcher of func_id 1 connected
+I0419 08:20:58.606473 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 1 with client_id 1
+I0419 08:20:58.606563 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 1 with client_id 2
+I0419 08:20:58.606608 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 1 with client_id 3
+I0419 08:20:58.606646 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 1 with client_id 4
+I0419 08:20:58.606684 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 1 with client_id 5
+I0419 08:20:58.606720 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 1 with client_id 6
+I0419 08:20:58.606773 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 1 with client_id 7
+I0419 08:20:58.606812 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 1 with client_id 8
+I0419 08:20:58.606931 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] LauncherConnection[1]: Handshake done
+I0419 08:20:58.622301 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0419 08:20:58.622406 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0419 08:20:58.622431 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 1, total of type 1 is 1
+I0419 08:20:58.622473 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0419 08:20:58.622517 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0419 08:20:58.622511 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 1, total of type 1 is 1
+I0419 08:20:58.622541 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 1, client_id 3 connected
+I0419 08:20:58.622543 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0419 08:20:58.622576 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 1, total of type 1 is 1
+I0419 08:20:58.622594 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0419 08:20:58.622626 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 1, client_id 4 connected
+I0419 08:20:58.622649 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:46] Dispatcher[1]: min_workers=8
+I0419 08:20:58.622658 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0419 08:20:58.622645 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 1, total of type 1 is 2
+I0419 08:20:58.622684 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:50] Dispatcher[1]: max_workers=8
+I0419 08:20:58.622695 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 1, client_id 1 connected
+I0419 08:20:58.622755 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0419 08:20:58.622779 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 1, client_id 2 connected
+I0419 08:20:58.622977 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[1-3]: Handshake done
+I0419 08:20:58.622998 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[1-4]: Handshake done
+I0419 08:20:58.623007 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[1-1]: Handshake done
+I0419 08:20:58.708814 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0419 08:20:58.708861 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[1-2]: Handshake done
+I0419 08:20:58.708933 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0419 08:20:58.708945 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 1, total of type 1 is 2
+I0419 08:20:58.709006 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0419 08:20:58.709010 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0419 08:20:58.709027 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 1, client_id 5 connected
+I0419 08:20:58.709036 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 1, total of type 1 is 2
+I0419 08:20:58.709092 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0419 08:20:58.709103 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0419 08:20:58.709106 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 1, total of type 1 is 2
+I0419 08:20:58.709123 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 1, client_id 6 connected
+I0419 08:20:58.709150 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[1-5]: Handshake done
+I0419 08:20:58.709180 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0419 08:20:58.709173 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 1, total of type 1 is 3
+I0419 08:20:58.709201 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 1, client_id 7 connected
+I0419 08:20:58.709233 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0419 08:20:58.709255 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 1, client_id 8 connected
+I0419 08:20:58.709256 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[1-6]: Handshake done
+I0419 08:20:58.709321 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[1-7]: Handshake done
+I0419 08:20:58.709389 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[1-8]: Handshake done
+I0419 08:20:59.874035 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0419 08:20:59.874202 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 1, total of type 1 is 3
+I0419 08:20:59.874374 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0419 08:20:59.874404 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:22] WorkerManager: Launcher of func_id 2 connected
+I0419 08:20:59.874443 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 2 with client_id 9
+I0419 08:20:59.874550 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 2 with client_id 10
+I0419 08:20:59.874592 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 2 with client_id 11
+I0419 08:20:59.874635 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 2 with client_id 12
+I0419 08:20:59.874674 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 2 with client_id 13
+I0419 08:20:59.874712 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 2 with client_id 14
+I0419 08:20:59.874767 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 2 with client_id 15
+I0419 08:20:59.874812 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 2 with client_id 16
+I0419 08:20:59.874932 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] LauncherConnection[2]: Handshake done
+I0419 08:20:59.890402 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0419 08:20:59.890503 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0419 08:20:59.890524 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 1, total of type 1 is 3
+I0419 08:20:59.890572 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0419 08:20:59.890596 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0419 08:20:59.890599 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 1, total of type 1 is 3
+I0419 08:20:59.890619 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 2, client_id 11 connected
+I0419 08:20:59.890643 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0419 08:20:59.890670 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0419 08:20:59.890675 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 1, total of type 1 is 4
+I0419 08:20:59.890693 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 2, client_id 10 connected
+I0419 08:20:59.890732 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:46] Dispatcher[2]: min_workers=8
+I0419 08:20:59.890748 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0419 08:20:59.890737 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 1, total of type 1 is 4
+I0419 08:20:59.890755 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:50] Dispatcher[2]: max_workers=8
+I0419 08:20:59.890772 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 2, client_id 9 connected
+I0419 08:20:59.890808 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0419 08:20:59.890843 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 2, client_id 12 connected
+I0419 08:20:59.890917 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[2-11]: Handshake done
+I0419 08:20:59.890934 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[2-10]: Handshake done
+I0419 08:20:59.890939 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[2-9]: Handshake done
+I0419 08:20:59.890964 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[2-12]: Handshake done
+I0419 08:20:59.891610 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0419 08:20:59.891707 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 1, total of type 1 is 4
+I0419 08:20:59.891759 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0419 08:20:59.891777 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 2, client_id 13 connected
+I0419 08:20:59.891880 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[2-13]: Handshake done
+I0419 08:20:59.892447 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0419 08:20:59.892560 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 1, total of type 1 is 4
+I0419 08:20:59.892615 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0419 08:20:59.892635 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 2, client_id 14 connected
+I0419 08:20:59.892736 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[2-14]: Handshake done
+I0419 08:20:59.896128 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0419 08:20:59.896223 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 1, total of type 1 is 5
+I0419 08:20:59.896291 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0419 08:20:59.896312 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 2, client_id 16 connected
+I0419 08:20:59.896428 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[2-16]: Handshake done
+I0419 08:20:59.897753 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0419 08:20:59.897851 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 1, total of type 1 is 5
+I0419 08:20:59.897908 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0419 08:20:59.897927 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 2, client_id 15 connected
+I0419 08:20:59.898040 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[2-15]: Handshake done
+I0419 08:21:01.107892 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0419 08:21:01.108059 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 1, total of type 1 is 5
+I0419 08:21:01.108209 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0419 08:21:01.108237 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:22] WorkerManager: Launcher of func_id 3 connected
+I0419 08:21:01.108271 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 3 with client_id 17
+I0419 08:21:01.108404 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] LauncherConnection[3]: Handshake done
+I0419 08:21:01.123429 Server EL   (122212) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0419 08:21:01.123540 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 1, total of type 1 is 5
+I0419 08:21:01.123598 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0419 08:21:01.123619 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 3, client_id 17 connected
+I0419 08:21:01.123717 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:46] Dispatcher[3]: min_workers=1
+I0419 08:21:01.123741 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:50] Dispatcher[3]: max_workers=1
+I0419 08:21:01.123864 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[3-17]: Handshake done
+I0419 08:22:01.588224 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:01.588616 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:01.590134 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:01.591390 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:01.592444 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:01.593291 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.386074 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.386438 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.387255 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.388196 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.388865 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.390391 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.391213 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.391634 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.393423 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.589888 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.786327 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.786608 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.786976 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.787816 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.788140 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.788268 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.790070 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.791037 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.791920 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.792513 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.986766 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.988132 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.988298 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.988384 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.990347 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.990686 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.992439 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:03.992535 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:04.187158 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:04.188067 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:04.188210 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:04.588523 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:04.590462 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:04.590831 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:04.592106 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:04.592874 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:04.787608 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:04.788654 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:04.986413 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:04.987263 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:04.987740 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:04.987947 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:05.186814 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:05.187216 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:05.187864 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:05.188621 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:05.188842 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:05.191035 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:05.191141 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:05.192285 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:05.192882 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:05.387685 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:05.388003 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:05.388120 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:05.788142 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:05.988192 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:05.988594 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:06.187763 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:06.188532 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:06.387675 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:06.388510 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:06.587677 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:06.587945 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:06.589743 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:06.792990 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:06.993202 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:07.384805 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:07.385534 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:07.385663 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:07.386474 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:07.387046 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:07.387155 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:07.388271 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:07.389226 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:07.390050 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:08.788596 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:09.169484 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_external_requests counter: value=1681, rate=171.671 per sec
+I0419 08:22:09.376969 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[1] counter: value=1001, rate=100.11 per sec
+I0419 08:22:09.387978 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:09.587695 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:09.588283 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:09.591168 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] inflight_external_requests statistics (1771 samples): p30=1, p50=3, p70=5, p90=7, p99=11, p99.9=13
+I0419 08:22:09.658943 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] dispatch_delay statistics (1778 samples): p30=72, p50=2369, p70=3237, p90=5110, p99=8908, p99.9=11480
+I0419 08:22:09.699482 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] external_requests_instant_rps statistics (1779 samples): p30=555.864, p50=1058.2, p70=1893.94, p90=6802.72, p99=76923.1, p99.9=125000
+I0419 08:22:09.786842 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:09.787714 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:09.787933 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:09.788167 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:09.789837 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:09.889594 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[2] counter: value=748, rate=71.8057 per sec
+I0419 08:22:09.987183 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:09.988151 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:09.988647 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:09.990766 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:09.992316 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:10.380244 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] output_size[1] statistics (1101 samples): p30=51, p50=51, p70=51, p90=51, p99=51, p99.9=51
+I0419 08:22:10.587878 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:10.593390 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] running_workers[2] statistics (788 samples): p30=0, p50=0, p70=0, p90=0, p99=3, p99.9=5
+I0419 08:22:10.778187 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] queueing_delay[2] statistics (789 samples): p30=35, p50=41, p70=45, p90=56, p99=89, p99.9=416
+I0419 08:22:10.780202 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] idle_workers[1] statistics (1149 samples): p30=3, p50=4, p70=6, p90=7, p99=8, p99.9=8
+I0419 08:22:10.787857 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] inflight_requests[2] statistics (791 samples): p30=1, p50=1, p70=1, p90=1, p99=4, p99.9=5
+I0419 08:22:10.788180 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:10.930185 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] message_delay statistics (1961 samples): p30=20, p50=23, p70=27, p90=41, p99=189, p99.9=790
+I0419 08:22:10.978181 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] instant_rps[1] statistics (1160 samples): p30=884.173, p50=1261.03, p70=2283.1, p90=7518.8, p99=12195.1, p99.9=15151.5
+I0419 08:22:10.978804 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] queueing_delay[1] statistics (1161 samples): p30=38, p50=43, p70=49, p90=80, p99=2678, p99.9=6508
+I0419 08:22:11.181280 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] running_delay[1] statistics (1181 samples): p30=2928, p50=3521, p70=4408, p90=6114, p99=10445, p99.9=12414
+I0419 08:22:11.346645 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] dispatch_overhead statistics (2030 samples): p30=141, p50=2529, p70=3434, p90=5181, p99=9444, p99.9=12138
+I0419 08:22:11.370493 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] output_size[2] statistics (831 samples): p30=0, p50=0, p70=0, p90=0, p99=0, p99.9=0
+I0419 08:22:11.386658 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:11.387570 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:11.389189 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:11.389370 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:11.390229 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:11.391665 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:11.392608 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:11.392990 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:11.490694 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] input_size[2] statistics (838 samples): p30=6, p50=6, p70=6, p90=6, p99=6, p99.9=6
+I0419 08:22:11.578045 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] input_size[1] statistics (1221 samples): p30=128, p50=131, p70=136, p90=149, p99=169, p99.9=177
+I0419 08:22:11.582126 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] instant_rps[2] statistics (841 samples): p30=65.5351, p50=176.678, p70=641.849, p90=2840.91, p99=12820.5, p99.9=20000
+I0419 08:22:11.587325 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:11.587783 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:11.587899 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:11.590622 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:11.590994 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:11.592136 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:11.592590 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:11.638141 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] idle_workers[2] statistics (856 samples): p30=8, p50=8, p70=8, p90=8, p99=8, p99.9=8
+I0419 08:22:11.777495 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] inflight_requests[1] statistics (1241 samples): p30=3, p50=5, p70=6, p90=8, p99=11, p99.9=13
+I0419 08:22:11.780048 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] running_workers[1] statistics (1249 samples): p30=2, p50=4, p70=5, p90=7, p99=8, p99.9=8
+I0419 08:22:11.792832 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] max_concurrency[1] statistics (1259 samples): p30=8, p50=8, p70=8, p90=8, p99=8, p99.9=8
+I0419 08:22:11.830831 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] running_delay[2] statistics (858 samples): p30=174, p50=201, p70=224, p90=264, p99=520, p99.9=838
+I0419 08:22:12.149476 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] estimated_concurrency[2] statistics (746 samples): p30=0.318575, p50=0.354581, p70=0.38289, p90=0.404169, p99=0.409249, p99.9=0.410663
+I0419 08:22:12.271757 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] max_concurrency[2] statistics (878 samples): p30=8, p50=8, p70=8, p90=8, p99=8, p99.9=8
+I0419 08:22:12.388290 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:12.388553 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:12.577896 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] estimated_rps[1] statistics (1188 samples): p30=2654.44, p50=2747.14, p70=2837.39, p90=2933.77, p99=2965.02, p99.9=2969.22
+I0419 08:22:12.988058 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:13.197669 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] estimated_rps[2] statistics (783 samples): p30=1566.49, p50=1781.32, p70=1932.21, p90=2029.13, p99=2042.13, p99.9=2050.38
+I0419 08:22:13.377874 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] estimated_concurrency[1] statistics (1268 samples): p30=9.16488, p50=9.63583, p70=9.79613, p90=9.96776, p99=10.0496, p99.9=10.0649
+I0419 08:22:13.586488 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:13.588250 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:13.588355 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:13.590711 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:13.591504 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:13.591778 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:14.183031 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] uv_async_delay[IO-3] statistics (576 samples): p30=21, p50=24, p70=28, p90=53, p99=251, p99.9=355
+I0419 08:22:14.187743 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:14.188888 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:14.387278 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] uv_async_delay[IO-1] statistics (543 samples): p30=20, p50=24, p70=29, p90=59, p99=247, p99.9=459
+I0419 08:22:14.388560 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.177854 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] uv_async_delay[IO-0] statistics (381 samples): p30=19, p50=22, p70=26, p90=57, p99=166, p99.9=259
+I0419 08:22:15.388695 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.391217 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.392949 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.588688 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.589852 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.787237 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.787452 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.787897 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.788681 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.789944 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.791238 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.792394 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.792695 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.986539 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.987059 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.987221 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.987889 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.988535 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.990435 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.991207 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.992287 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:15.992441 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:16.188288 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:16.188790 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:16.189994 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:16.387946 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:16.388293 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:17.387293 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:17.388398 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:17.588304 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:17.588442 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:17.589940 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:17.591270 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:17.592167 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:17.592624 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.186794 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.187724 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.387104 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.387208 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.388504 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.388642 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.586999 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.587367 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.587912 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.588027 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.588168 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.589796 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.591151 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.591510 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.593194 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.977496 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_external_requests counter: value=2916, rate=125.918 per sec
+I0419 08:22:18.978157 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] inflight_external_requests statistics (1145 samples): p30=3, p50=5, p70=6, p90=8, p99=12, p99.9=14
+I0419 08:22:18.985259 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.985560 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.985715 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.986091 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.986637 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.987130 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.988411 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.988567 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.990444 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.991326 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] dispatch_delay statistics (1138 samples): p30=2680, p50=3504, p70=4409, p90=6041, p99=10509, p99.9=12217
+I0419 08:22:18.991563 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.992648 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:18.992805 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:19.178301 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] external_requests_instant_rps statistics (1156 samples): p30=682.594, p50=1111.11, p70=1956.95, p90=6535.95, p99=52631.6, p99.9=125000
+I0419 08:22:19.377736 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[1] counter: value=2001, rate=100 per sec
+I0419 08:22:19.580114 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] output_size[1] statistics (920 samples): p30=51, p50=51, p70=51, p90=51, p99=51, p99.9=51
+I0419 08:22:19.788656 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:19.791195 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:19.792661 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:19.988040 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:19.988253 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:20.381170 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] idle_workers[1] statistics (960 samples): p30=2, p50=4, p70=5, p90=7, p99=8, p99.9=8
+I0419 08:22:20.577637 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] instant_rps[1] statistics (960 samples): p30=888.099, p50=1319.26, p70=2202.64, p90=6993.01, p99=10526.3, p99.9=12195.1
+I0419 08:22:20.585178 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:20.585693 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:20.585924 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:20.586057 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:20.586589 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:20.587219 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:20.587510 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:20.589856 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:20.590994 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:20.592373 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:20.777857 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] queueing_delay[1] statistics (980 samples): p30=40, p50=44, p70=51, p90=350, p99=5202, p99.9=6457
+I0419 08:22:20.786385 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:20.787018 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:20.787730 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:20.787991 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:20.792194 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:20.792644 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:21.184023 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] running_delay[1] statistics (1000 samples): p30=3447, p50=4075, p70=4920, p90=6767, p99=10650, p99.9=12619
+I0419 08:22:21.185233 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:21.185382 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:21.185977 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:21.186927 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:21.187032 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:21.187957 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:21.188648 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:21.190497 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:21.191352 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:21.192334 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:21.193246 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:21.581695 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] message_delay statistics (1215 samples): p30=24, p50=26, p70=30, p90=48, p99=229, p99.9=938
+I0419 08:22:21.978554 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] input_size[1] statistics (1040 samples): p30=128, p50=131, p70=136, p90=146, p99=163, p99.9=177
+I0419 08:22:22.378323 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] inflight_requests[1] statistics (1060 samples): p30=4, p50=5, p70=7, p90=8, p99=13, p99.9=17
+I0419 08:22:22.381920 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] dispatch_overhead statistics (1226 samples): p30=3078, p50=3804, p70=4711, p90=6422, p99=10307, p99.9=12498
+I0419 08:22:22.382741 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] running_workers[1] statistics (1060 samples): p30=3, p50=4, p70=6, p90=8, p99=8, p99.9=8
+I0419 08:22:22.386198 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] uv_async_delay[IO-2] statistics (385 samples): p30=20, p50=22, p70=27, p90=61, p99=309, p99.9=1347
+I0419 08:22:22.391958 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] max_concurrency[1] statistics (1059 samples): p30=8, p50=8, p70=8, p90=8, p99=8, p99.9=8
+I0419 08:22:22.578188 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] estimated_rps[1] statistics (1000 samples): p30=2494.23, p50=2506.9, p70=2547.39, p90=2562.83, p99=2571.23, p99.9=2575.69
+I0419 08:22:22.786680 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:22.786833 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:22.787828 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:22.787987 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:22.788608 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:22.791223 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:22.791305 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:22.791838 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:22.793163 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:22.987893 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:22.988604 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:23.387092 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:23.388050 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:23.388419 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:23.389975 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:23.391083 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:23.392202 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:23.393169 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:23.588195 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:23.588474 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:23.787961 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:23.788540 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:24.178149 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] estimated_concurrency[1] statistics (1080 samples): p30=10.0582, p50=10.3657, p70=10.4845, p90=10.651, p99=10.7423, p99.9=10.7613
+I0419 08:22:24.790446 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:24.791808 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:24.792681 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:24.985205 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:24.985327 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:24.985625 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:24.986487 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:24.986850 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:24.987399 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:24.987644 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:24.988804 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:24.990372 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:24.990867 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:24.992557 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:25.188631 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:25.388234 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] uv_async_delay[IO-3] statistics (200 samples): p30=20, p50=23, p70=28, p90=55, p99=172, p99.9=281
+I0419 08:22:25.389696 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:26.177264 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] uv_async_delay[IO-0] statistics (200 samples): p30=21, p50=24, p70=30, p90=63, p99=229, p99.9=231
+I0419 08:22:26.386675 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:26.387693 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:26.387935 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:26.392814 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:26.588588 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:26.590843 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:26.591120 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:26.592246 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:26.592354 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:26.986330 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:26.987102 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:26.987325 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:26.987490 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:26.987736 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:26.988055 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:26.990410 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:26.991525 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:26.992235 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:26.992359 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:27.188373 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] uv_async_delay[IO-1] statistics (200 samples): p30=21, p50=23, p70=26, p90=43, p99=125, p99.9=171
+I0419 08:22:27.191152 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:27.388043 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:27.388605 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:27.390104 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:27.392326 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:27.392413 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:27.585983 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:27.587116 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:27.588114 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:27.588569 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:27.590020 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:27.988204 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:28.187906 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:28.188222 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:28.190600 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] inflight_external_requests statistics (936 samples): p30=4, p50=5, p70=7, p90=9, p99=13, p99.9=18
+I0419 08:22:28.190693 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:28.190894 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:28.191935 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:28.192287 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:28.381237 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] dispatch_delay statistics (940 samples): p30=3164, p50=3867, p70=4768, p90=6859, p99=9573, p99.9=16898
+I0419 08:22:28.577642 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] external_requests_instant_rps statistics (940 samples): p30=871.84, p50=1322.75, p70=2314.81, p90=7633.59, p99=55555.6, p99.9=100000
+I0419 08:22:28.588550 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:28.592201 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:28.592303 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:28.777613 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_external_requests counter: value=3896, rate=100 per sec
+I0419 08:22:28.781002 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] output_size[1] statistics (920 samples): p30=51, p50=51, p70=51, p90=51, p99=51, p99.9=51
+I0419 08:22:29.377437 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[1] counter: value=3001, rate=100.01 per sec
+I0419 08:22:29.788593 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:29.790191 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:29.790964 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:29.791956 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:29.792216 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:29.981567 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] idle_workers[1] statistics (960 samples): p30=2, p50=4, p70=5, p90=7, p99=8, p99.9=8
+I0419 08:22:30.177372 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] instant_rps[1] statistics (960 samples): p30=875.657, p50=1356.85, p70=2277.9, p90=7092.2, p99=11494.3, p99.9=12820.5
+I0419 08:22:30.387093 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:30.388071 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:30.388448 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:30.577405 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] queueing_delay[1] statistics (980 samples): p30=40, p50=44, p70=52, p90=309, p99=2808, p99.9=4402
+I0419 08:22:30.588061 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:30.588325 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:30.588960 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:30.987669 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:30.988398 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:30.988582 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:30.989823 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:30.990883 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:31.180593 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] running_delay[1] statistics (1000 samples): p30=3279, p50=3947, p70=4829, p90=6458, p99=8696, p99.9=17047
+I0419 08:22:31.588617 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:31.788315 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:31.988130 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:31.988346 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:32.180643 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] message_delay statistics (1060 samples): p30=24, p50=27, p70=31, p90=55, p99=192, p99.9=1201
+I0419 08:22:32.378987 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] input_size[1] statistics (1040 samples): p30=128, p50=131, p70=136, p90=147, p99=170, p99.9=178
+I0419 08:22:32.386492 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:32.388074 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:32.388792 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:32.578111 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] estimated_rps[1] statistics (1000 samples): p30=2462.18, p50=2471.12, p70=2480.94, p90=2492.3, p99=2508.33, p99.9=2518.12
+I0419 08:22:32.787009 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:32.788014 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:32.788893 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:32.790344 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:32.791638 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:32.792267 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:32.977433 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] inflight_requests[1] statistics (1060 samples): p30=4, p50=5, p70=7, p90=8, p99=12, p99.9=13
+I0419 08:22:32.980959 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] running_workers[1] statistics (1060 samples): p30=3, p50=4, p70=6, p90=8, p99=8, p99.9=8
+I0419 08:22:32.990766 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] max_concurrency[1] statistics (1059 samples): p30=8, p50=8, p70=8, p90=8, p99=8, p99.9=8
+I0419 08:22:33.380830 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] dispatch_overhead statistics (1100 samples): p30=3205, p50=3869, p70=4688, p90=6028, p99=8532, p99.9=16976
+I0419 08:22:33.981777 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] uv_async_delay[IO-2] statistics (200 samples): p30=20, p50=22, p70=27, p90=67, p99=243, p99.9=407
+I0419 08:22:33.988047 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:33.989747 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:33.991105 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:33.992105 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:33.992268 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:34.388443 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:34.389867 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:34.586719 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:34.587399 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:34.587762 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:34.587881 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:34.588018 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:34.590739 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:34.590843 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:34.592063 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:34.593702 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:34.977736 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] estimated_concurrency[1] statistics (1080 samples): p30=10.4078, p50=10.5247, p70=10.6172, p90=10.6998, p99=10.7895, p99.9=10.8316
+I0419 08:22:35.187099 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:35.188486 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:35.386336 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:35.387767 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:35.387869 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:35.387994 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:35.390529 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:35.391740 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:35.391938 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:35.392298 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:36.586623 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] uv_async_delay[IO-0] statistics (200 samples): p30=20, p50=24, p70=30, p90=60, p99=164, p99.9=189
+I0419 08:22:36.785341 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] uv_async_delay[IO-3] statistics (200 samples): p30=21, p50=24, p70=31, p90=61, p99=182, p99.9=196
+I0419 08:22:36.988403 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:37.186828 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:37.187793 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:37.188169 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:37.188397 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:37.190211 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:37.191366 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:37.192586 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:37.192767 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:37.578163 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] inflight_external_requests statistics (924 samples): p30=4, p50=5, p70=6, p90=8, p99=12, p99.9=14
+I0419 08:22:37.780190 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] dispatch_delay statistics (940 samples): p30=3057, p50=3580, p70=4314, p90=5597, p99=11407, p99.9=14534
+I0419 08:22:37.791711 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:37.791962 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:37.978112 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] external_requests_instant_rps statistics (940 samples): p30=868.056, p50=1364.26, p70=2380.95, p90=7633.59, p99=66666.7, p99.9=111111
+I0419 08:22:37.983943 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] output_size[1] statistics (920 samples): p30=51, p50=51, p70=51, p90=51, p99=51, p99.9=51
+I0419 08:22:37.986031 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:37.986118 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:37.986907 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:37.987564 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:37.988378 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:37.988480 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:37.990574 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:37.991137 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:37.992193 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:37.992772 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:38.577669 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_external_requests counter: value=4876, rate=100 per sec
+I0419 08:22:38.787569 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:38.788121 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:38.789800 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:38.790764 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:38.988256 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:38.989770 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:39.188050 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:39.192219 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:39.377049 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[1] counter: value=4001, rate=100.01 per sec
+I0419 08:22:39.387974 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:39.388077 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:39.390505 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:39.391609 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:39.392093 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:39.392629 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:39.580753 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] idle_workers[1] statistics (960 samples): p30=2, p50=4, p70=5, p90=7, p99=8, p99.9=8
+I0419 08:22:39.588790 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:39.778047 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] instant_rps[1] statistics (960 samples): p30=877.193, p50=1367.99, p70=2463.05, p90=7246.38, p99=11627.9, p99.9=14084.5
+I0419 08:22:39.992349 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:40.192092 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] uv_async_delay[IO-1] statistics (200 samples): p30=20, p50=22, p70=26, p90=58, p99=185, p99.9=226
+I0419 08:22:40.377887 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] queueing_delay[1] statistics (980 samples): p30=39, p50=44, p70=49, p90=86, p99=3912, p99.9=6613
+I0419 08:22:41.180659 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] running_delay[1] statistics (1000 samples): p30=3216, p50=3835, p70=4614, p90=6384, p99=11486, p99.9=14631
+I0419 08:22:41.387861 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:41.388491 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:41.392069 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:41.392190 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:41.986063 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:41.987763 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:41.988233 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:42.577880 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] estimated_rps[1] statistics (1000 samples): p30=2471.89, p50=2488.36, p70=2500.84, p90=2509.33, p99=2525.86, p99.9=2534.3
+I0419 08:22:42.777968 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] input_size[1] statistics (1040 samples): p30=128, p50=131, p70=135, p90=148, p99=169, p99.9=177
+I0419 08:22:42.781008 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] message_delay statistics (1060 samples): p30=24, p50=27, p70=30, p90=52, p99=183, p99.9=509
+I0419 08:22:43.188382 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:43.387763 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:43.388060 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:43.388174 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:43.389796 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:43.391989 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:43.392259 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:43.577979 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] inflight_requests[1] statistics (1060 samples): p30=4, p50=5, p70=6, p90=8, p99=12, p99.9=14
+I0419 08:22:43.580951 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] running_workers[1] statistics (1060 samples): p30=3, p50=4, p70=5, p90=7, p99=8, p99.9=8
+I0419 08:22:43.590636 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] max_concurrency[1] statistics (1060 samples): p30=8, p50=8, p70=8, p90=8, p99=8, p99.9=8
+I0419 08:22:43.787750 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:43.788125 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:43.789990 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:44.381351 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] dispatch_overhead statistics (1100 samples): p30=3138, p50=3757, p70=4530, p90=6293, p99=10938, p99.9=14599
+I0419 08:22:44.592559 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:44.788325 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:44.989880 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:45.581469 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] uv_async_delay[IO-2] statistics (200 samples): p30=19, p50=22, p70=26, p90=51, p99=205, p99.9=212
+I0419 08:22:45.778047 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] estimated_concurrency[1] statistics (1080 samples): p30=10.3907, p50=10.5143, p70=10.6397, p90=10.7246, p99=10.8485, p99.9=10.8697
+I0419 08:22:45.788465 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:45.987517 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:45.988005 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:45.988479 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:45.990501 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:45.991702 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:45.992073 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:45.993584 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:46.185298 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:46.187308 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:46.187492 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:46.187611 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:46.188428 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:46.188543 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:46.190013 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:46.191431 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:46.191944 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:46.192699 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:46.786399 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:46.786614 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:46.787237 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:46.787718 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:46.788181 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:46.790793 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] inflight_external_requests statistics (936 samples): p30=4, p50=5, p70=7, p90=8, p99=11, p99.9=13
+I0419 08:22:46.790904 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:46.791334 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:46.792363 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:46.793516 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:47.180529 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] dispatch_delay statistics (940 samples): p30=3223, p50=3957, p70=4708, p90=6171, p99=8307, p99.9=10082
+I0419 08:22:47.180903 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] output_size[1] statistics (920 samples): p30=51, p50=51, p70=51, p90=51, p99=51, p99.9=51
+I0419 08:22:47.377541 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] external_requests_instant_rps statistics (940 samples): p30=896.057, p50=1360.54, p70=2298.85, p90=6666.67, p99=71428.6, p99.9=125000
+I0419 08:22:47.788211 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:47.788558 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:47.790490 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:47.790805 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:47.791961 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:47.792278 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:48.377667 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_external_requests counter: value=5856, rate=100.01 per sec
+I0419 08:22:48.388428 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:48.782260 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] uv_async_delay[IO-0] statistics (200 samples): p30=21, p50=25, p70=31, p90=53, p99=246, p99.9=250
+I0419 08:22:48.985572 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] uv_async_delay[IO-3] statistics (200 samples): p30=21, p50=24, p70=33, p90=61, p99=190, p99.9=580
+I0419 08:22:49.180527 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] idle_workers[1] statistics (960 samples): p30=3, p50=4, p70=5, p90=7, p99=8, p99.9=8
+I0419 08:22:49.192533 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:49.378482 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] instant_rps[1] statistics (960 samples): p30=905.797, p50=1367.99, p70=2369.67, p90=6369.43, p99=11236, p99.9=14492.8
+I0419 08:22:49.378564 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[1] counter: value=5001, rate=99.99 per sec
+I0419 08:22:49.388253 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:49.787859 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:49.788234 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:49.986335 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:49.987365 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:49.987908 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:49.988166 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:49.988322 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:49.990789 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:49.991386 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:49.992248 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:49.992522 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:50.177783 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] queueing_delay[1] statistics (980 samples): p30=39, p50=44, p70=50, p90=77, p99=2947, p99.9=4841
+I0419 08:22:50.188543 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:50.188891 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:50.190518 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:50.190848 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:50.192505 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:50.386084 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:50.386372 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:50.387468 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:50.387994 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:50.388361 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:50.390633 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:50.391041 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:51.179981 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] running_delay[1] statistics (1000 samples): p30=3402, p50=4055, p70=4802, p90=6031, p99=8673, p99.9=10173
+I0419 08:22:51.188631 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] uv_async_delay[IO-1] statistics (200 samples): p30=20, p50=23, p70=28, p90=56, p99=174, p99.9=175
+I0419 08:22:51.387815 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:52.188369 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:52.577260 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] estimated_rps[1] statistics (1000 samples): p30=2410.34, p50=2434.65, p70=2444.85, p90=2456.68, p99=2464.11, p99.9=2466.6
+I0419 08:22:52.586981 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:52.587113 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:52.587921 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:52.588930 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:52.590528 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:52.590787 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:52.592115 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:52.592232 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:52.787147 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:52.787267 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:53.178439 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] input_size[1] statistics (1040 samples): p30=128, p50=131, p70=135, p90=146, p99=166, p99.9=181
+I0419 08:22:53.380348 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] message_delay statistics (1060 samples): p30=24, p50=26, p70=30, p90=46, p99=196, p99.9=364
+I0419 08:22:53.389928 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:53.390940 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:53.391974 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:53.392769 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:53.988046 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:53.988221 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:53.988477 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:53.990036 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:53.991126 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:53.992231 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:53.992347 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:54.001165 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] running_workers[1] statistics (1058 samples): p30=3, p50=4, p70=6, p90=7, p99=8, p99.9=8
+I0419 08:22:54.177566 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] inflight_requests[1] statistics (1060 samples): p30=4, p50=5, p70=7, p90=8, p99=11, p99.9=14
+I0419 08:22:54.184942 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:54.185518 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:54.185880 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:54.186886 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:54.187175 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:54.187848 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:54.188374 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:54.188518 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:54.190318 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] max_concurrency[1] statistics (1060 samples): p30=8, p50=8, p70=8, p90=8, p99=8, p99.9=8
+I0419 08:22:54.190379 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:54.191053 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:54.192354 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:54.192978 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:54.387833 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:54.587295 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:54.587888 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:54.588425 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:54.590423 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:55.381062 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] dispatch_overhead statistics (1100 samples): p30=3281, p50=3926, p70=4730, p90=6182, p99=9289, p99.9=10148
+I0419 08:22:55.586133 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:55.586383 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:55.588653 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:55.589228 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:55.590644 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:55.787230 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:55.787377 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:55.788558 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:55.791083 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:56.177587 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] inflight_external_requests statistics (924 samples): p30=4, p50=5, p70=7, p90=8, p99=12, p99.9=14
+I0419 08:22:56.379919 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] output_size[1] statistics (920 samples): p30=51, p50=51, p70=51, p90=51, p99=51, p99.9=51
+I0419 08:22:56.578112 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] estimated_concurrency[1] statistics (1080 samples): p30=10.203, p50=10.2713, p70=10.3305, p90=10.3988, p99=10.4464, p99.9=10.4888
+I0419 08:22:56.581314 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] dispatch_delay statistics (940 samples): p30=3113, p50=3749, p70=4528, p90=6042, p99=9193, p99.9=9906
+I0419 08:22:56.777848 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] external_requests_instant_rps statistics (940 samples): p30=900.09, p50=1312.34, p70=2341.92, p90=6849.31, p99=71428.6, p99.9=125000
+I0419 08:22:56.987896 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:56.988263 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:56.990149 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] uv_async_delay[IO-2] statistics (200 samples): p30=21, p50=23, p70=28, p90=53, p99=144, p99.9=154
+I0419 08:22:57.192170 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:57.788009 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:58.177130 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_external_requests counter: value=6836, rate=100.01 per sec
+I0419 08:22:58.187958 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:58.188120 IO-2 EL     (122210) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:58.188225 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:58.190112 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:58.192049 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:58.192424 IO-3 EL     (122211) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:58.588385 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:58.780215 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] idle_workers[1] statistics (960 samples): p30=2, p50=4, p70=5, p90=7, p99=8, p99.9=8
+I0419 08:22:58.977908 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] instant_rps[1] statistics (960 samples): p30=890.472, p50=1342.28, p70=2293.58, p90=6802.72, p99=10869.6, p99.9=14492.8
+I0419 08:22:58.984972 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] uv_async_delay[IO-0] statistics (200 samples): p30=20, p50=23, p70=30, p90=61, p99=217, p99.9=271
+I0419 08:22:58.988275 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:58.990090 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:58.992496 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:103] No idle worker at the moment, func_id = 1
+I0419 08:22:59.377779 IO-1 EL     (122209) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[1] counter: value=6001, rate=100.01 per sec
+I0419 08:22:59.405821 IO-0 EL     (122208) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[2] counter: value=956, rate=4.20066 per sec

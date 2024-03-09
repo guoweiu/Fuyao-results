@@ -1,0 +1,45 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_marketdata. lib_load_elasped: 10523, func_load_elasped: 6
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+force_push: msg_id = 3042617, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 3043123, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3043077, remain = 74, size = 64
+Send to executer failed.Loaded function exp06_run_audit_27. lib_load_elasped: 303, func_load_elasped: 1
+Loaded function exp06_run_audit_5. lib_load_elasped: 384, func_load_elasped: 2
+Loaded function exp06_run_audit_1. lib_load_elasped: 382, func_load_elasped: 2
+Loaded function exp06_run_audit_10. lib_load_elasped: 365, func_load_elasped: 2
+Loaded function exp06_run_audit_23. lib_load_elasped: 296, func_load_elasped: 1
+Loaded function exp06_run_audit_38. lib_load_elasped: 284, func_load_elasped: 1

@@ -1,0 +1,25 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_marketdata. lib_load_elasped: 13502, func_load_elasped: 8
+fail release: invalid id (mem = (nil), size = 48)
+Loaded function exp06_run_audit_2. lib_load_elasped: 340, func_load_elasped: 2
+Loaded function exp06_run_audit_10. lib_load_elasped: 169, func_load_elasped: 1
+Loaded function exp06_run_audit_3. lib_load_elasped: 337, func_load_elasped: 2
+Loaded function exp06_run_audit_6. lib_load_elasped: 233, func_load_elasped: 1
+Loaded function exp06_run_audit_9. lib_load_elasped: 268, func_load_elasped: 1
+Loaded function exp06_run_audit_4. lib_load_elasped: 279, func_load_elasped: 1
+Loaded function exp06_run_audit_5. lib_load_elasped: 235, func_load_elasped: 1
+Loaded function exp06_run_audit_1. lib_load_elasped: 310, func_load_elasped: 1
+Loaded function exp06_run_audit_8. lib_load_elasped: 317, func_load_elasped: 1
+Loaded function exp06_run_audit_7. lib_load_elasped: 8406, func_load_elasped: 2
+force_push: msg_id = 2625822, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 2625790, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 2625753, remain = -56, size = 8
+Send to executer failed.force_push: msg_id = 2625751, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 2625752, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 2625754, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 2631330, remain = -55, size = 9
+Send to executer failed.force_push: msg_id = 2632231, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 2652934, remain = 8, size = 64
+Send to executer failed.Loaded function exp06_marginbalance. lib_load_elasped: 647, func_load_elasped: 2
+req_id = 360090, token 20254029 us.

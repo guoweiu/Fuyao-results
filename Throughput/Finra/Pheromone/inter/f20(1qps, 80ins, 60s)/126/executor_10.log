@@ -1,0 +1,26 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_marketdata. lib_load_elasped: 19708, func_load_elasped: 4
+Loaded function exp06_run_audit_12. lib_load_elasped: 202, func_load_elasped: 1
+Loaded function exp06_run_audit_6. lib_load_elasped: 193, func_load_elasped: 1
+Loaded function exp06_run_audit_2. lib_load_elasped: 164, func_load_elasped: 0
+Loaded function exp06_run_audit_17. lib_load_elasped: 208, func_load_elasped: 1
+Loaded function exp06_run_audit_13. lib_load_elasped: 157, func_load_elasped: 1
+Loaded function exp06_run_audit_16. lib_load_elasped: 161, func_load_elasped: 0
+Loaded function exp06_run_audit_1. lib_load_elasped: 238, func_load_elasped: 1
+Loaded function exp06_run_audit_11. lib_load_elasped: 236, func_load_elasped: 1
+Loaded function exp06_run_audit_5. lib_load_elasped: 186, func_load_elasped: 1
+Loaded function exp06_run_audit_3. lib_load_elasped: 158, func_load_elasped: 0
+Loaded function exp06_run_audit_9. lib_load_elasped: 189, func_load_elasped: 1
+Loaded function exp06_marginbalance. lib_load_elasped: 209, func_load_elasped: 1
+req_id = 960005, token 218137 us.
+Loaded function exp06_run_audit_18. lib_load_elasped: 151, func_load_elasped: 0
+req_id = 240001, token 700902 us.
+req_id = 1080002, token 620745 us.
+req_id = 1200001, token 566806 us.
+req_id = 960002, token 615440 us.
+req_id = 660004, token 460482 us.
+req_id = 300004, token 643565 us.
+req_id = 300001, token 739374 us.
+req_id = 840005, token 436711 us.
+req_id = 660002, token 717890 us.

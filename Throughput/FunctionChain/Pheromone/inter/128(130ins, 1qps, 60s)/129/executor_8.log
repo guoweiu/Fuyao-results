@@ -1,0 +1,52 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_marketdata. lib_load_elasped: 5999, func_load_elasped: 8
+force_push: msg_id = 3281400, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3282561, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3282424, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3282454, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3281223, remain = 72, size = 64
+Send to executer failed.Loaded function exp06_run_audit_8. lib_load_elasped: 259, func_load_elasped: 1
+force_push: msg_id = 3284783, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3284473, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3284660, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3284476, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 3284851, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3284661, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3284484, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3284483, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 3284695, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3284477, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 3284780, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3284700, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3284777, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3284687, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3284564, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 3284771, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 3284466, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 3284387, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 3284472, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3284375, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 3284684, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3284773, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3284478, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3284688, remain = 74, size = 64
+Send to executer failed.Loaded function exp06_run_audit_26. lib_load_elasped: 392, func_load_elasped: 2
+force_push: msg_id = 3291871, remain = 74, size = 64
+Send to executer failed.Loaded function exp06_run_audit_36. lib_load_elasped: 347, func_load_elasped: 1
+Loaded function exp06_run_audit_5. lib_load_elasped: 383, func_load_elasped: 2
+Loaded function exp06_run_audit_34. lib_load_elasped: 363, func_load_elasped: 3
+Loaded function exp06_run_audit_40. lib_load_elasped: 270, func_load_elasped: 1
+Loaded function exp06_run_audit_38. lib_load_elasped: 258, func_load_elasped: 1
+Loaded function exp06_run_audit_52. lib_load_elasped: 204, func_load_elasped: 1
+Loaded function exp06_run_audit_31. lib_load_elasped: 284, func_load_elasped: 1
+Loaded function exp06_run_audit_51. lib_load_elasped: 276, func_load_elasped: 1
+Loaded function exp06_run_audit_12. lib_load_elasped: 270, func_load_elasped: 1
+Loaded function exp06_run_audit_24. lib_load_elasped: 204, func_load_elasped: 1
+Loaded function exp06_run_audit_58. lib_load_elasped: 300, func_load_elasped: 1
+Loaded function exp06_run_audit_22. lib_load_elasped: 216, func_load_elasped: 1
+Loaded function exp06_run_audit_42. lib_load_elasped: 264, func_load_elasped: 1
+Loaded function exp06_run_audit_15. lib_load_elasped: 250, func_load_elasped: 1
+Loaded function exp00_back. lib_load_elasped: 259, func_load_elasped: 1
+chain_length = 128, payload_size = 512, token 2896275 us.
+chain_length = 128, payload_size = 512, token 3319982 us.

@@ -1,0 +1,9 @@
+Read file config.yml
+Running executor...
+Loaded function exp00_front. lib_load_elasped: 143, func_load_elasped: 2
+Loaded function exp00_back. lib_load_elasped: 125, func_load_elasped: 1
+chain_length = 128, payload_size = 512, token 39176293 us.
+chain_length = 128, payload_size = 512, token 31186706 us.
+chain_length = 128, payload_size = 512, token 6341471 us.
+chain_length = 128, payload_size = 512, token 38024200 us.
+chain_length = 128, payload_size = 512, token 34478443 us.

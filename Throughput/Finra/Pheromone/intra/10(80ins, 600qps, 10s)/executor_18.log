@@ -1,0 +1,30 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_marketdata. lib_load_elasped: 12495, func_load_elasped: 4
+Loaded function exp06_run_audit_1. lib_load_elasped: 314, func_load_elasped: 1
+Loaded function exp06_run_audit_4. lib_load_elasped: 267, func_load_elasped: 1
+Loaded function exp06_run_audit_8. lib_load_elasped: 382, func_load_elasped: 2
+Loaded function exp06_run_audit_7. lib_load_elasped: 311, func_load_elasped: 1
+Loaded function exp06_run_audit_3. lib_load_elasped: 362, func_load_elasped: 1
+Loaded function exp06_run_audit_5. lib_load_elasped: 274, func_load_elasped: 2
+Loaded function exp06_run_audit_10. lib_load_elasped: 211, func_load_elasped: 1
+Loaded function exp06_run_audit_6. lib_load_elasped: 423, func_load_elasped: 1
+Loaded function exp06_marginbalance. lib_load_elasped: 275, func_load_elasped: 1
+req_id = 120006, token 911757 us.
+req_id = 480006, token 911667 us.
+req_id = 540006, token 929711 us.
+force_push: msg_id = 1110526, remain = 9, size = 64
+Send to executer failed.force_push: msg_id = 1111630, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1111620, remain = -56, size = 8
+Send to executer failed.force_push: msg_id = 1111622, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 1112901, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 1112934, remain = -56, size = 8
+Send to executer failed.force_push: msg_id = 1112903, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 1113485, remain = 75, size = 64
+Send to executer failed.force_push: msg_id = 1113482, remain = 73, size = 64
+Send to executer failed.force_push: msg_id = 1113484, remain = 73, size = 64
+force_push: msg_id = 1113483, remain = 9, size = 64
+Send to executer failed.Send to executer failed.force_push: msg_id = 1113477, remain = 9, size = 64
+Send to executer failed.force_push: msg_id = 1113480, remain = 73, size = 64
+Send to executer failed.force_push: msg_id = 1114746, remain = 8, size = 64
+Send to executer failed.

@@ -1,0 +1,92 @@
+top - 21:24:17 up 3 days, 11:43,  6 users,  load average: 90.31, 71.76, 36.86
+Tasks: 1017 total,  84 running, 933 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 96.3 us,  3.6 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem : 257799.1 total, 241651.0 free,   2685.2 used,  13462.8 buff/cache
+MiB Swap:   8192.0 total,   8192.0 free,      0.0 used. 252594.4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+1752338 lgw       20   0 1180708  13736  12224 R 270.4   0.0  28:01.25 /tmp/SPheromone129/scheduler/scheduler
+1752337 lgw       20   0  315768   9508   8224 R 233.3   0.0  25:05.26 /tmp/SPheromone129/coordinator/coordinator
+   2353 root      20   0  316744   2852   2336 S  85.2   0.0   5139:19 /usr/sbin/rshim
+1752448 lgw       20   0   19604   4668   4284 R  81.5   0.0   7:45.71 /tmp/SPheromone129/executor/executor 6
+1752449 lgw       20   0   19604   3748   3456 R  81.5   0.0   6:57.30 /tmp/SPheromone129/executor/executor 7
+1752442 lgw       20   0   19604   4600   4212 R  77.8   0.0   6:48.00 /tmp/SPheromone129/executor/executor 0
+1752443 lgw       20   0   19604   4604   4216 R  77.8   0.0   6:44.35 /tmp/SPheromone129/executor/executor 1
+1752445 lgw       20   0   19604   3872   3584 R  77.8   0.0   7:10.99 /tmp/SPheromone129/executor/executor 3
+1752447 lgw       20   0   19604   3668   3368 R  77.8   0.0   7:44.96 /tmp/SPheromone129/executor/executor 5
+1752450 lgw       20   0   19604   3852   3568 R  74.1   0.0   6:55.82 /tmp/SPheromone129/executor/executor 8
+1752451 lgw       20   0   19604   3672   3380 R  74.1   0.0   6:51.40 /tmp/SPheromone129/executor/executor 9
+1752452 lgw       20   0   19604   3780   3488 R  74.1   0.0   6:43.80 /tmp/SPheromone129/executor/executor 10
+1752454 lgw       20   0   19604   3784   3504 R  74.1   0.0   7:23.72 /tmp/SPheromone129/executor/executor 12
+1752456 lgw       20   0   19604   3656   3364 R  74.1   0.0   6:35.59 /tmp/SPheromone129/executor/executor 14
+1752457 lgw       20   0   19604   3812   3520 R  74.1   0.0   6:40.08 /tmp/SPheromone129/executor/executor 15
+1752463 lgw       20   0   19604   3776   3484 R  74.1   0.0   7:47.13 /tmp/SPheromone129/executor/executor 21
+1752465 lgw       20   0   19604   4624   4244 R  74.1   0.0   7:35.70 /tmp/SPheromone129/executor/executor 23
+1752466 lgw       20   0   19604   4692   4308 R  74.1   0.0   6:53.48 /tmp/SPheromone129/executor/executor 24
+1752469 lgw       20   0   19604   4628   4244 R  74.1   0.0   7:46.99 /tmp/SPheromone129/executor/executor 27
+1752473 lgw       20   0   19604   3780   3488 R  74.1   0.0   6:43.67 /tmp/SPheromone129/executor/executor 31
+1752476 lgw       20   0   19604   3904   3616 R  74.1   0.0   7:40.38 /tmp/SPheromone129/executor/executor 34
+1752478 lgw       20   0   19604   3780   3488 R  74.1   0.0   7:44.92 /tmp/SPheromone129/executor/executor 36
+1752479 lgw       20   0   19604   4504   4116 R  74.1   0.0   6:57.06 /tmp/SPheromone129/executor/executor 37
+1752484 lgw       20   0   19604   4576   4192 R  74.1   0.0   6:54.07 /tmp/SPheromone129/executor/executor 42
+1752487 lgw       20   0   19604   3808   3520 R  74.1   0.0   7:46.66 /tmp/SPheromone129/executor/executor 45
+1752495 lgw       20   0   19604   3756   3468 R  74.1   0.0   7:39.91 /tmp/SPheromone129/executor/executor 53
+1752503 lgw       20   0   19604   4584   4200 R  74.1   0.0   7:06.52 /tmp/SPheromone129/executor/executor 61
+1752507 lgw       20   0   19604   3764   3472 R  74.1   0.0   6:37.20 /tmp/SPheromone129/executor/executor 65
+1752509 lgw       20   0   19604   3720   3424 R  74.1   0.0   6:42.96 /tmp/SPheromone129/executor/executor 67
+1752510 lgw       20   0   19604   3884   3600 R  74.1   0.0   6:38.32 /tmp/SPheromone129/executor/executor 68
+1752513 lgw       20   0   19604   4544   4160 R  74.1   0.0   6:31.59 /tmp/SPheromone129/executor/executor 71
+1752514 lgw       20   0   19604   4584   4196 R  74.1   0.0   6:29.14 /tmp/SPheromone129/executor/executor 72
+1752515 lgw       20   0   19604   4616   4236 R  74.1   0.0   6:32.25 /tmp/SPheromone129/executor/executor 73
+1752519 lgw       20   0   19604   4600   4220 R  74.1   0.0   6:30.55 /tmp/SPheromone129/executor/executor 77
+1752520 lgw       20   0   19604   3676   3380 R  74.1   0.0   7:46.05 /tmp/SPheromone129/executor/executor 78
+1752453 lgw       20   0   19604   3808   3516 R  70.4   0.0   6:43.35 /tmp/SPheromone129/executor/executor 11
+1752461 lgw       20   0   19604   3732   3440 R  70.4   0.0   7:46.29 /tmp/SPheromone129/executor/executor 19
+1752470 lgw       20   0   19604   3680   3380 R  70.4   0.0   7:47.03 /tmp/SPheromone129/executor/executor 28
+1752472 lgw       20   0   19604   4640   4252 R  70.4   0.0   6:51.75 /tmp/SPheromone129/executor/executor 30
+1752474 lgw       20   0   19604   3680   3380 R  70.4   0.0   7:46.94 /tmp/SPheromone129/executor/executor 32
+1752475 lgw       20   0   19604   4568   4184 R  70.4   0.0   6:34.44 /tmp/SPheromone129/executor/executor 33
+1752477 lgw       20   0   19604   3736   3440 R  70.4   0.0   7:46.56 /tmp/SPheromone129/executor/executor 35
+1752481 lgw       20   0   19604   4640   4256 R  70.4   0.0   6:47.10 /tmp/SPheromone129/executor/executor 39
+1752482 lgw       20   0   19604   4580   4200 R  70.4   0.0   6:43.83 /tmp/SPheromone129/executor/executor 40
+1752485 lgw       20   0   19604   3672   3380 R  70.4   0.0   7:25.93 /tmp/SPheromone129/executor/executor 43
+1752488 lgw       20   0   19604   3852   3568 R  70.4   0.0   6:36.84 /tmp/SPheromone129/executor/executor 46
+1752492 lgw       20   0   19604   3816   3520 R  70.4   0.0   7:30.83 /tmp/SPheromone129/executor/executor 50
+1752493 lgw       20   0   19604   4652   4264 R  70.4   0.0   6:27.34 /tmp/SPheromone129/executor/executor 51
+1752496 lgw       20   0   19604   4604   4220 R  70.4   0.0   6:31.82 /tmp/SPheromone129/executor/executor 54
+1752500 lgw       20   0   19604   3788   3496 R  70.4   0.0   6:56.59 /tmp/SPheromone129/executor/executor 58
+1752504 lgw       20   0   19604   3724   3432 R  70.4   0.0   6:53.44 /tmp/SPheromone129/executor/executor 62
+1752512 lgw       20   0   19604   3792   3504 R  70.4   0.0   6:54.41 /tmp/SPheromone129/executor/executor 70
+1752516 lgw       20   0   19604   3808   3520 R  70.4   0.0   6:36.91 /tmp/SPheromone129/executor/executor 74
+1752446 lgw       20   0   19604   3848   3568 R  66.7   0.0   6:30.06 /tmp/SPheromone129/executor/executor 4
+1752458 lgw       20   0   19604   4576   4192 R  66.7   0.0   6:46.42 /tmp/SPheromone129/executor/executor 16
+1752468 lgw       20   0   19604   4640   4256 R  66.7   0.0   6:41.56 /tmp/SPheromone129/executor/executor 26
+1752494 lgw       20   0   19604   3772   3480 R  66.7   0.0   6:46.21 /tmp/SPheromone129/executor/executor 52
+1752499 lgw       20   0   19604   3672   3380 R  66.7   0.0   6:50.59 /tmp/SPheromone129/executor/executor 57
+1752521 lgw       20   0   19604   3904   3616 R  66.7   0.0   6:46.76 /tmp/SPheromone129/executor/executor 79
+1752455 lgw       20   0   19604   4612   4224 R  63.0   0.0   6:44.70 /tmp/SPheromone129/executor/executor 13
+1752464 lgw       20   0   19604   3784   3488 R  63.0   0.0   7:33.17 /tmp/SPheromone129/executor/executor 22
+1752491 lgw       20   0   19604   3700   3408 R  63.0   0.0   6:39.32 /tmp/SPheromone129/executor/executor 49
+1752506 lgw       20   0   19604   4732   4348 R  59.3   0.0   6:38.66 /tmp/SPheromone129/executor/executor 64
+1752444 lgw       20   0   19604   4548   4168 R  55.6   0.0   6:42.05 /tmp/SPheromone129/executor/executor 2
+1752460 lgw       20   0   19604   4728   4340 R  55.6   0.0   6:31.83 /tmp/SPheromone129/executor/executor 18
+1752483 lgw       20   0   19604   3676   3380 R  55.6   0.0   7:20.76 /tmp/SPheromone129/executor/executor 41
+1752497 lgw       20   0   19604   3724   3432 R  55.6   0.0   6:36.94 /tmp/SPheromone129/executor/executor 55
+1752501 lgw       20   0   19604   4680   4300 R  55.6   0.0   6:38.02 /tmp/SPheromone129/executor/executor 59
+1752505 lgw       20   0   19604   3888   3600 R  55.6   0.0   6:32.51 /tmp/SPheromone129/executor/executor 63
+1752511 lgw       20   0   19604   4572   4192 R  55.6   0.0   6:35.63 /tmp/SPheromone129/executor/executor 69
+1752459 lgw       20   0   19604   4668   4284 R  51.9   0.0   6:22.18 /tmp/SPheromone129/executor/executor 17
+1752467 lgw       20   0   19604   4600   4216 R  51.9   0.0   6:35.58 /tmp/SPheromone129/executor/executor 25
+1752480 lgw       20   0   19604   3816   3520 R  51.9   0.0   6:40.15 /tmp/SPheromone129/executor/executor 38
+1752486 lgw       20   0   19604   3680   3380 R  51.9   0.0   6:39.53 /tmp/SPheromone129/executor/executor 44
+1752502 lgw       20   0   19604   4620   4232 R  48.1   0.0   6:32.54 /tmp/SPheromone129/executor/executor 60
+1752517 lgw       20   0   19604   3772   3480 R  48.1   0.0   6:38.54 /tmp/SPheromone129/executor/executor 75
+1752489 lgw       20   0   19604   3652   3356 R  44.4   0.0   6:43.87 /tmp/SPheromone129/executor/executor 47
+1752336 lgw       20   0   93944   8256   7772 R  40.7   0.0   6:37.11 /tmp/SPheromone129/manager/manager
+1752471 lgw       20   0   19604   3844   3552 R  40.7   0.0   6:49.36 /tmp/SPheromone129/executor/executor 29
+1752462 lgw       20   0   19604   3900   3616 R  37.0   0.0   6:33.18 /tmp/SPheromone129/executor/executor 20
+1752498 lgw       20   0   19604   3816   3520 R  37.0   0.0   6:52.72 /tmp/SPheromone129/executor/executor 56
+1752508 lgw       20   0   19604   4628   4248 R  37.0   0.0   6:31.83 /tmp/SPheromone129/executor/executor 66
+1752518 lgw       20   0   19604   4520   4136 R  37.0   0.0   6:27.64 /tmp/SPheromone129/executor/executor 76
+1752490 lgw       20   0   19604   3788   3508 R  33.3   0.0   6:36.19 /tmp/SPheromone129/executor/executor 48
+1754277 lgw       20   0   10380   4836   3284 R  18.5   0.0   0:00.10 top -bn 1 -i -c

@@ -1,0 +1,21 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_marketdata. lib_load_elasped: 4585, func_load_elasped: 3
+Loaded function exp06_run_audit_2. lib_load_elasped: 356, func_load_elasped: 2
+Loaded function exp06_run_audit_3. lib_load_elasped: 324, func_load_elasped: 2
+Loaded function exp06_run_audit_1. lib_load_elasped: 279, func_load_elasped: 1
+Loaded function exp06_marginbalance. lib_load_elasped: 271, func_load_elasped: 1
+req_id = 1020001, token 4164533 us.
+req_id = 600002, token 4186458 us.
+Loaded function exp06_run_audit_8. lib_load_elasped: 334, func_load_elasped: 1
+req_id = 1080006, token 912054 us.
+force_push: msg_id = 1110612, remain = 73, size = 64
+Send to executer failed.force_push: msg_id = 1110708, remain = -55, size = 9
+Send to executer failed.force_push: msg_id = 1110640, remain = -55, size = 9
+Send to executer failed.force_push: msg_id = 1112351, remain = 71, size = 64
+Send to executer failed.force_push: msg_id = 1112346, remain = 7, size = 64
+Send to executer failed.force_push: msg_id = 1112354, remain = 7, size = 64
+Send to executer failed.force_push: msg_id = 1112359, remain = -55, size = 9
+Send to executer failed.force_push: msg_id = 1112347, remain = 7, size = 64
+Send to executer failed.force_push: msg_id = 1114298, remain = -56, size = 8
+Send to executer failed.

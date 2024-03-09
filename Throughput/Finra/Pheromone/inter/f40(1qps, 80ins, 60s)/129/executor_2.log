@@ -1,0 +1,54 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_marketdata. lib_load_elasped: 11274, func_load_elasped: 4
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+force_push: msg_id = 3043195, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3043192, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3043185, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3043196, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3043194, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3043189, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3043188, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3042822, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 3042745, remain = -56, size = 8
+Send to executer failed.Loaded function exp06_run_audit_33. lib_load_elasped: 329, func_load_elasped: 1
+Loaded function exp06_run_audit_16. lib_load_elasped: 274, func_load_elasped: 1
+Loaded function exp06_run_audit_34. lib_load_elasped: 309, func_load_elasped: 1
+Loaded function exp06_run_audit_40. lib_load_elasped: 240, func_load_elasped: 1
+Loaded function exp06_run_audit_19. lib_load_elasped: 309, func_load_elasped: 1

@@ -1,0 +1,110 @@
+Read file config.yml
+Running executor...
+Load lib exp06_run_audit_6.so failed
+Fail to execute function  due to load errorexp06_run_audit_6
+Loaded function exp06_marketdata. lib_load_elasped: 6118, func_load_elasped: 5
+fail release: invalid id (mem = (nil), size = 48)
+Load lib exp06_run_audit_5.so failed
+Fail to execute function  due to load errorexp06_run_audit_5
+Load lib exp06_run_audit_2.so failed
+Fail to execute function  due to load errorexp06_run_audit_2
+Load lib exp06_run_audit_9.so failed
+Fail to execute function  due to load errorexp06_run_audit_9
+Load lib exp06_run_audit_4.so failed
+Fail to execute function  due to load errorexp06_run_audit_4
+Load lib exp06_run_audit_1.so failed
+Fail to execute function  due to load errorexp06_run_audit_1
+Load lib exp06_run_audit_7.so failed
+Fail to execute function  due to load errorexp06_run_audit_7
+Load lib exp06_run_audit_6.so failed
+Fail to execute function  due to load errorexp06_run_audit_6
+Load lib exp06_run_audit_5.so failed
+Fail to execute function  due to load errorexp06_run_audit_5
+Load lib exp06_run_audit_8.so failed
+Fail to execute function  due to load errorexp06_run_audit_8
+Load lib exp06_run_audit_5.so failed
+Fail to execute function  due to load errorexp06_run_audit_5
+Load lib exp06_run_audit_9.so failed
+Fail to execute function  due to load errorexp06_run_audit_9
+Load lib exp06_run_audit_3.so failed
+Fail to execute function  due to load errorexp06_run_audit_3
+Load lib exp06_run_audit_3.so failed
+Fail to execute function  due to load errorexp06_run_audit_3
+Load lib exp06_run_audit_4.so failed
+Fail to execute function  due to load errorexp06_run_audit_4
+Load lib exp06_run_audit_2.so failed
+Fail to execute function  due to load errorexp06_run_audit_2
+Load lib exp06_run_audit_10.so failed
+Fail to execute function  due to load errorexp06_run_audit_10
+Load lib exp06_run_audit_3.so failed
+Fail to execute function  due to load errorexp06_run_audit_3
+Load lib exp06_run_audit_4.so failed
+Fail to execute function  due to load errorexp06_run_audit_4
+Load lib exp06_run_audit_8.so failed
+Fail to execute function  due to load errorexp06_run_audit_8
+Load lib exp06_run_audit_2.so failed
+Fail to execute function  due to load errorexp06_run_audit_2
+Load lib exp06_run_audit_5.so failed
+Fail to execute function  due to load errorexp06_run_audit_5
+Load lib exp06_run_audit_5.so failed
+Fail to execute function  due to load errorexp06_run_audit_5
+Load lib exp06_run_audit_10.so failed
+Fail to execute function  due to load errorexp06_run_audit_10
+Load lib exp06_run_audit_7.so failed
+Fail to execute function  due to load errorexp06_run_audit_7
+Load lib exp06_run_audit_6.so failed
+Fail to execute function  due to load errorexp06_run_audit_6
+Load lib exp06_run_audit_8.so failed
+Fail to execute function  due to load errorexp06_run_audit_8
+Load lib exp06_run_audit_9.so failed
+Fail to execute function  due to load errorexp06_run_audit_9
+Load lib exp06_run_audit_6.so failed
+Fail to execute function  due to load errorexp06_run_audit_6
+Load lib exp06_run_audit_2.so failed
+Fail to execute function  due to load errorexp06_run_audit_2
+Load lib exp06_run_audit_3.so failed
+Fail to execute function  due to load errorexp06_run_audit_3
+Load lib exp06_run_audit_8.so failed
+Fail to execute function  due to load errorexp06_run_audit_8
+Load lib exp06_run_audit_3.so failed
+Fail to execute function  due to load errorexp06_run_audit_3
+Loaded function exp06_run_audit_11. lib_load_elasped: 529, func_load_elasped: 1
+force_push: msg_id = 1330528, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 1330532, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 1330631, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1330630, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1330640, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 1330542, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 1330642, remain = 74, size = 64
+Send to executer failed.Loaded function exp06_run_audit_9. lib_load_elasped: 405, func_load_elasped: 3
+Loaded function exp06_run_audit_4. lib_load_elasped: 280, func_load_elasped: 1
+Loaded function exp06_run_audit_15. lib_load_elasped: 352, func_load_elasped: 2
+Loaded function exp06_run_audit_2. lib_load_elasped: 304, func_load_elasped: 1
+Loaded function exp06_run_audit_20. lib_load_elasped: 304, func_load_elasped: 1
+Loaded function exp06_run_audit_13. lib_load_elasped: 336, func_load_elasped: 2
+Loaded function exp06_run_audit_3. lib_load_elasped: 380, func_load_elasped: 2
+Loaded function exp06_run_audit_18. lib_load_elasped: 453, func_load_elasped: 2
+Loaded function exp06_run_audit_10. lib_load_elasped: 363, func_load_elasped: 2
+force_push: msg_id = 1342710, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 1342763, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1342719, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1342708, remain = -56, size = 8
+Send to executer failed.force_push: msg_id = 1342720, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1342721, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1342711, remain = -56, size = 8
+Send to executer failed.force_push: msg_id = 1342713, remain = 10, size = 64
+Send to executer failed.Loaded function exp06_run_audit_12. lib_load_elasped: 684, func_load_elasped: 1
+Loaded function exp06_run_audit_8. lib_load_elasped: 337, func_load_elasped: 1
+force_push: msg_id = 1345089, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 1345098, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 1345092, remain = -56, size = 8
+Send to executer failed.force_push: msg_id = 1345093, remain = 10, size = 64
+Send to executer failed.Loaded function exp06_run_audit_17. lib_load_elasped: 293, func_load_elasped: 1
+Loaded function exp06_run_audit_5. lib_load_elasped: 338, func_load_elasped: 1
+Loaded function exp06_run_audit_19. lib_load_elasped: 477, func_load_elasped: 2
+Loaded function exp06_run_audit_1. lib_load_elasped: 447, func_load_elasped: 2
+force_push: msg_id = 1363672, remain = 75, size = 64
+Send to executer failed.force_push: msg_id = 1363634, remain = -55, size = 9
+Send to executer failed.force_push: msg_id = 1363662, remain = 11, size = 64
+Send to executer failed.force_push: msg_id = 1363670, remain = -53, size = 11
+Send to executer failed.

@@ -1,0 +1,41 @@
+
+# chain 2
+  
+    407888 requests in 1.00m, 74.69MB read
+Requests/sec:   6798.29
+Transfer/sec:      1.24MB
+
+  
+# chain 16  
+  137513 requests in 1.00m, 25.44MB read
+  Socket errors: connect 0, read 0, write 0, timeout 12
+Requests/sec:   2290.97
+Transfer/sec:    434.03KB
+
+
+
+# chain 32
+
+  34580 requests in 1.00m, 6.40MB read
+Requests/sec:    576.06
+Transfer/sec:    109.14KB
+
+
+# chain 64
+
+#[Mean    =     1330.206, StdDeviation   =       32.043]
+#[Max     =     1372.160, Total count    =         7505]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  9006 requests in 1.00m, 1.67MB read
+Requests/sec:    150.01
+Transfer/sec:     28.42KB
+
+
+
+# chain 128
+
+  3912 requests in 1.50m, 748.78KB read
+  Socket errors: connect 0, read 0, write 0, timeout 5001
+Requests/sec:     43.44
+Transfer/sec:      8.31KB

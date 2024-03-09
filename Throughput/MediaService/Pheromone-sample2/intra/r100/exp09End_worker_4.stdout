@@ -1,0 +1,14 @@
+I0420 16:25:33.968479 Main        (2106739) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:96] Register main thread: tid=2106739
+I0420 16:25:33.971048 Main        (2106739) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09Start[1]
+I0420 16:25:33.971234 Main        (2106739) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09End[2]
+I0420 16:25:33.971311 Main        (2106739) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09Register[3]
+I0420 16:25:33.971361 Main        (2106739) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09StartFinra[4]
+I0420 16:25:33.971615 Main        (2106739) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:107] My client_id is 13
+I0420 16:25:33.971723 Main        (2106739) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:173] Use extra pipes for messages
+I0420 16:25:33.972105 Main        (2106739) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:195] Handshake done
+I0420 16:26:27.098062 Main        (2106739) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 960003, end_time = 1682007987098051
+I0420 16:26:27.098607 Main        (2106739) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 2220004, end_time = 1682007987098601
+I0420 16:26:29.306559 Main        (2106739) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 900007, end_time = 1682007989306548
+I0420 16:26:29.307428 Main        (2106739) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 2460008, end_time = 1682007989307423
+I0420 16:26:29.309222 Main        (2106739) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 2100008, end_time = 1682007989309216
+I0420 16:26:29.310884 Main        (2106739) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 1860008, end_time = 1682007989310879

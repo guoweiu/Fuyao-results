@@ -1,0 +1,12 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_marketdata. lib_load_elasped: 23235, func_load_elasped: 3
+fail release: invalid id (mem = (nil), size = 48)
+Loaded function exp06_run_audit_5. lib_load_elasped: 279, func_load_elasped: 1
+Loaded function exp06_run_audit_6. lib_load_elasped: 275, func_load_elasped: 1
+Loaded function exp06_marginbalance. lib_load_elasped: 302, func_load_elasped: 1
+req_id = 480004, token 3790722 us.
+req_id = 660001, token 4149044 us.
+req_id = 420005, token 199509 us.
+Loaded function exp06_run_audit_9. lib_load_elasped: 371, func_load_elasped: 2
+Loaded function exp06_run_audit_3. lib_load_elasped: 212, func_load_elasped: 1

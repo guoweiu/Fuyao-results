@@ -1,0 +1,35 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_run_audit_2. lib_load_elasped: 483, func_load_elasped: 3
+Loaded function exp06_run_audit_10. lib_load_elasped: 228, func_load_elasped: 1
+Loaded function exp06_run_audit_4. lib_load_elasped: 301, func_load_elasped: 2
+Loaded function exp06_run_audit_1. lib_load_elasped: 363, func_load_elasped: 1
+Loaded function exp06_run_audit_7. lib_load_elasped: 275, func_load_elasped: 2
+Loaded function exp06_run_audit_6. lib_load_elasped: 288, func_load_elasped: 1
+Loaded function exp06_run_audit_9. lib_load_elasped: 298, func_load_elasped: 2
+Loaded function exp06_run_audit_3. lib_load_elasped: 271, func_load_elasped: 1
+Loaded function exp06_run_audit_5. lib_load_elasped: 293, func_load_elasped: 1
+Loaded function exp06_run_audit_8. lib_load_elasped: 334, func_load_elasped: 2
+Loaded function exp06_marginbalance. lib_load_elasped: 359, func_load_elasped: 2
+req_id = 840001, token 4104006 us.
+req_id = 420001, token 4117216 us.
+req_id = 240002, token 4123626 us.
+req_id = 60006, token 3425241 us.
+req_id = 240004, token 4080540 us.
+req_id = 1200004, token 1375854 us.
+req_id = 360004, token 3886058 us.
+req_id = 60003, token 4187385 us.
+req_id = 300001, token 4209380 us.
+req_id = 120005, token 590148 us.
+req_id = 1200007, token 914432 us.
+Loaded function exp06_marketdata. lib_load_elasped: 5081, func_load_elasped: 3
+force_push: msg_id = 1110982, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 1110975, remain = -56, size = 8
+Send to executer failed.force_push: msg_id = 1110970, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 1111811, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 1111819, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 1112552, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 1112917, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 1115180, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 1117082, remain = 72, size = 64
+Send to executer failed.

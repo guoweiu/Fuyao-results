@@ -1,0 +1,31 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_marketdata. lib_load_elasped: 16929, func_load_elasped: 11
+Loaded function exp06_run_audit_6. lib_load_elasped: 255, func_load_elasped: 1
+Loaded function exp06_run_audit_2. lib_load_elasped: 248, func_load_elasped: 1
+Loaded function exp06_run_audit_4. lib_load_elasped: 206, func_load_elasped: 1
+Loaded function exp06_run_audit_5. lib_load_elasped: 270, func_load_elasped: 1
+Loaded function exp06_run_audit_3. lib_load_elasped: 279, func_load_elasped: 1
+Loaded function exp06_run_audit_10. lib_load_elasped: 274, func_load_elasped: 1
+Loaded function exp06_run_audit_8. lib_load_elasped: 392, func_load_elasped: 2
+Loaded function exp06_run_audit_9. lib_load_elasped: 274, func_load_elasped: 1
+Loaded function exp06_run_audit_1. lib_load_elasped: 484, func_load_elasped: 3
+Loaded function exp06_run_audit_7. lib_load_elasped: 257, func_load_elasped: 1
+force_push: msg_id = 2624460, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 2624468, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 2624463, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 2635219, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 2635220, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 2635222, remain = -56, size = 8
+Send to executer failed.force_push: msg_id = 2635223, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 2635225, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 2638082, remain = -56, size = 8
+Send to executer failed.force_push: msg_id = 2638084, remain = 8, size = 64
+Send to executer failed.Loaded function exp06_marginbalance. lib_load_elasped: 252, func_load_elasped: 1
+req_id = 360293, token 5758288 us.
+force_push: msg_id = 2661806, remain = 8, size = 64
+Send to executer failed.req_id = 1200242, token 18653167 us.
+req_id = 780196, token 2698389 us.
+req_id = 960231, token 999663 us.
+req_id = 960275, token 1923195 us.
+req_id = 120179, token 275057 us.

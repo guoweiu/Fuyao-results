@@ -1,0 +1,2099 @@
+Read file config.yml
+Worker puller binded
+Done Configuration
+Running kvs server...
+Schedule function exp06_marketdata with arg_flag 0 to executor 2. sched_time: 1702552916203110
+Schedule function exp06_marketdata with arg_flag 0 to executor 9. sched_time: 1702552916203328
+Schedule function exp06_marketdata with arg_flag 0 to executor 7. sched_time: 1702552916203391
+Schedule function exp06_marketdata with arg_flag 0 to executor 19. sched_time: 1702552916203791
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552916203869
+Schedule function exp06_marketdata with arg_flag 0 to executor 3. sched_time: 1702552916203936
+Schedule function exp06_marketdata with arg_flag 0 to executor 34. sched_time: 1702552916203996
+Schedule function exp06_marketdata with arg_flag 0 to executor 28. sched_time: 1702552916204054
+Schedule function exp06_marketdata with arg_flag 0 to executor 29. sched_time: 1702552916204218
+Schedule function exp06_marketdata with arg_flag 0 to executor 30. sched_time: 1702552916204275
+Schedule function exp06_marketdata with arg_flag 0 to executor 32. sched_time: 1702552916204406
+Schedule function exp06_marketdata with arg_flag 0 to executor 27. sched_time: 1702552916204537
+Schedule function exp06_marketdata with arg_flag 0 to executor 17. sched_time: 1702552916204669
+Schedule function exp06_marketdata with arg_flag 0 to executor 14. sched_time: 1702552916204808
+Schedule function exp06_marketdata with arg_flag 0 to executor 21. sched_time: 1702552916205299
+Schedule function exp06_marketdata with arg_flag 0 to executor 15. sched_time: 1702552916205403
+Schedule function exp06_marketdata with arg_flag 0 to executor 36. sched_time: 1702552916205460
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 24. sched_time: 1702552916212164
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 25. sched_time: 1702552916212315
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 20. sched_time: 1702552916212450
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 0. sched_time: 1702552916212576
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 23. sched_time: 1702552916212708
+Schedule function exp06_run_audit_4 with arg_flag 0 to executor 31. sched_time: 1702552916212848
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 13. sched_time: 1702552916213041
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 38. sched_time: 1702552916213171
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 6. sched_time: 1702552916213302
+Schedule function exp06_run_audit_6 with arg_flag 0 to executor 12. sched_time: 1702552916213423
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 26. sched_time: 1702552916213605
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 22. sched_time: 1702552916214231
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 10. sched_time: 1702552916214410
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 8. sched_time: 1702552916214586
+Schedule function exp06_run_audit_14 with arg_flag 0 to executor 1. sched_time: 1702552916214732
+Schedule function exp06_run_audit_4 with arg_flag 0 to executor 16. sched_time: 1702552916214860
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 37. sched_time: 1702552916215044
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 33. sched_time: 1702552916215195
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 18. sched_time: 1702552916215325
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 4. sched_time: 1702552916215446
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 35. sched_time: 1702552916215569
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 39. sched_time: 1702552916215746
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 5. sched_time: 1702552916215875
+Notified data b_exp06_marginbalance|k_exp06_run_audit_7fBJx0xqfWXEQEuOT
+Schedule function exp06_run_audit_29 with arg_flag 0 to executor 24. sched_time: 1702552916402958
+Notified data b_exp06_marginbalance|k_exp06_run_audit_6gglPFEATSRVE1FJe
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 12. sched_time: 1702552916406193
+Notified data b_exp06_marginbalance|k_exp06_run_audit_11fBJx0xqfWXEQEuOT
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 26. sched_time: 1702552916406929
+Notified data b_exp06_marginbalance|k_exp06_run_audit_16fBJx0xqfWXEQEuOT
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 4. sched_time: 1702552916407284
+Notified data b_exp06_marginbalance|k_exp06_run_audit_3gglPFEATSRVE1FJe
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 13. sched_time: 1702552916407827
+Notified data b_exp06_marginbalance|k_exp06_run_audit_8fBJx0xqfWXEQEuOT
+Notified data b_exp06_marginbalance|k_exp06_run_audit_7gglPFEATSRVE1FJe
+Schedule function exp06_marketdata with arg_flag 0 to executor 5. sched_time: 1702552916411169
+Notified data b_exp06_marginbalance|k_exp06_run_audit_14fBJx0xqfWXEQEuOT
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 25. sched_time: 1702552916412245
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15fBJx0xqfWXEQEuOT
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 35. sched_time: 1702552916414343
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 11. sched_time: 1702552916414707
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2fBJx0xqfWXEQEuOT
+Schedule function exp06_marketdata with arg_flag 0 to executor 20. sched_time: 1702552916416328
+Schedule function exp06_marketdata with arg_flag 0 to executor 1. sched_time: 1702552916416482
+Notified data b_exp06_marginbalance|k_exp06_run_audit_17fBJx0xqfWXEQEuOT
+Schedule function exp06_marketdata with arg_flag 0 to executor 37. sched_time: 1702552916417286
+Notified data b_exp06_marginbalance|k_exp06_run_audit_29MDbFOvjAjzIuFLFL
+Notified data b_exp06_marginbalance|k_exp06_run_audit_13gglPFEATSRVE1FJe
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 39. sched_time: 1702552916421647
+Notified data b_exp06_marginbalance|k_exp06_run_audit_39MDbFOvjAjzIuFLFL
+Notified data b_exp06_marginbalance|k_exp06_run_audit_11MDbFOvjAjzIuFLFL
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 24. sched_time: 1702552916423397
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 12. sched_time: 1702552916423958
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 26. sched_time: 1702552916424723
+Notified data b_exp06_marginbalance|k_exp06_run_audit_47csaE2ee4fDi2O72
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15nyWAr6CbzYWLiIoG
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552916427427
+Notified data b_exp06_marginbalance|k_exp06_run_audit_16MDbFOvjAjzIuFLFL
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 13. sched_time: 1702552916431576
+Notified data b_exp06_marginbalance|k_exp06_run_audit_5gglPFEATSRVE1FJe
+Schedule function exp06_marketdata with arg_flag 0 to executor 38. sched_time: 1702552916436000
+Notified data b_exp06_marginbalance|k_exp06_run_audit_23uDGiWo7gC7oNFEbT
+Notified data b_exp06_marginbalance|k_exp06_run_audit_12Vo947ASkwqvPsWrp
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 11. sched_time: 1702552916439093
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 25. sched_time: 1702552916439332
+Notified data b_exp06_marginbalance|k_exp06_run_audit_4fBJx0xqfWXEQEuOT
+Notified data b_exp06_marginbalance|k_exp06_run_audit_25s20imHC2dwKsZTtX
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 35. sched_time: 1702552916440833
+Notified data b_exp06_marginbalance|k_exp06_run_audit_12fBJx0xqfWXEQEuOT
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 16. sched_time: 1702552916443279
+Notified data b_exp06_marginbalance|k_exp06_run_audit_8gglPFEATSRVE1FJe
+Notified data b_exp06_marginbalance|k_exp06_run_audit_9fBJx0xqfWXEQEuOT
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 8. sched_time: 1702552916444809
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 23. sched_time: 1702552916444972
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 11. sched_time: 1702552916448828
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 4. sched_time: 1702552916449177
+Notified data b_exp06_marginbalance|k_exp06_run_audit_37BRFb7gRiRjXKJKxQ
+Notified data b_exp06_marginbalance|k_exp06_run_audit_3Cj2Hmnb0Hxa6wrNN
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552916452411
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 26. sched_time: 1702552916452830
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552916452958
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 26. sched_time: 1702552916453906
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 13. sched_time: 1702552916456614
+Schedule function exp06_marketdata with arg_flag 0 to executor 35. sched_time: 1702552916457051
+Notified data b_exp06_marginbalance|k_exp06_run_audit_23HJK1Eoi1bFEccSCj
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552916479386
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 25. sched_time: 1702552916480240
+Notified data b_exp06_marginbalance|k_exp06_run_audit_30Lmw4ziNjBUZGVkhP
+Notified data b_exp06_marginbalance|k_exp06_run_audit_7I70W1YNvCI5a3rWJ
+Schedule function exp06_marketdata with arg_flag 0 to executor 35. sched_time: 1702552916568280
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 22. sched_time: 1702552916572848
+Notified data b_exp06_marginbalance|k_exp06_run_audit_34MDbFOvjAjzIuFLFL
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 11. sched_time: 1702552916602038
+Notified data b_exp06_marginbalance|k_exp06_run_audit_9Vo947ASkwqvPsWrp
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 13. sched_time: 1702552916624721
+Notified data b_exp06_marginbalance|k_exp06_run_audit_39fBJx0xqfWXEQEuOT
+Schedule function exp06_marketdata with arg_flag 0 to executor 26. sched_time: 1702552916628434
+Schedule function exp06_marketdata with arg_flag 0 to executor 31. sched_time: 1702552916636518
+Notified data b_exp06_marginbalance|k_exp06_run_audit_17gglPFEATSRVE1FJe
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2gglPFEATSRVE1FJe
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 4. sched_time: 1702552916725903
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 26. sched_time: 1702552916728430
+Notified data b_exp06_marginbalance|k_exp06_run_audit_18MDbFOvjAjzIuFLFL
+Schedule function exp06_run_audit_36 with arg_flag 0 to executor 4. sched_time: 1702552916731680
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 8. sched_time: 1702552916732802
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 31. sched_time: 1702552916743647
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 24. sched_time: 1702552916743803
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 11. sched_time: 1702552916745196
+Schedule function exp06_run_audit_14 with arg_flag 0 to executor 24. sched_time: 1702552916745581
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 36. sched_time: 1702552916748259
+Notified data b_exp06_marginbalance|k_exp06_run_audit_16AhJUH7ZhftcYDC6F
+Notified data b_exp06_marginbalance|k_exp06_run_audit_11BRFb7gRiRjXKJKxQ
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 36. sched_time: 1702552916750685
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 39. sched_time: 1702552916751840
+Schedule function exp06_run_audit_31 with arg_flag 0 to executor 11. sched_time: 1702552916751992
+Notified data b_exp06_marginbalance|k_exp06_run_audit_34j2WbZ6mLhMtzTlul
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 4. sched_time: 1702552916755311
+Schedule function exp06_run_audit_4 with arg_flag 0 to executor 12. sched_time: 1702552916757083
+Notified data b_exp06_marginbalance|k_exp06_run_audit_24aIqfEcDRHH5qQhNm
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 11. sched_time: 1702552916760935
+Notified data b_exp06_marginbalance|k_exp06_run_audit_360WX0nf1d266Khvfz
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552916767669
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 39. sched_time: 1702552916770415
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2mmoz8J3gr96y8AGk
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 22. sched_time: 1702552916775724
+Notified data b_exp06_marginbalance|k_exp06_run_audit_31SXihEnd2oJEdv2a9
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 11. sched_time: 1702552916776314
+Schedule function exp06_marketdata with arg_flag 0 to executor 26. sched_time: 1702552916786159
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 13. sched_time: 1702552916790886
+Notified data b_exp06_marginbalance|k_exp06_run_audit_13ZveQtWtcipMDXNRB
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 4. sched_time: 1702552916804764
+Notified data b_exp06_marginbalance|k_exp06_run_audit_39WFvdAw3i67oxCxQc
+Notified data b_exp06_marginbalance|k_exp06_run_audit_18xqrALcG9wEklVTWX
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 25. sched_time: 1702552916819257
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15fhmUE0XMMaSBPgBU
+Notified data b_exp06_marginbalance|k_exp06_run_audit_5fhmUE0XMMaSBPgBU
+Schedule function exp06_marketdata with arg_flag 0 to executor 26. sched_time: 1702552916825648
+Schedule function exp06_run_audit_29 with arg_flag 0 to executor 11. sched_time: 1702552916827237
+Notified data b_exp06_marginbalance|k_exp06_run_audit_3963mvaKLWOTzRAi7I
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 11. sched_time: 1702552917119755
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 12. sched_time: 1702552917126181
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2I70W1YNvCI5a3rWJ
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 13. sched_time: 1702552917130587
+Notified data b_exp06_marginbalance|k_exp06_run_audit_10NpMzzzhOTxbTwlKk
+Notified data b_exp06_marginbalance|k_exp06_run_audit_4tQZfScdY8klh70Zq
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 12. sched_time: 1702552917161267
+Schedule function exp06_marketdata with arg_flag 0 to executor 25. sched_time: 1702552917161741
+Notified data b_exp06_marginbalance|k_exp06_run_audit_124prty0CIds8PNmyO
+Schedule function exp06_marketdata with arg_flag 0 to executor 39. sched_time: 1702552917171582
+Notified data b_exp06_marginbalance|k_exp06_run_audit_5iXkWGNPIUg20xe4c
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 36. sched_time: 1702552917176042
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 13. sched_time: 1702552917176678
+Notified data b_exp06_marginbalance|k_exp06_run_audit_5fBJx0xqfWXEQEuOT
+Notified data b_exp06_marginbalance|k_exp06_run_audit_29WY683LcEFu2qEJwN
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 11. sched_time: 1702552917222406
+Notified data b_exp06_marginbalance|k_exp06_run_audit_20I70W1YNvCI5a3rWJ
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 0. sched_time: 1702552917783303
+Notified data b_exp06_marginbalance|k_exp06_run_audit_77csaE2ee4fDi2O72
+Schedule function exp06_marketdata with arg_flag 0 to executor 25. sched_time: 1702552917900207
+Notified data b_exp06_marginbalance|k_exp06_run_audit_3H8hiaG6HGnUsgoPx
+Schedule function exp06_marketdata with arg_flag 0 to executor 0. sched_time: 1702552917976615
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 13. sched_time: 1702552917980769
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 18. sched_time: 1702552918000072
+Notified data b_exp06_marginbalance|k_exp06_run_audit_5I70W1YNvCI5a3rWJ
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 18. sched_time: 1702552918034126
+Notified data b_exp06_marginbalance|k_exp06_run_audit_11Vo947ASkwqvPsWrp
+Notified data b_exp06_marginbalance|k_exp06_run_audit_18fBJx0xqfWXEQEuOT
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 4. sched_time: 1702552918250029
+Notified data b_exp06_marginbalance|k_exp06_run_audit_30fhmUE0XMMaSBPgBU
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552918262700
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 12. sched_time: 1702552918272107
+Schedule function exp06_marketdata with arg_flag 0 to executor 16. sched_time: 1702552918277880
+Schedule function exp06_marketdata with arg_flag 0 to executor 16. sched_time: 1702552918281646
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2aIqfEcDRHH5qQhNm
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 4. sched_time: 1702552918289274
+Notified data b_exp06_marginbalance|k_exp06_run_audit_37iXkWGNPIUg20xe4c
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552918290987
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 33. sched_time: 1702552918291181
+Schedule function exp06_run_audit_4 with arg_flag 0 to executor 26. sched_time: 1702552918294633
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 33. sched_time: 1702552918295186
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 15. sched_time: 1702552919030301
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 20. sched_time: 1702552919086016
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 12. sched_time: 1702552919089099
+Schedule function exp06_run_audit_4 with arg_flag 0 to executor 4. sched_time: 1702552919097395
+Notified data b_exp06_marginbalance|k_exp06_run_audit_13MDbFOvjAjzIuFLFL
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 11. sched_time: 1702552919132039
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552919134620
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 33. sched_time: 1702552919158197
+Schedule function exp06_marketdata with arg_flag 0 to executor 16. sched_time: 1702552919165101
+Notified data b_exp06_marginbalance|k_exp06_run_audit_17SXihEnd2oJEdv2a9
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 36. sched_time: 1702552919177988
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15fe4DTxs7MDttSbFz
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 12. sched_time: 1702552919179424
+Notified data b_exp06_marginbalance|k_exp06_run_audit_40BRFb7gRiRjXKJKxQ
+Schedule function exp06_marketdata with arg_flag 0 to executor 6. sched_time: 1702552919182741
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552919182921
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 32. sched_time: 1702552919199997
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 15. sched_time: 1702552919203524
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 37. sched_time: 1702552919204185
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 32. sched_time: 1702552919265660
+Schedule function exp06_run_audit_27 with arg_flag 0 to executor 37. sched_time: 1702552919269275
+Schedule function exp06_marketdata with arg_flag 0 to executor 26. sched_time: 1702552919280698
+Notified data b_exp06_marginbalance|k_exp06_run_audit_30gglPFEATSRVE1FJe
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15qjNp3DlmW5i8D4yQ
+Schedule function exp06_marketdata with arg_flag 0 to executor 26. sched_time: 1702552919282166
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 22. sched_time: 1702552919283020
+Notified data b_exp06_marginbalance|k_exp06_run_audit_7GhjbrRGBKPyqPlE3
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 36. sched_time: 1702552919284651
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 5. sched_time: 1702552919285414
+Notified data b_exp06_marginbalance|k_exp06_run_audit_18s20imHC2dwKsZTtX
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 39. sched_time: 1702552919286023
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2SXihEnd2oJEdv2a9
+Schedule function exp06_run_audit_19 with arg_flag 0 to executor 39. sched_time: 1702552919286399
+Schedule function exp06_run_audit_27 with arg_flag 0 to executor 4. sched_time: 1702552919287175
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 0. sched_time: 1702552919287295
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 5. sched_time: 1702552919297584
+Schedule function exp06_marketdata with arg_flag 0 to executor 20. sched_time: 1702552919298310
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 0. sched_time: 1702552919298429
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 28. sched_time: 1702552919299643
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 28. sched_time: 1702552919300197
+Schedule function exp06_marketdata with arg_flag 0 to executor 23. sched_time: 1702552919300961
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 4. sched_time: 1702552919301083
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552919301617
+Notified data b_exp06_marginbalance|k_exp06_run_audit_4iXkWGNPIUg20xe4c
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 24. sched_time: 1702552919313877
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 11. sched_time: 1702552919346413
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 26. sched_time: 1702552919350342
+Notified data b_exp06_marginbalance|k_exp06_run_audit_4uX5dlW4RoF8BmUm4
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552919557591
+Notified data b_exp06_marginbalance|k_exp06_run_audit_21AhJUH7ZhftcYDC6F
+Schedule function exp06_marketdata with arg_flag 0 to executor 24. sched_time: 1702552919561521
+Schedule function exp06_run_audit_27 with arg_flag 0 to executor 38. sched_time: 1702552919561674
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 11. sched_time: 1702552919567039
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 22. sched_time: 1702552919599499
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 38. sched_time: 1702552919629874
+Notified data b_exp06_marginbalance|k_exp06_run_audit_23qjNp3DlmW5i8D4yQ
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2lI0Vrg3bNGwu7bwj
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 32. sched_time: 1702552919642276
+Notified data b_exp06_marginbalance|k_exp06_run_audit_39nyWAr6CbzYWLiIoG
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 32. sched_time: 1702552920469190
+Notified data b_exp06_marginbalance|k_exp06_run_audit_9iXkWGNPIUg20xe4c
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 13. sched_time: 1702552921184238
+Schedule function exp06_marketdata with arg_flag 0 to executor 13. sched_time: 1702552921185520
+Schedule function exp06_marketdata with arg_flag 0 to executor 25. sched_time: 1702552921187102
+Schedule function exp06_marketdata with arg_flag 0 to executor 25. sched_time: 1702552921188600
+Notified data b_exp06_marginbalance|k_exp06_run_audit_55QvuhQRnRg1wpP9S
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 6. sched_time: 1702552921211826
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 17. sched_time: 1702552921214306
+Notified data b_exp06_marginbalance|k_exp06_run_audit_11RTMgE6wdYtN6H86s
+Notified data b_exp06_marginbalance|k_exp06_run_audit_166hNWOBiBPgvMSppC
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 35. sched_time: 1702552921216316
+Schedule function exp06_marketdata with arg_flag 0 to executor 13. sched_time: 1702552921216461
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 31. sched_time: 1702552921216593
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 13. sched_time: 1702552921217159
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 35. sched_time: 1702552921217456
+Notified data b_exp06_marginbalance|k_exp06_run_audit_27nyWAr6CbzYWLiIoG
+Schedule function exp06_run_audit_6 with arg_flag 0 to executor 38. sched_time: 1702552921219480
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 33. sched_time: 1702552921219616
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 38. sched_time: 1702552921220040
+Notified data b_exp06_marginbalance|k_exp06_run_audit_34fBJx0xqfWXEQEuOT
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 33. sched_time: 1702552921221965
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 31. sched_time: 1702552921222745
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 17. sched_time: 1702552921223332
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15I70W1YNvCI5a3rWJ
+Schedule function exp06_marketdata with arg_flag 0 to executor 5. sched_time: 1702552921226116
+Schedule function exp06_run_audit_6 with arg_flag 0 to executor 16. sched_time: 1702552921226576
+Schedule function exp06_marketdata with arg_flag 0 to executor 27. sched_time: 1702552921226741
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 27. sched_time: 1702552921227324
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 22. sched_time: 1702552921227936
+Schedule function exp06_marketdata with arg_flag 0 to executor 16. sched_time: 1702552921228037
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 3. sched_time: 1702552921228174
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 39. sched_time: 1702552921228449
+Schedule function exp06_run_audit_29 with arg_flag 0 to executor 5. sched_time: 1702552921228945
+Notified data b_exp06_marginbalance|k_exp06_run_audit_13fBJx0xqfWXEQEuOT
+Notified data b_exp06_marginbalance|k_exp06_run_audit_34aFHUPQ30EXMcXFXL
+Schedule function exp06_marketdata with arg_flag 0 to executor 18. sched_time: 1702552921230101
+Schedule function exp06_marketdata with arg_flag 0 to executor 18. sched_time: 1702552921230619
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 39. sched_time: 1702552921231051
+Schedule function exp06_marketdata with arg_flag 0 to executor 8. sched_time: 1702552921231139
+Notified data b_exp06_marginbalance|k_exp06_run_audit_38j2WbZ6mLhMtzTlul
+Schedule function exp06_run_audit_27 with arg_flag 0 to executor 22. sched_time: 1702552921232337
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 31. sched_time: 1702552921233220
+Notified data b_exp06_marginbalance|k_exp06_run_audit_13GhjbrRGBKPyqPlE3
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 8. sched_time: 1702552921233507
+Notified data b_exp06_marginbalance|k_exp06_run_audit_10ZT5FZlOEc5jyAm9n
+Schedule function exp06_run_audit_22 with arg_flag 0 to executor 28. sched_time: 1702552921234369
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 28. sched_time: 1702552921236479
+Schedule function exp06_marketdata with arg_flag 0 to executor 3. sched_time: 1702552921236705
+Schedule function exp06_marketdata with arg_flag 0 to executor 10. sched_time: 1702552921237576
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2W9N9sXi1sCE4lG2U
+Schedule function exp06_marketdata with arg_flag 0 to executor 36. sched_time: 1702552921241034
+Notified data b_exp06_marginbalance|k_exp06_run_audit_39xqrALcG9wEklVTWX
+Schedule function exp06_marketdata with arg_flag 0 to executor 32. sched_time: 1702552921242717
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552921243245
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 34. sched_time: 1702552921243463
+Schedule function exp06_marketdata with arg_flag 0 to executor 34. sched_time: 1702552921244695
+Notified data b_exp06_marginbalance|k_exp06_run_audit_106hNWOBiBPgvMSppC
+Schedule function exp06_run_audit_29 with arg_flag 0 to executor 39. sched_time: 1702552921245101
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552921245751
+Schedule function exp06_run_audit_14 with arg_flag 0 to executor 32. sched_time: 1702552921246363
+Schedule function exp06_marketdata with arg_flag 0 to executor 19. sched_time: 1702552921248272
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 36. sched_time: 1702552921250056
+Notified data b_exp06_marginbalance|k_exp06_run_audit_3563mvaKLWOTzRAi7I
+Notified data b_exp06_marginbalance|k_exp06_run_audit_20Lmw4ziNjBUZGVkhP
+Schedule function exp06_marketdata with arg_flag 0 to executor 9. sched_time: 1702552921252757
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 19. sched_time: 1702552921253421
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 28. sched_time: 1702552921254036
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 37. sched_time: 1702552921603459
+Schedule function exp06_marketdata with arg_flag 0 to executor 37. sched_time: 1702552921615532
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 15. sched_time: 1702552921616260
+Schedule function exp06_marketdata with arg_flag 0 to executor 10. sched_time: 1702552921616410
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 14. sched_time: 1702552921680670
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35HJK1Eoi1bFEccSCj
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15WY683LcEFu2qEJwN
+Schedule function exp06_marketdata with arg_flag 0 to executor 31. sched_time: 1702552921722444
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 7. sched_time: 1702552921766766
+Schedule function exp06_marketdata with arg_flag 0 to executor 5. sched_time: 1702552921766919
+Notified data b_exp06_marginbalance|k_exp06_run_audit_1gglPFEATSRVE1FJe
+Schedule function exp06_marketdata with arg_flag 0 to executor 30. sched_time: 1702552921776665
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 0. sched_time: 1702552921776816
+Notified data b_exp06_marginbalance|k_exp06_run_audit_20MDbFOvjAjzIuFLFL
+Schedule function exp06_marketdata with arg_flag 0 to executor 0. sched_time: 1702552921781166
+Notified data b_exp06_marginbalance|k_exp06_run_audit_28NpMzzzhOTxbTwlKk
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 30. sched_time: 1702552921786354
+Schedule function exp06_run_audit_22 with arg_flag 0 to executor 1. sched_time: 1702552921787391
+Schedule function exp06_marketdata with arg_flag 0 to executor 13. sched_time: 1702552921791226
+Schedule function exp06_run_audit_29 with arg_flag 0 to executor 9. sched_time: 1702552921798184
+Schedule function exp06_run_audit_22 with arg_flag 0 to executor 33. sched_time: 1702552921806107
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 1. sched_time: 1702552921806249
+Schedule function exp06_run_audit_6 with arg_flag 0 to executor 7. sched_time: 1702552921808634
+Notified data b_exp06_marginbalance|k_exp06_run_audit_16OTKo4EdgCZwfHCma
+Schedule function exp06_run_audit_31 with arg_flag 0 to executor 23. sched_time: 1702552921809610
+Notified data b_exp06_marginbalance|k_exp06_run_audit_13e1RsyBPJuuWb9BJQ
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 0. sched_time: 1702552921810106
+Notified data b_exp06_marginbalance|k_exp06_run_audit_23fhmUE0XMMaSBPgBU
+Schedule function exp06_marketdata with arg_flag 0 to executor 32. sched_time: 1702552921810722
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 18. sched_time: 1702552921810844
+Schedule function exp06_run_audit_36 with arg_flag 0 to executor 14. sched_time: 1702552921810963
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 29. sched_time: 1702552921811079
+Notified data b_exp06_marginbalance|k_exp06_run_audit_195QvuhQRnRg1wpP9S
+Notified data b_exp06_marginbalance|k_exp06_run_audit_34SXihEnd2oJEdv2a9
+Notified data b_exp06_marginbalance|k_exp06_run_audit_25MwTTYTgnhFnkqznG
+Schedule function exp06_marketdata with arg_flag 0 to executor 0. sched_time: 1702552921817551
+Notified data b_exp06_marginbalance|k_exp06_run_audit_22xqrALcG9wEklVTWX
+Schedule function exp06_marketdata with arg_flag 0 to executor 23. sched_time: 1702552921817910
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 28. sched_time: 1702552921818037
+Notified data b_exp06_marginbalance|k_exp06_run_audit_34At9m8ANf2lxFrmro
+Notified data b_exp06_marginbalance|k_exp06_run_audit_188ALCCVqA1jdPPaMu
+Schedule function exp06_run_audit_31 with arg_flag 0 to executor 29. sched_time: 1702552921823053
+Schedule function exp06_marketdata with arg_flag 0 to executor 39. sched_time: 1702552921825203
+Schedule function exp06_marketdata with arg_flag 0 to executor 31. sched_time: 1702552921827383
+Notified data b_exp06_marginbalance|k_exp06_run_audit_14aIqfEcDRHH5qQhNm
+Schedule function exp06_marketdata with arg_flag 0 to executor 15. sched_time: 1702552921856041
+Schedule function exp06_run_audit_22 with arg_flag 0 to executor 24. sched_time: 1702552921868973
+Schedule function exp06_run_audit_19 with arg_flag 0 to executor 11. sched_time: 1702552922682752
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552923467249
+Notified data b_exp06_marginbalance|k_exp06_run_audit_348ALCCVqA1jdPPaMu
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 29. sched_time: 1702552923943828
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 12. sched_time: 1702552923955106
+Notified data b_exp06_marginbalance|k_exp06_run_audit_3063mvaKLWOTzRAi7I
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15PHQTwdA9ZS1JEnwf
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 22. sched_time: 1702552923962996
+Schedule function exp06_marketdata with arg_flag 0 to executor 22. sched_time: 1702552923969134
+Notified data b_exp06_marginbalance|k_exp06_run_audit_8lI0Vrg3bNGwu7bwj
+Notified data b_exp06_marginbalance|k_exp06_run_audit_37mmoz8J3gr96y8AGk
+Schedule function exp06_marketdata with arg_flag 0 to executor 17. sched_time: 1702552923979117
+Schedule function exp06_marketdata with arg_flag 0 to executor 33. sched_time: 1702552923980896
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 17. sched_time: 1702552923983291
+Notified data b_exp06_marginbalance|k_exp06_run_audit_385QvuhQRnRg1wpP9S
+Notified data b_exp06_marginbalance|k_exp06_run_audit_214prty0CIds8PNmyO
+Schedule function exp06_marketdata with arg_flag 0 to executor 20. sched_time: 1702552923993551
+Schedule function exp06_marketdata with arg_flag 0 to executor 20. sched_time: 1702552923997751
+Notified data b_exp06_marginbalance|k_exp06_run_audit_87csaE2ee4fDi2O72
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 33. sched_time: 1702552924001059
+Schedule function exp06_run_audit_36 with arg_flag 0 to executor 4. sched_time: 1702552924002014
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552924002368
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 38. sched_time: 1702552924002735
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 12. sched_time: 1702552924003146
+Schedule function exp06_run_audit_4 with arg_flag 0 to executor 4. sched_time: 1702552924003871
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15iXkWGNPIUg20xe4c
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 25. sched_time: 1702552924005108
+Schedule function exp06_marketdata with arg_flag 0 to executor 36. sched_time: 1702552924005355
+Schedule function exp06_run_audit_6 with arg_flag 0 to executor 32. sched_time: 1702552924006099
+Schedule function exp06_marketdata with arg_flag 0 to executor 38. sched_time: 1702552924030787
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552924030926
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 36. sched_time: 1702552924031879
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 14. sched_time: 1702552924032027
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 32. sched_time: 1702552924034183
+Schedule function exp06_marketdata with arg_flag 0 to executor 14. sched_time: 1702552924035955
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 11. sched_time: 1702552924067105
+Notified data b_exp06_marginbalance|k_exp06_run_audit_27ENWvylBE7oMKNx7L
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 26. sched_time: 1702552924068231
+Notified data b_exp06_marginbalance|k_exp06_run_audit_346hNWOBiBPgvMSppC
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 0. sched_time: 1702552924069436
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 16. sched_time: 1702552924069612
+Notified data b_exp06_marginbalance|k_exp06_run_audit_278ALCCVqA1jdPPaMu
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552924070069
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 39. sched_time: 1702552924070347
+Schedule function exp06_marketdata with arg_flag 0 to executor 16. sched_time: 1702552924070513
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 18. sched_time: 1702552924070896
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 26. sched_time: 1702552924071293
+Notified data b_exp06_marginbalance|k_exp06_run_audit_140WX0nf1d266Khvfz
+Schedule function exp06_marketdata with arg_flag 0 to executor 32. sched_time: 1702552924104045
+Notified data b_exp06_marginbalance|k_exp06_run_audit_150WX0nf1d266Khvfz
+Schedule function exp06_marketdata with arg_flag 0 to executor 17. sched_time: 1702552924104734
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 24. sched_time: 1702552924104879
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 18. sched_time: 1702552924105429
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 13. sched_time: 1702552924106358
+Schedule function exp06_marketdata with arg_flag 0 to executor 13. sched_time: 1702552924130200
+Notified data b_exp06_marginbalance|k_exp06_run_audit_368ALCCVqA1jdPPaMu
+Schedule function exp06_run_audit_36 with arg_flag 0 to executor 25. sched_time: 1702552924170774
+Notified data b_exp06_marginbalance|k_exp06_run_audit_30SXihEnd2oJEdv2a9
+Schedule function exp06_marketdata with arg_flag 0 to executor 0. sched_time: 1702552924180469
+Schedule function exp06_marketdata with arg_flag 0 to executor 14. sched_time: 1702552924192055
+Notified data b_exp06_marginbalance|k_exp06_run_audit_5WY683LcEFu2qEJwN
+Schedule function exp06_run_audit_6 with arg_flag 0 to executor 4. sched_time: 1702552924294882
+Schedule function exp06_marketdata with arg_flag 0 to executor 37. sched_time: 1702552924307450
+Notified data b_exp06_marginbalance|k_exp06_run_audit_30MDbFOvjAjzIuFLFL
+Schedule function exp06_marketdata with arg_flag 0 to executor 7. sched_time: 1702552924871212
+Notified data b_exp06_marginbalance|k_exp06_run_audit_24s20imHC2dwKsZTtX
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 36. sched_time: 1702552924873741
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 31. sched_time: 1702552924910196
+Notified data b_exp06_marginbalance|k_exp06_run_audit_1cxULJdlnp1n793v0
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 39. sched_time: 1702552924914501
+Schedule function exp06_marketdata with arg_flag 0 to executor 5. sched_time: 1702552924914636
+Schedule function exp06_marketdata with arg_flag 0 to executor 5. sched_time: 1702552924937037
+Schedule function exp06_marketdata with arg_flag 0 to executor 37. sched_time: 1702552925037277
+Schedule function exp06_marketdata with arg_flag 0 to executor 7. sched_time: 1702552925075603
+Notified data b_exp06_marginbalance|k_exp06_run_audit_76hNWOBiBPgvMSppC
+Schedule function exp06_marketdata with arg_flag 0 to executor 24. sched_time: 1702552925088917
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 24. sched_time: 1702552925089563
+Notified data b_exp06_marginbalance|k_exp06_run_audit_7PHQTwdA9ZS1JEnwf
+Schedule function exp06_marketdata with arg_flag 0 to executor 22. sched_time: 1702552925092701
+Schedule function exp06_marketdata with arg_flag 0 to executor 22. sched_time: 1702552925093084
+Notified data b_exp06_marginbalance|k_exp06_run_audit_26OTKo4EdgCZwfHCma
+Notified data b_exp06_marginbalance|k_exp06_run_audit_9fe4DTxs7MDttSbFz
+Notified data b_exp06_marginbalance|k_exp06_run_audit_6e1RsyBPJuuWb9BJQ
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552925097165
+Schedule function exp06_marketdata with arg_flag 0 to executor 39. sched_time: 1702552925097742
+Schedule function exp06_marketdata with arg_flag 0 to executor 38. sched_time: 1702552925106569
+Notified data b_exp06_marginbalance|k_exp06_run_audit_29SXihEnd2oJEdv2a9
+Notified data b_exp06_marginbalance|k_exp06_run_audit_11iXkWGNPIUg20xe4c
+Schedule function exp06_marketdata with arg_flag 0 to executor 39. sched_time: 1702552925109002
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552925110410
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 15. sched_time: 1702552925130925
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 11. sched_time: 1702552925133232
+Schedule function exp06_run_audit_14 with arg_flag 0 to executor 15. sched_time: 1702552925135042
+Schedule function exp06_marketdata with arg_flag 0 to executor 33. sched_time: 1702552925374034
+Notified data b_exp06_marginbalance|k_exp06_run_audit_1OTKo4EdgCZwfHCma
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 22. sched_time: 1702552925395658
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 31. sched_time: 1702552925508461
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 33. sched_time: 1702552925520085
+Notified data b_exp06_marginbalance|k_exp06_run_audit_29iXkWGNPIUg20xe4c
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 5. sched_time: 1702552925534499
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15MDbFOvjAjzIuFLFL
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 37. sched_time: 1702552925561853
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 37. sched_time: 1702552925566718
+Notified data b_exp06_marginbalance|k_exp06_run_audit_8nyWAr6CbzYWLiIoG
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 3. sched_time: 1702552925655304
+Schedule function exp06_marketdata with arg_flag 0 to executor 3. sched_time: 1702552925655453
+Notified data b_exp06_marginbalance|k_exp06_run_audit_190WX0nf1d266Khvfz
+Notified data b_exp06_marginbalance|k_exp06_run_audit_6WFvdAw3i67oxCxQc
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 11. sched_time: 1702552925668557
+Notified data b_exp06_marginbalance|k_exp06_run_audit_25OTKo4EdgCZwfHCma
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 7. sched_time: 1702552925689906
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 7. sched_time: 1702552925690550
+Notified data b_exp06_marginbalance|k_exp06_run_audit_16SXihEnd2oJEdv2a9
+Notified data b_exp06_marginbalance|k_exp06_run_audit_27MwTTYTgnhFnkqznG
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 22. sched_time: 1702552925927645
+Schedule function exp06_marketdata with arg_flag 0 to executor 28. sched_time: 1702552925934959
+Schedule function exp06_run_audit_36 with arg_flag 0 to executor 12. sched_time: 1702552925935990
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552925940205
+Schedule function exp06_marketdata with arg_flag 0 to executor 28. sched_time: 1702552925953460
+Notified data b_exp06_marginbalance|k_exp06_run_audit_31NpMzzzhOTxbTwlKk
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 21. sched_time: 1702552925983337
+Schedule function exp06_marketdata with arg_flag 0 to executor 38. sched_time: 1702552925994933
+Schedule function exp06_marketdata with arg_flag 0 to executor 29. sched_time: 1702552925996281
+Schedule function exp06_marketdata with arg_flag 0 to executor 21. sched_time: 1702552925998679
+Notified data b_exp06_marginbalance|k_exp06_run_audit_156hNWOBiBPgvMSppC
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 34. sched_time: 1702552926027636
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 34. sched_time: 1702552926033891
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 29. sched_time: 1702552926066943
+Notified data b_exp06_marginbalance|k_exp06_run_audit_158ALCCVqA1jdPPaMu
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 29. sched_time: 1702552926102597
+Schedule function exp06_marketdata with arg_flag 0 to executor 38. sched_time: 1702552926152879
+Schedule function exp06_marketdata with arg_flag 0 to executor 26. sched_time: 1702552926186763
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 36. sched_time: 1702552926372445
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 35. sched_time: 1702552926375104
+Notified data b_exp06_marginbalance|k_exp06_run_audit_24e1RsyBPJuuWb9BJQ
+Schedule function exp06_marketdata with arg_flag 0 to executor 24. sched_time: 1702552926378161
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 10. sched_time: 1702552926378751
+Schedule function exp06_marketdata with arg_flag 0 to executor 24. sched_time: 1702552926379300
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 26. sched_time: 1702552926389758
+Notified data b_exp06_marginbalance|k_exp06_run_audit_20ZveQtWtcipMDXNRB
+Notified data b_exp06_marginbalance|k_exp06_run_audit_21HTNCBGk9mm9jw31Q
+Schedule function exp06_run_audit_31 with arg_flag 0 to executor 10. sched_time: 1702552926403767
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 6. sched_time: 1702552926406052
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 21. sched_time: 1702552926406899
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 8. sched_time: 1702552926409343
+Notified data b_exp06_marginbalance|k_exp06_run_audit_20vdQsE7YkMuhADUhA
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 20. sched_time: 1702552926427010
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 35. sched_time: 1702552926427162
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 5. sched_time: 1702552926427293
+Schedule function exp06_run_audit_6 with arg_flag 0 to executor 5. sched_time: 1702552926427419
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 4. sched_time: 1702552926429237
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 36. sched_time: 1702552926429395
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 38. sched_time: 1702552926430480
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 20. sched_time: 1702552926431117
+Notified data b_exp06_marginbalance|k_exp06_run_audit_30nyWAr6CbzYWLiIoG
+Notified data b_exp06_marginbalance|k_exp06_run_audit_26aIqfEcDRHH5qQhNm
+Schedule function exp06_marketdata with arg_flag 0 to executor 22. sched_time: 1702552926446159
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 22. sched_time: 1702552926462780
+Notified data b_exp06_marginbalance|k_exp06_run_audit_39ZT5FZlOEc5jyAm9n
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 26. sched_time: 1702552926465363
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 35. sched_time: 1702552926489669
+Notified data b_exp06_marginbalance|k_exp06_run_audit_22W9N9sXi1sCE4lG2U
+Notified data b_exp06_marginbalance|k_exp06_run_audit_34H8hiaG6HGnUsgoPx
+Notified data b_exp06_marginbalance|k_exp06_run_audit_38e1RsyBPJuuWb9BJQ
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 26. sched_time: 1702552926506769
+Schedule function exp06_marketdata with arg_flag 0 to executor 13. sched_time: 1702552926507239
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 28. sched_time: 1702552926508007
+Schedule function exp06_marketdata with arg_flag 0 to executor 13. sched_time: 1702552926508286
+Schedule function exp06_marketdata with arg_flag 0 to executor 16. sched_time: 1702552926508426
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 24. sched_time: 1702552926509121
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 16. sched_time: 1702552926510861
+Notified data b_exp06_marginbalance|k_exp06_run_audit_6qjNp3DlmW5i8D4yQ
+Notified data b_exp06_marginbalance|k_exp06_run_audit_21fBJx0xqfWXEQEuOT
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 26. sched_time: 1702552926521793
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 9. sched_time: 1702552926570166
+Notified data b_exp06_marginbalance|k_exp06_run_audit_37iWxfeB9vjkGkvxs
+Notified data b_exp06_marginbalance|k_exp06_run_audit_18Cj2Hmnb0Hxa6wrNN
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 9. sched_time: 1702552926574238
+Schedule function exp06_run_audit_22 with arg_flag 0 to executor 35. sched_time: 1702552926576580
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 6. sched_time: 1702552926576732
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 24. sched_time: 1702552926581071
+Notified data b_exp06_marginbalance|k_exp06_run_audit_29fBJx0xqfWXEQEuOT
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 9. sched_time: 1702552926585270
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 15. sched_time: 1702552926587873
+Notified data b_exp06_marginbalance|k_exp06_run_audit_117csaE2ee4fDi2O72
+Schedule function exp06_run_audit_22 with arg_flag 0 to executor 35. sched_time: 1702552926589906
+Schedule function exp06_run_audit_31 with arg_flag 0 to executor 16. sched_time: 1702552926590203
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 37. sched_time: 1702552926590862
+Schedule function exp06_marketdata with arg_flag 0 to executor 37. sched_time: 1702552926600783
+Notified data b_exp06_marginbalance|k_exp06_run_audit_10SXihEnd2oJEdv2a9
+Schedule function exp06_marketdata with arg_flag 0 to executor 13. sched_time: 1702552926604601
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35uDGiWo7gC7oNFEbT
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 22. sched_time: 1702552926618323
+Notified data b_exp06_marginbalance|k_exp06_run_audit_40RNHfVmSH0GpNHbtD
+Notified data b_exp06_marginbalance|k_exp06_run_audit_12ZT5FZlOEc5jyAm9n
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 36. sched_time: 1702552926621377
+Schedule function exp06_marketdata with arg_flag 0 to executor 15. sched_time: 1702552926681749
+Notified data b_exp06_marginbalance|k_exp06_run_audit_285QvuhQRnRg1wpP9S
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 9. sched_time: 1702552926695304
+Schedule function exp06_marketdata with arg_flag 0 to executor 35. sched_time: 1702552926734184
+Schedule function exp06_marketdata with arg_flag 0 to executor 17. sched_time: 1702552926736963
+Notified data b_exp06_marginbalance|k_exp06_run_audit_23OTKo4EdgCZwfHCma
+Schedule function exp06_marketdata with arg_flag 0 to executor 17. sched_time: 1702552926792473
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 9. sched_time: 1702552926793791
+Schedule function exp06_marketdata with arg_flag 0 to executor 8. sched_time: 1702552926900237
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 18. sched_time: 1702552926920233
+Schedule function exp06_marketdata with arg_flag 0 to executor 18. sched_time: 1702552926920414
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 14. sched_time: 1702552926920669
+Schedule function exp06_marketdata with arg_flag 0 to executor 39. sched_time: 1702552926921950
+Schedule function exp06_marketdata with arg_flag 0 to executor 39. sched_time: 1702552927102354
+Schedule function exp06_marketdata with arg_flag 0 to executor 24. sched_time: 1702552927179350
+Notified data b_exp06_marginbalance|k_exp06_run_audit_17Vo947ASkwqvPsWrp
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 24. sched_time: 1702552927189242
+Notified data b_exp06_marginbalance|k_exp06_run_audit_220WX0nf1d266Khvfz
+Notified data b_exp06_marginbalance|k_exp06_run_audit_34xqrALcG9wEklVTWX
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 39. sched_time: 1702552927197035
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 22. sched_time: 1702552927200673
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552927207220
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35PHQTwdA9ZS1JEnwf
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 39. sched_time: 1702552927208968
+Notified data b_exp06_marginbalance|k_exp06_run_audit_57iWxfeB9vjkGkvxs
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 35. sched_time: 1702552927211274
+Notified data b_exp06_marginbalance|k_exp06_run_audit_7nyWAr6CbzYWLiIoG
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 4. sched_time: 1702552927213157
+Schedule function exp06_marketdata with arg_flag 0 to executor 35. sched_time: 1702552927214140
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 12. sched_time: 1702552927222011
+Schedule function exp06_marketdata with arg_flag 0 to executor 28. sched_time: 1702552927222287
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 28. sched_time: 1702552927236829
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 12. sched_time: 1702552927238672
+Notified data b_exp06_marginbalance|k_exp06_run_audit_22MDbFOvjAjzIuFLFL
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 24. sched_time: 1702552927240214
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 5. sched_time: 1702552927240983
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 0. sched_time: 1702552927269991
+Schedule function exp06_run_audit_27 with arg_flag 0 to executor 22. sched_time: 1702552927277297
+Schedule function exp06_run_audit_29 with arg_flag 0 to executor 24. sched_time: 1702552927277705
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 0. sched_time: 1702552927278524
+Notified data b_exp06_marginbalance|k_exp06_run_audit_3HJK1Eoi1bFEccSCj
+Schedule function exp06_marketdata with arg_flag 0 to executor 22. sched_time: 1702552927280123
+Schedule function exp06_marketdata with arg_flag 0 to executor 35. sched_time: 1702552927280387
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 32. sched_time: 1702552927280561
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 32. sched_time: 1702552927283130
+Notified data b_exp06_marginbalance|k_exp06_run_audit_25Cj2Hmnb0Hxa6wrNN
+Notified data b_exp06_marginbalance|k_exp06_run_audit_21Too37YkQ2sORon5g
+Schedule function exp06_run_audit_22 with arg_flag 0 to executor 22. sched_time: 1702552927310351
+Schedule function exp06_marketdata with arg_flag 0 to executor 31. sched_time: 1702552927313952
+Schedule function exp06_marketdata with arg_flag 0 to executor 31. sched_time: 1702552927315244
+Notified data b_exp06_marginbalance|k_exp06_run_audit_36AhJUH7ZhftcYDC6F
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552927340715
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 20. sched_time: 1702552927342351
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 36. sched_time: 1702552927344864
+Notified data b_exp06_marginbalance|k_exp06_run_audit_4lI0Vrg3bNGwu7bwj
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 4. sched_time: 1702552927346395
+Notified data b_exp06_marginbalance|k_exp06_run_audit_22JQCBA2eWIFtYmfjg
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 14. sched_time: 1702552927353843
+Schedule function exp06_run_audit_29 with arg_flag 0 to executor 26. sched_time: 1702552927357788
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 33. sched_time: 1702552927359503
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 27. sched_time: 1702552927359914
+Notified data b_exp06_marginbalance|k_exp06_run_audit_6j2WbZ6mLhMtzTlul
+Schedule function exp06_run_audit_22 with arg_flag 0 to executor 32. sched_time: 1702552927365096
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 33. sched_time: 1702552927366672
+Schedule function exp06_marketdata with arg_flag 0 to executor 25. sched_time: 1702552927367518
+Schedule function exp06_marketdata with arg_flag 0 to executor 25. sched_time: 1702552927370337
+Schedule function exp06_marketdata with arg_flag 0 to executor 24. sched_time: 1702552927371814
+Schedule function exp06_marketdata with arg_flag 0 to executor 19. sched_time: 1702552927372098
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 19. sched_time: 1702552927372260
+Notified data b_exp06_marginbalance|k_exp06_run_audit_11FvdRvN7xTryUdW8B
+Schedule function exp06_marketdata with arg_flag 0 to executor 24. sched_time: 1702552927374543
+Schedule function exp06_marketdata with arg_flag 0 to executor 35. sched_time: 1702552927375033
+Schedule function exp06_marketdata with arg_flag 0 to executor 36. sched_time: 1702552927375458
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 16. sched_time: 1702552927378219
+Notified data b_exp06_marginbalance|k_exp06_run_audit_258ALCCVqA1jdPPaMu
+Notified data b_exp06_marginbalance|k_exp06_run_audit_32WUUKkbvEMqz7Oi9a
+Schedule function exp06_run_audit_31 with arg_flag 0 to executor 32. sched_time: 1702552927379405
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 24. sched_time: 1702552927379561
+Notified data b_exp06_marginbalance|k_exp06_run_audit_24ZT5FZlOEc5jyAm9n
+Schedule function exp06_run_audit_22 with arg_flag 0 to executor 1. sched_time: 1702552927479816
+Notified data b_exp06_marginbalance|k_exp06_run_audit_79AvEX0u7Iv50cZfJ
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 27. sched_time: 1702552927482496
+Notified data b_exp06_marginbalance|k_exp06_run_audit_17ENWvylBE7oMKNx7L
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 16. sched_time: 1702552927518577
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552927520411
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 0. sched_time: 1702552927522496
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 3. sched_time: 1702552927522650
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 3. sched_time: 1702552927539225
+Notified data b_exp06_marginbalance|k_exp06_run_audit_32ENWvylBE7oMKNx7L
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552927543344
+Schedule function exp06_marketdata with arg_flag 0 to executor 39. sched_time: 1702552927582294
+Schedule function exp06_run_audit_31 with arg_flag 0 to executor 37. sched_time: 1702552927627820
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 18. sched_time: 1702552927683986
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 4. sched_time: 1702552927824910
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552927844157
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 26. sched_time: 1702552927916164
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 13. sched_time: 1702552927918747
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 13. sched_time: 1702552927949550
+Notified data b_exp06_marginbalance|k_exp06_run_audit_11gglPFEATSRVE1FJe
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 30. sched_time: 1702552927996465
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 5. sched_time: 1702552928053803
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 17. sched_time: 1702552928065648
+Notified data b_exp06_marginbalance|k_exp06_run_audit_28GhjbrRGBKPyqPlE3
+Schedule function exp06_marketdata with arg_flag 0 to executor 5. sched_time: 1702552928108091
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 17. sched_time: 1702552928108994
+Notified data b_exp06_marginbalance|k_exp06_run_audit_1AhJUH7ZhftcYDC6F
+Notified data b_exp06_marginbalance|k_exp06_run_audit_226hNWOBiBPgvMSppC
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 1. sched_time: 1702552928155027
+Schedule function exp06_marketdata with arg_flag 0 to executor 18. sched_time: 1702552928175073
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 18. sched_time: 1702552928181251
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 33. sched_time: 1702552928182883
+Notified data b_exp06_marginbalance|k_exp06_run_audit_16j2WbZ6mLhMtzTlul
+Notified data b_exp06_marginbalance|k_exp06_run_audit_20H8hiaG6HGnUsgoPx
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 18. sched_time: 1702552928264601
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 5. sched_time: 1702552928265044
+Schedule function exp06_marketdata with arg_flag 0 to executor 26. sched_time: 1702552928346550
+Notified data b_exp06_marginbalance|k_exp06_run_audit_17cyttFWIVcDSViKTW
+Schedule function exp06_run_audit_33 with arg_flag 0 to executor 18. sched_time: 1702552928348444
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 22. sched_time: 1702552928350917
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552928354597
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 20. sched_time: 1702552928354729
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 24. sched_time: 1702552928354863
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 38. sched_time: 1702552928354973
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 30. sched_time: 1702552928355092
+Schedule function exp06_run_audit_19 with arg_flag 0 to executor 38. sched_time: 1702552928355412
+Notified data b_exp06_marginbalance|k_exp06_run_audit_1ENWvylBE7oMKNx7L
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 20. sched_time: 1702552928373257
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 36. sched_time: 1702552928373941
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 22. sched_time: 1702552928374067
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15RNHfVmSH0GpNHbtD
+Schedule function exp06_marketdata with arg_flag 0 to executor 20. sched_time: 1702552928391481
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 24. sched_time: 1702552928397141
+Notified data b_exp06_marginbalance|k_exp06_run_audit_11nyWAr6CbzYWLiIoG
+Notified data b_exp06_marginbalance|k_exp06_run_audit_12lI0Vrg3bNGwu7bwj
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 20. sched_time: 1702552928400380
+Notified data b_exp06_marginbalance|k_exp06_run_audit_21ENWvylBE7oMKNx7L
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 22. sched_time: 1702552928402788
+Notified data b_exp06_marginbalance|k_exp06_run_audit_18At9m8ANf2lxFrmro
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 20. sched_time: 1702552928404356
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 36. sched_time: 1702552928405157
+Notified data b_exp06_marginbalance|k_exp06_run_audit_3ojL02hhHtPlBgoWH
+Schedule function exp06_marketdata with arg_flag 0 to executor 36. sched_time: 1702552928405730
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 24. sched_time: 1702552928408181
+Notified data b_exp06_marginbalance|k_exp06_run_audit_40rYZL8GcGkY8JAKPZ
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 20. sched_time: 1702552928409597
+Notified data b_exp06_marginbalance|k_exp06_run_audit_40C08uPMruMrO4UPrb
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 36. sched_time: 1702552928411307
+Notified data b_exp06_marginbalance|k_exp06_run_audit_10qjNp3DlmW5i8D4yQ
+Notified data b_exp06_marginbalance|k_exp06_run_audit_9thFGmnT6L3wbdegD
+Schedule function exp06_run_audit_33 with arg_flag 0 to executor 36. sched_time: 1702552928423050
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 38. sched_time: 1702552928423240
+Schedule function exp06_run_audit_22 with arg_flag 0 to executor 22. sched_time: 1702552928423887
+Notified data b_exp06_marginbalance|k_exp06_run_audit_1AS7GibRKhcj7lMSo
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 20. sched_time: 1702552928425319
+Notified data b_exp06_marginbalance|k_exp06_run_audit_23e1RsyBPJuuWb9BJQ
+Notified data b_exp06_marginbalance|k_exp06_run_audit_25QXjpQ8B6jwZ2Vvmd
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 36. sched_time: 1702552928454791
+Notified data b_exp06_marginbalance|k_exp06_run_audit_1JQCBA2eWIFtYmfjg
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15Q0Umdxq2c39uPils
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 22. sched_time: 1702552928462248
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 36. sched_time: 1702552928463576
+Notified data b_exp06_marginbalance|k_exp06_run_audit_38ReUFwqXnCU65IUeQ
+Schedule function exp06_marketdata with arg_flag 0 to executor 24. sched_time: 1702552928503227
+Notified data b_exp06_marginbalance|k_exp06_run_audit_27ojL02hhHtPlBgoWH
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2979frAZSEPZ27PBg6
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 22. sched_time: 1702552928580051
+Schedule function exp06_run_audit_14 with arg_flag 0 to executor 24. sched_time: 1702552928580524
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 7. sched_time: 1702552928601979
+Notified data b_exp06_marginbalance|k_exp06_run_audit_16xqrALcG9wEklVTWX
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 32. sched_time: 1702552928602890
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 7. sched_time: 1702552928603257
+Schedule function exp06_marketdata with arg_flag 0 to executor 31. sched_time: 1702552928606250
+Schedule function exp06_marketdata with arg_flag 0 to executor 13. sched_time: 1702552928607284
+Schedule function exp06_marketdata with arg_flag 0 to executor 10. sched_time: 1702552928607543
+Notified data b_exp06_marginbalance|k_exp06_run_audit_29AvEX0u7Iv50cZfJ
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 30. sched_time: 1702552928609674
+Notified data b_exp06_marginbalance|k_exp06_run_audit_67iWxfeB9vjkGkvxs
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 10. sched_time: 1702552928615589
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 32. sched_time: 1702552928640608
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 28. sched_time: 1702552928675067
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 28. sched_time: 1702552928712343
+Schedule function exp06_marketdata with arg_flag 0 to executor 21. sched_time: 1702552928810390
+Schedule function exp06_marketdata with arg_flag 0 to executor 21. sched_time: 1702552928810540
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552928811008
+Schedule function exp06_marketdata with arg_flag 0 to executor 15. sched_time: 1702552928812255
+Notified data b_exp06_marginbalance|k_exp06_run_audit_28RNHfVmSH0GpNHbtD
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 21. sched_time: 1702552928813767
+Schedule function exp06_run_audit_36 with arg_flag 0 to executor 15. sched_time: 1702552928814712
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 6. sched_time: 1702552928821746
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 6. sched_time: 1702552928840852
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 4. sched_time: 1702552928843621
+Schedule function exp06_marketdata with arg_flag 0 to executor 29. sched_time: 1702552928854128
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35C08uPMruMrO4UPrb
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 30. sched_time: 1702552928899137
+Notified data b_exp06_marginbalance|k_exp06_run_audit_1mmoz8J3gr96y8AGk
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 12. sched_time: 1702552928902017
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 14. sched_time: 1702552929088970
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 31. sched_time: 1702552929102103
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 29. sched_time: 1702552929110444
+Schedule function exp06_marketdata with arg_flag 0 to executor 26. sched_time: 1702552929112958
+Notified data b_exp06_marginbalance|k_exp06_run_audit_1ylGWEga7qfNOVIle
+Schedule function exp06_marketdata with arg_flag 0 to executor 26. sched_time: 1702552929167675
+Notified data b_exp06_marginbalance|k_exp06_run_audit_378ALCCVqA1jdPPaMu
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 25. sched_time: 1702552929176466
+Schedule function exp06_run_audit_19 with arg_flag 0 to executor 35. sched_time: 1702552929179269
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 17. sched_time: 1702552929180208
+Notified data b_exp06_marginbalance|k_exp06_run_audit_9aIqfEcDRHH5qQhNm
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 12. sched_time: 1702552929184817
+Schedule function exp06_marketdata with arg_flag 0 to executor 34. sched_time: 1702552929188009
+Notified data b_exp06_marginbalance|k_exp06_run_audit_28nyWAr6CbzYWLiIoG
+Schedule function exp06_marketdata with arg_flag 0 to executor 32. sched_time: 1702552929216304
+Notified data b_exp06_marginbalance|k_exp06_run_audit_56hNWOBiBPgvMSppC
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 31. sched_time: 1702552929402766
+Notified data b_exp06_marginbalance|k_exp06_run_audit_24aFHUPQ30EXMcXFXL
+Schedule function exp06_marketdata with arg_flag 0 to executor 26. sched_time: 1702552929403633
+Notified data b_exp06_marginbalance|k_exp06_run_audit_21cxULJdlnp1n793v0
+Notified data b_exp06_marginbalance|k_exp06_run_audit_36FvdRvN7xTryUdW8B
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 5. sched_time: 1702552929406307
+Schedule function exp06_marketdata with arg_flag 0 to executor 39. sched_time: 1702552929406589
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 32. sched_time: 1702552929407239
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 18. sched_time: 1702552929407660
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 18. sched_time: 1702552929407755
+Schedule function exp06_run_audit_14 with arg_flag 0 to executor 12. sched_time: 1702552929407971
+Schedule function exp06_marketdata with arg_flag 0 to executor 5. sched_time: 1702552929408202
+Schedule function exp06_marketdata with arg_flag 0 to executor 34. sched_time: 1702552929408891
+Notified data b_exp06_marginbalance|k_exp06_run_audit_7At9m8ANf2lxFrmro
+Schedule function exp06_marketdata with arg_flag 0 to executor 26. sched_time: 1702552929438287
+Notified data b_exp06_marginbalance|k_exp06_run_audit_40ZveQtWtcipMDXNRB
+Notified data b_exp06_marginbalance|k_exp06_run_audit_7Cj2Hmnb0Hxa6wrNN
+Schedule function exp06_run_audit_6 with arg_flag 0 to executor 31. sched_time: 1702552929447567
+Schedule function exp06_marketdata with arg_flag 0 to executor 23. sched_time: 1702552929448796
+Notified data b_exp06_marginbalance|k_exp06_run_audit_29thFGmnT6L3wbdegD
+Notified data b_exp06_marginbalance|k_exp06_run_audit_70WX0nf1d266Khvfz
+Notified data b_exp06_marginbalance|k_exp06_run_audit_12fHwmAMJz0WrHCtEd
+Schedule function exp06_marketdata with arg_flag 0 to executor 18. sched_time: 1702552929451220
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 14. sched_time: 1702552929451400
+Notified data b_exp06_marginbalance|k_exp06_run_audit_227Ne3Kjs7IKsNZpS4
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 32. sched_time: 1702552929452360
+Schedule function exp06_run_audit_6 with arg_flag 0 to executor 16. sched_time: 1702552929452528
+Notified data b_exp06_marginbalance|k_exp06_run_audit_9SXihEnd2oJEdv2a9
+Schedule function exp06_run_audit_19 with arg_flag 0 to executor 26. sched_time: 1702552929458163
+Notified data b_exp06_marginbalance|k_exp06_run_audit_6AS7GibRKhcj7lMSo
+Schedule function exp06_marketdata with arg_flag 0 to executor 5. sched_time: 1702552929461864
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 38. sched_time: 1702552929461989
+Schedule function exp06_marketdata with arg_flag 0 to executor 38. sched_time: 1702552929462646
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 6. sched_time: 1702552929462895
+Notified data b_exp06_marginbalance|k_exp06_run_audit_7ZveQtWtcipMDXNRB
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 5. sched_time: 1702552929464158
+Notified data b_exp06_marginbalance|k_exp06_run_audit_11o4ruMMx4qNXL3EPw
+Schedule function exp06_marketdata with arg_flag 0 to executor 5. sched_time: 1702552929468569
+Notified data b_exp06_marginbalance|k_exp06_run_audit_1Cj2Hmnb0Hxa6wrNN
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 19. sched_time: 1702552929472237
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 9. sched_time: 1702552929473337
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 11. sched_time: 1702552929477163
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 25. sched_time: 1702552929477762
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 1. sched_time: 1702552929480847
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 1. sched_time: 1702552929495341
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 39. sched_time: 1702552929501666
+Schedule function exp06_marketdata with arg_flag 0 to executor 27. sched_time: 1702552929503933
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 27. sched_time: 1702552929509431
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 23. sched_time: 1702552929510263
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 9. sched_time: 1702552929511875
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 33. sched_time: 1702552929512527
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 0. sched_time: 1702552929516232
+Schedule function exp06_run_audit_31 with arg_flag 0 to executor 0. sched_time: 1702552929516466
+Schedule function exp06_run_audit_4 with arg_flag 0 to executor 33. sched_time: 1702552929517309
+Notified data b_exp06_marginbalance|k_exp06_run_audit_245QvuhQRnRg1wpP9S
+Schedule function exp06_marketdata with arg_flag 0 to executor 35. sched_time: 1702552929520684
+Notified data b_exp06_marginbalance|k_exp06_run_audit_18ENWvylBE7oMKNx7L
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 0. sched_time: 1702552929554225
+Notified data b_exp06_marginbalance|k_exp06_run_audit_20cfCHFoCcv0wUB4TH
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 33. sched_time: 1702552929556718
+Notified data b_exp06_marginbalance|k_exp06_run_audit_31HnBa8F3MlNUs2Ah6
+Schedule function exp06_marketdata with arg_flag 0 to executor 16. sched_time: 1702552929566150
+Schedule function exp06_marketdata with arg_flag 0 to executor 10. sched_time: 1702552929567680
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 32. sched_time: 1702552929568064
+Notified data b_exp06_marginbalance|k_exp06_run_audit_18gglPFEATSRVE1FJe
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 4. sched_time: 1702552929580293
+Notified data b_exp06_marginbalance|k_exp06_run_audit_11cyttFWIVcDSViKTW
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 32. sched_time: 1702552929581481
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552929748660
+Notified data b_exp06_marginbalance|k_exp06_run_audit_20WX0nf1d266Khvfz
+Notified data b_exp06_marginbalance|k_exp06_run_audit_34uX5dlW4RoF8BmUm4
+Notified data b_exp06_marginbalance|k_exp06_run_audit_40JQCBA2eWIFtYmfjg
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 25. sched_time: 1702552929785116
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 35. sched_time: 1702552929785259
+Schedule function exp06_marketdata with arg_flag 0 to executor 32. sched_time: 1702552929785693
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 19. sched_time: 1702552929787336
+Schedule function exp06_marketdata with arg_flag 0 to executor 13. sched_time: 1702552929787502
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 13. sched_time: 1702552929787867
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 5. sched_time: 1702552929789153
+Notified data b_exp06_marginbalance|k_exp06_run_audit_364prty0CIds8PNmyO
+Schedule function exp06_marketdata with arg_flag 0 to executor 25. sched_time: 1702552929792162
+Schedule function exp06_marketdata with arg_flag 0 to executor 8. sched_time: 1702552929797551
+Notified data b_exp06_marginbalance|k_exp06_run_audit_32ENEgCx0mbb5jgdsm
+Notified data b_exp06_marginbalance|k_exp06_run_audit_358ALCCVqA1jdPPaMu
+Notified data b_exp06_marginbalance|k_exp06_run_audit_37MwTTYTgnhFnkqznG
+Schedule function exp06_marketdata with arg_flag 0 to executor 26. sched_time: 1702552929978294
+Schedule function exp06_run_audit_33 with arg_flag 0 to executor 26. sched_time: 1702552929983056
+Schedule function exp06_marketdata with arg_flag 0 to executor 20. sched_time: 1702552930043110
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 20. sched_time: 1702552930054121
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 8. sched_time: 1702552930056916
+Schedule function exp06_marketdata with arg_flag 0 to executor 6. sched_time: 1702552930058253
+Schedule function exp06_marketdata with arg_flag 0 to executor 18. sched_time: 1702552930060242
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2937EmKBedjTSQV4u
+Schedule function exp06_run_audit_29 with arg_flag 0 to executor 20. sched_time: 1702552930106040
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 28. sched_time: 1702552930139022
+Notified data b_exp06_marginbalance|k_exp06_run_audit_20uDGiWo7gC7oNFEbT
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 18. sched_time: 1702552930168264
+Schedule function exp06_marketdata with arg_flag 0 to executor 28. sched_time: 1702552930183113
+Schedule function exp06_marketdata with arg_flag 0 to executor 37. sched_time: 1702552930186297
+Schedule function exp06_run_audit_4 with arg_flag 0 to executor 37. sched_time: 1702552930191268
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15n5qOrN00wkjMADGh
+Notified data b_exp06_marginbalance|k_exp06_run_audit_28gglPFEATSRVE1FJe
+Schedule function exp06_marketdata with arg_flag 0 to executor 18. sched_time: 1702552930557710
+Notified data b_exp06_marginbalance|k_exp06_run_audit_9ZT5FZlOEc5jyAm9n
+Notified data b_exp06_marginbalance|k_exp06_run_audit_16Vo947ASkwqvPsWrp
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 20. sched_time: 1702552930590671
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552930591366
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552930592291
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552930594807
+Notified data b_exp06_marginbalance|k_exp06_run_audit_33937EmKBedjTSQV4u
+Schedule function exp06_marketdata with arg_flag 0 to executor 17. sched_time: 1702552930597645
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 17. sched_time: 1702552930597956
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 18. sched_time: 1702552930601438
+Schedule function exp06_marketdata with arg_flag 0 to executor 18. sched_time: 1702552930602062
+Notified data b_exp06_marginbalance|k_exp06_run_audit_38PHQTwdA9ZS1JEnwf
+Notified data b_exp06_marginbalance|k_exp06_run_audit_13vdQsE7YkMuhADUhA
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 20. sched_time: 1702552930610794
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552930611981
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2pHwkBfdj5vcLG6F8
+Notified data b_exp06_marginbalance|k_exp06_run_audit_26Too37YkQ2sORon5g
+Schedule function exp06_marketdata with arg_flag 0 to executor 18. sched_time: 1702552930618836
+Notified data b_exp06_marginbalance|k_exp06_run_audit_37RNHfVmSH0GpNHbtD
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 28. sched_time: 1702552930620292
+Notified data b_exp06_marginbalance|k_exp06_run_audit_5xqrALcG9wEklVTWX
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 11. sched_time: 1702552930651095
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 11. sched_time: 1702552930652349
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 36. sched_time: 1702552930653826
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 36. sched_time: 1702552930654852
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 31. sched_time: 1702552930685040
+Notified data b_exp06_marginbalance|k_exp06_run_audit_96hNWOBiBPgvMSppC
+Schedule function exp06_run_audit_31 with arg_flag 0 to executor 36. sched_time: 1702552930687474
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 0. sched_time: 1702552930761559
+Notified data b_exp06_marginbalance|k_exp06_run_audit_34sBqQW9M6iV6BjqPQ
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 0. sched_time: 1702552930763483
+Notified data b_exp06_marginbalance|k_exp06_run_audit_34f8dmTfIvH0VOcx1P
+Schedule function exp06_run_audit_36 with arg_flag 0 to executor 36. sched_time: 1702552930786671
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35937EmKBedjTSQV4u
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 18. sched_time: 1702552930882133
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 39. sched_time: 1702552930889304
+Schedule function exp06_run_audit_27 with arg_flag 0 to executor 39. sched_time: 1702552930898141
+Notified data b_exp06_marginbalance|k_exp06_run_audit_37e1RsyBPJuuWb9BJQ
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 12. sched_time: 1702552930903191
+Schedule function exp06_marketdata with arg_flag 0 to executor 14. sched_time: 1702552930945387
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 30. sched_time: 1702552930984046
+Notified data b_exp06_marginbalance|k_exp06_run_audit_31WFvdAw3i67oxCxQc
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 22. sched_time: 1702552930989607
+Schedule function exp06_marketdata with arg_flag 0 to executor 10. sched_time: 1702552930991814
+Notified data b_exp06_marginbalance|k_exp06_run_audit_24fHwmAMJz0WrHCtEd
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 20. sched_time: 1702552930995491
+Schedule function exp06_marketdata with arg_flag 0 to executor 13. sched_time: 1702552930998621
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 15. sched_time: 1702552930998773
+Notified data b_exp06_marginbalance|k_exp06_run_audit_26Q0Umdxq2c39uPils
+Schedule function exp06_marketdata with arg_flag 0 to executor 14. sched_time: 1702552931243601
+Schedule function exp06_marketdata with arg_flag 0 to executor 35. sched_time: 1702552931281008
+Notified data b_exp06_marginbalance|k_exp06_run_audit_32thFGmnT6L3wbdegD
+Notified data b_exp06_marginbalance|k_exp06_run_audit_289AvEX0u7Iv50cZfJ
+Schedule function exp06_run_audit_22 with arg_flag 0 to executor 12. sched_time: 1702552931321593
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 15. sched_time: 1702552931323161
+Schedule function exp06_marketdata with arg_flag 0 to executor 37. sched_time: 1702552931323713
+Schedule function exp06_marketdata with arg_flag 0 to executor 13. sched_time: 1702552931336775
+Schedule function exp06_marketdata with arg_flag 0 to executor 31. sched_time: 1702552931363412
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 33. sched_time: 1702552931591157
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 33. sched_time: 1702552931592145
+Schedule function exp06_marketdata with arg_flag 0 to executor 30. sched_time: 1702552931592929
+Schedule function exp06_marketdata with arg_flag 0 to executor 0. sched_time: 1702552931593476
+Schedule function exp06_run_audit_6 with arg_flag 0 to executor 32. sched_time: 1702552931619919
+Schedule function exp06_marketdata with arg_flag 0 to executor 16. sched_time: 1702552931620091
+Schedule function exp06_marketdata with arg_flag 0 to executor 22. sched_time: 1702552931621709
+Schedule function exp06_marketdata with arg_flag 0 to executor 32. sched_time: 1702552931622533
+Schedule function exp06_marketdata with arg_flag 0 to executor 24. sched_time: 1702552931623030
+Schedule function exp06_marketdata with arg_flag 0 to executor 16. sched_time: 1702552931626700
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35ylGWEga7qfNOVIle
+Schedule function exp06_marketdata with arg_flag 0 to executor 32. sched_time: 1702552931630528
+Notified data b_exp06_marginbalance|k_exp06_run_audit_28cxULJdlnp1n793v0
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 4. sched_time: 1702552931636820
+Schedule function exp06_run_audit_36 with arg_flag 0 to executor 33. sched_time: 1702552931639670
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 10. sched_time: 1702552931642939
+Notified data b_exp06_marginbalance|k_exp06_run_audit_5PCNRU0NdlIstpED0
+Schedule function exp06_run_audit_36 with arg_flag 0 to executor 4. sched_time: 1702552931824474
+Schedule function exp06_marketdata with arg_flag 0 to executor 32. sched_time: 1702552931838196
+Schedule function exp06_marketdata with arg_flag 0 to executor 24. sched_time: 1702552931841672
+Notified data b_exp06_marginbalance|k_exp06_run_audit_14lI0Vrg3bNGwu7bwj
+Schedule function exp06_marketdata with arg_flag 0 to executor 15. sched_time: 1702552931880604
+Notified data b_exp06_marginbalance|k_exp06_run_audit_40W9N9sXi1sCE4lG2U
+Schedule function exp06_marketdata with arg_flag 0 to executor 16. sched_time: 1702552931922564
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 7. sched_time: 1702552931926726
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 35. sched_time: 1702552931939101
+Notified data b_exp06_marginbalance|k_exp06_run_audit_7vdQsE7YkMuhADUhA
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 25. sched_time: 1702552931982283
+Notified data b_exp06_marginbalance|k_exp06_run_audit_16BRFb7gRiRjXKJKxQ
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 25. sched_time: 1702552931984311
+Schedule function exp06_marketdata with arg_flag 0 to executor 32. sched_time: 1702552931986365
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552931987289
+Notified data b_exp06_marginbalance|k_exp06_run_audit_17RNHfVmSH0GpNHbtD
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 12. sched_time: 1702552931995824
+Notified data b_exp06_marginbalance|k_exp06_run_audit_37aWxB98R0yaEFiRO8
+Schedule function exp06_marketdata with arg_flag 0 to executor 3. sched_time: 1702552932093506
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 21. sched_time: 1702552932104437
+Schedule function exp06_run_audit_4 with arg_flag 0 to executor 29. sched_time: 1702552932112015
+Notified data b_exp06_marginbalance|k_exp06_run_audit_24Dtu8SFkFKcm1J4cR
+Schedule function exp06_run_audit_19 with arg_flag 0 to executor 32. sched_time: 1702552932132813
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 17. sched_time: 1702552932187272
+Schedule function exp06_marketdata with arg_flag 0 to executor 29. sched_time: 1702552932208588
+Notified data b_exp06_marginbalance|k_exp06_run_audit_39RNHfVmSH0GpNHbtD
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 11. sched_time: 1702552932283166
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552932299857
+Notified data b_exp06_marginbalance|k_exp06_run_audit_1FvdRvN7xTryUdW8B
+Notified data b_exp06_marginbalance|k_exp06_run_audit_11WFvdAw3i67oxCxQc
+Notified data b_exp06_marginbalance|k_exp06_run_audit_22s20imHC2dwKsZTtX
+Schedule function exp06_marketdata with arg_flag 0 to executor 36. sched_time: 1702552932304623
+Notified data b_exp06_marginbalance|k_exp06_run_audit_31gglPFEATSRVE1FJe
+Schedule function exp06_run_audit_29 with arg_flag 0 to executor 7. sched_time: 1702552932309894
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 6. sched_time: 1702552932310020
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 22. sched_time: 1702552932310727
+Schedule function exp06_marketdata with arg_flag 0 to executor 21. sched_time: 1702552932311641
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 4. sched_time: 1702552932312099
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 22. sched_time: 1702552932313803
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 38. sched_time: 1702552932323774
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 38. sched_time: 1702552932324860
+Schedule function exp06_run_audit_31 with arg_flag 0 to executor 36. sched_time: 1702552932327230
+Notified data b_exp06_marginbalance|k_exp06_run_audit_398qJLcNxEq4ziHkzK
+Schedule function exp06_marketdata with arg_flag 0 to executor 33. sched_time: 1702552932327968
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 33. sched_time: 1702552932328855
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 22. sched_time: 1702552932330875
+Schedule function exp06_marketdata with arg_flag 0 to executor 3. sched_time: 1702552932333283
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 17. sched_time: 1702552932359259
+Notified data b_exp06_marginbalance|k_exp06_run_audit_10H8hiaG6HGnUsgoPx
+Notified data b_exp06_marginbalance|k_exp06_run_audit_10uDGiWo7gC7oNFEbT
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35o4ruMMx4qNXL3EPw
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 16. sched_time: 1702552932373668
+Schedule function exp06_marketdata with arg_flag 0 to executor 5. sched_time: 1702552932374094
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 5. sched_time: 1702552932375039
+Notified data b_exp06_marginbalance|k_exp06_run_audit_26uX5dlW4RoF8BmUm4
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15pHwkBfdj5vcLG6F8
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 33. sched_time: 1702552932376960
+Schedule function exp06_marketdata with arg_flag 0 to executor 22. sched_time: 1702552932377345
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 36. sched_time: 1702552932378421
+Schedule function exp06_marketdata with arg_flag 0 to executor 38. sched_time: 1702552932407488
+Notified data b_exp06_marginbalance|k_exp06_run_audit_37ISgWdg7n5ZtJWuXh
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 5. sched_time: 1702552932408646
+Notified data b_exp06_marginbalance|k_exp06_run_audit_907HjkaAfZV8lka5F
+Notified data b_exp06_marginbalance|k_exp06_run_audit_7IeEelYBm7MTLa4Sz
+Schedule function exp06_marketdata with arg_flag 0 to executor 17. sched_time: 1702552932417183
+Schedule function exp06_run_audit_29 with arg_flag 0 to executor 28. sched_time: 1702552932417567
+Schedule function exp06_run_audit_14 with arg_flag 0 to executor 37. sched_time: 1702552932418634
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 22. sched_time: 1702552932418892
+Schedule function exp06_marketdata with arg_flag 0 to executor 37. sched_time: 1702552932419279
+Notified data b_exp06_marginbalance|k_exp06_run_audit_33IeEelYBm7MTLa4Sz
+Schedule function exp06_marketdata with arg_flag 0 to executor 34. sched_time: 1702552932423443
+Notified data b_exp06_marginbalance|k_exp06_run_audit_22937EmKBedjTSQV4u
+Schedule function exp06_marketdata with arg_flag 0 to executor 28. sched_time: 1702552932424336
+Notified data b_exp06_marginbalance|k_exp06_run_audit_17ylGWEga7qfNOVIle
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 22. sched_time: 1702552932425486
+Schedule function exp06_run_audit_31 with arg_flag 0 to executor 36. sched_time: 1702552932425774
+Notified data b_exp06_marginbalance|k_exp06_run_audit_9MdWI2gzxCX8pOX4Z
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 37. sched_time: 1702552932427132
+Notified data b_exp06_marginbalance|k_exp06_run_audit_9WUUKkbvEMqz7Oi9a
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35dmZCusUf3hxuOAjt
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 17. sched_time: 1702552932444841
+Schedule function exp06_marketdata with arg_flag 0 to executor 22. sched_time: 1702552932447909
+Schedule function exp06_marketdata with arg_flag 0 to executor 38. sched_time: 1702552932450934
+Notified data b_exp06_marginbalance|k_exp06_run_audit_23Q0Umdxq2c39uPils
+Notified data b_exp06_marginbalance|k_exp06_run_audit_12j2WbZ6mLhMtzTlul
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 16. sched_time: 1702552932453201
+Notified data b_exp06_marginbalance|k_exp06_run_audit_12WY683LcEFu2qEJwN
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 20. sched_time: 1702552932455117
+Notified data b_exp06_marginbalance|k_exp06_run_audit_17WFvdAw3i67oxCxQc
+Schedule function exp06_run_audit_36 with arg_flag 0 to executor 36. sched_time: 1702552932456439
+Schedule function exp06_marketdata with arg_flag 0 to executor 0. sched_time: 1702552932456614
+Notified data b_exp06_marginbalance|k_exp06_run_audit_8MwTTYTgnhFnkqznG
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 33. sched_time: 1702552932464751
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 7. sched_time: 1702552932465744
+Notified data b_exp06_marginbalance|k_exp06_run_audit_19xHDsyTU78Tu1mLwt
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 38. sched_time: 1702552932467801
+Schedule function exp06_marketdata with arg_flag 0 to executor 20. sched_time: 1702552932468146
+Notified data b_exp06_marginbalance|k_exp06_run_audit_13LZwOiuyYRbvZ0ZTW
+Schedule function exp06_marketdata with arg_flag 0 to executor 36. sched_time: 1702552932470275
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 22. sched_time: 1702552932470892
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 0. sched_time: 1702552932472373
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 27. sched_time: 1702552932474160
+Notified data b_exp06_marginbalance|k_exp06_run_audit_32tpuzjfQ8mq3yEFiW
+Schedule function exp06_marketdata with arg_flag 0 to executor 34. sched_time: 1702552932476250
+Notified data b_exp06_marginbalance|k_exp06_run_audit_132zuAs6BkHuB0LPch
+Schedule function exp06_marketdata with arg_flag 0 to executor 38. sched_time: 1702552932477548
+Notified data b_exp06_marginbalance|k_exp06_run_audit_26dmZCusUf3hxuOAjt
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 36. sched_time: 1702552932479343
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 17. sched_time: 1702552932482806
+Notified data b_exp06_marginbalance|k_exp06_run_audit_394VY1MN8XJl21emBz
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 33. sched_time: 1702552932492734
+Notified data b_exp06_marginbalance|k_exp06_run_audit_16KUO6J1rYEGcOlV6y
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 14. sched_time: 1702552932516560
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2tpuzjfQ8mq3yEFiW
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 38. sched_time: 1702552932536010
+Schedule function exp06_marketdata with arg_flag 0 to executor 36. sched_time: 1702552932550611
+Schedule function exp06_run_audit_31 with arg_flag 0 to executor 18. sched_time: 1702552932555826
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 26. sched_time: 1702552932628539
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 14. sched_time: 1702552932665300
+Notified data b_exp06_marginbalance|k_exp06_run_audit_17QXjpQ8B6jwZ2Vvmd
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 18. sched_time: 1702552932672830
+Schedule function exp06_marketdata with arg_flag 0 to executor 15. sched_time: 1702552932676888
+Schedule function exp06_run_audit_29 with arg_flag 0 to executor 9. sched_time: 1702552932684173
+Notified data b_exp06_marginbalance|k_exp06_run_audit_13aFHUPQ30EXMcXFXL
+Notified data b_exp06_marginbalance|k_exp06_run_audit_22fhmUE0XMMaSBPgBU
+Notified data b_exp06_marginbalance|k_exp06_run_audit_4079frAZSEPZ27PBg6
+Schedule function exp06_marketdata with arg_flag 0 to executor 16. sched_time: 1702552932706929
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 27. sched_time: 1702552932711095
+Notified data b_exp06_marginbalance|k_exp06_run_audit_44l6ls7fH86fX4lkg
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 33. sched_time: 1702552932727414
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15mmoz8J3gr96y8AGk
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 14. sched_time: 1702552932730761
+Schedule function exp06_marketdata with arg_flag 0 to executor 0. sched_time: 1702552932733004
+Notified data b_exp06_marginbalance|k_exp06_run_audit_5dmZCusUf3hxuOAjt
+Notified data b_exp06_marginbalance|k_exp06_run_audit_38uDGiWo7gC7oNFEbT
+Notified data b_exp06_marginbalance|k_exp06_run_audit_18umPorRqleJ9Mm80W
+Schedule function exp06_run_audit_14 with arg_flag 0 to executor 4. sched_time: 1702552932771390
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 22. sched_time: 1702552932814476
+Notified data b_exp06_marginbalance|k_exp06_run_audit_21xqrALcG9wEklVTWX
+Schedule function exp06_marketdata with arg_flag 0 to executor 34. sched_time: 1702552932823020
+Schedule function exp06_marketdata with arg_flag 0 to executor 39. sched_time: 1702552932823260
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 39. sched_time: 1702552932823777
+Notified data b_exp06_marginbalance|k_exp06_run_audit_17HnBa8F3MlNUs2Ah6
+Schedule function exp06_marketdata with arg_flag 0 to executor 16. sched_time: 1702552932827106
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 24. sched_time: 1702552932835250
+Schedule function exp06_marketdata with arg_flag 0 to executor 8. sched_time: 1702552932856240
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 24. sched_time: 1702552932857679
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 25. sched_time: 1702552932858655
+Schedule function exp06_run_audit_27 with arg_flag 0 to executor 13. sched_time: 1702552932860896
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 8. sched_time: 1702552932861330
+Notified data b_exp06_marginbalance|k_exp06_run_audit_6thFGmnT6L3wbdegD
+Notified data b_exp06_marginbalance|k_exp06_run_audit_3ebBMbbAlp8U2393S
+Schedule function exp06_run_audit_22 with arg_flag 0 to executor 25. sched_time: 1702552932865360
+Schedule function exp06_marketdata with arg_flag 0 to executor 14. sched_time: 1702552932865948
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 15. sched_time: 1702552932868432
+Notified data b_exp06_marginbalance|k_exp06_run_audit_169O2XLTHngbg8CZ7V
+Schedule function exp06_marketdata with arg_flag 0 to executor 16. sched_time: 1702552932998989
+Schedule function exp06_marketdata with arg_flag 0 to executor 13. sched_time: 1702552932999594
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 0. sched_time: 1702552933018344
+Notified data b_exp06_marginbalance|k_exp06_run_audit_8OTKo4EdgCZwfHCma
+Notified data b_exp06_marginbalance|k_exp06_run_audit_34tki2HOJeLY5NNdMc
+Schedule function exp06_marketdata with arg_flag 0 to executor 14. sched_time: 1702552933020710
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 31. sched_time: 1702552933020847
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35ISgWdg7n5ZtJWuXh
+Schedule function exp06_marketdata with arg_flag 0 to executor 19. sched_time: 1702552933022988
+Schedule function exp06_marketdata with arg_flag 0 to executor 9. sched_time: 1702552933070454
+Schedule function exp06_marketdata with arg_flag 0 to executor 26. sched_time: 1702552933070600
+Schedule function exp06_marketdata with arg_flag 0 to executor 37. sched_time: 1702552933075757
+Schedule function exp06_marketdata with arg_flag 0 to executor 32. sched_time: 1702552933076303
+Schedule function exp06_run_audit_31 with arg_flag 0 to executor 32. sched_time: 1702552933077052
+Notified data b_exp06_marginbalance|k_exp06_run_audit_20Cj2Hmnb0Hxa6wrNN
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 8. sched_time: 1702552933079845
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 4. sched_time: 1702552933080036
+Schedule function exp06_run_audit_33 with arg_flag 0 to executor 31. sched_time: 1702552933084878
+Schedule function exp06_run_audit_6 with arg_flag 0 to executor 1. sched_time: 1702552933087741
+Notified data b_exp06_marginbalance|k_exp06_run_audit_40Too37YkQ2sORon5g
+Schedule function exp06_marketdata with arg_flag 0 to executor 1. sched_time: 1702552933091109
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 19. sched_time: 1702552933092108
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 27. sched_time: 1702552933092200
+Notified data b_exp06_marginbalance|k_exp06_run_audit_31tcE0XWHXfiyfKNhq
+Schedule function exp06_marketdata with arg_flag 0 to executor 36. sched_time: 1702552933094090
+Notified data b_exp06_marginbalance|k_exp06_run_audit_127Ne3Kjs7IKsNZpS4
+Schedule function exp06_marketdata with arg_flag 0 to executor 39. sched_time: 1702552933112434
+Notified data b_exp06_marginbalance|k_exp06_run_audit_176hNWOBiBPgvMSppC
+Notified data b_exp06_marginbalance|k_exp06_run_audit_370WX0nf1d266Khvfz
+Notified data b_exp06_marginbalance|k_exp06_run_audit_36WUUKkbvEMqz7Oi9a
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 39. sched_time: 1702552933127011
+Schedule function exp06_marketdata with arg_flag 0 to executor 36. sched_time: 1702552933128178
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 35. sched_time: 1702552933129576
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 29. sched_time: 1702552933134556
+Notified data b_exp06_marginbalance|k_exp06_run_audit_38cfCHFoCcv0wUB4TH
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 11. sched_time: 1702552933193783
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 17. sched_time: 1702552933193931
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 11. sched_time: 1702552933194261
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 7. sched_time: 1702552933194378
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 17. sched_time: 1702552933195474
+Notified data b_exp06_marginbalance|k_exp06_run_audit_13I70W1YNvCI5a3rWJ
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552933221217
+Notified data b_exp06_marginbalance|k_exp06_run_audit_563mvaKLWOTzRAi7I
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 25. sched_time: 1702552933231015
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552933231163
+Notified data b_exp06_marginbalance|k_exp06_run_audit_18IeEelYBm7MTLa4Sz
+Schedule function exp06_marketdata with arg_flag 0 to executor 35. sched_time: 1702552933237583
+Schedule function exp06_marketdata with arg_flag 0 to executor 7. sched_time: 1702552933238904
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 22. sched_time: 1702552933243207
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 22. sched_time: 1702552933243501
+Notified data b_exp06_marginbalance|k_exp06_run_audit_25XTF0oRkVCmc8cPfC
+Notified data b_exp06_marginbalance|k_exp06_run_audit_25HnBa8F3MlNUs2Ah6
+Schedule function exp06_marketdata with arg_flag 0 to executor 17. sched_time: 1702552933249683
+Schedule function exp06_marketdata with arg_flag 0 to executor 22. sched_time: 1702552933249835
+Notified data b_exp06_marginbalance|k_exp06_run_audit_12o4ruMMx4qNXL3EPw
+Schedule function exp06_marketdata with arg_flag 0 to executor 22. sched_time: 1702552933253259
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15UEFpLYbPYuseckDf
+Schedule function exp06_run_audit_4 with arg_flag 0 to executor 17. sched_time: 1702552933311513
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 6. sched_time: 1702552933312151
+Notified data b_exp06_marginbalance|k_exp06_run_audit_10aWxB98R0yaEFiRO8
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 22. sched_time: 1702552933313320
+Schedule function exp06_marketdata with arg_flag 0 to executor 6. sched_time: 1702552933315477
+Notified data b_exp06_marginbalance|k_exp06_run_audit_112zuAs6BkHuB0LPch
+Schedule function exp06_run_audit_19 with arg_flag 0 to executor 17. sched_time: 1702552933320201
+Schedule function exp06_run_audit_36 with arg_flag 0 to executor 39. sched_time: 1702552933324173
+Notified data b_exp06_marginbalance|k_exp06_run_audit_37XTF0oRkVCmc8cPfC
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 33. sched_time: 1702552933328724
+Notified data b_exp06_marginbalance|k_exp06_run_audit_31uDGiWo7gC7oNFEbT
+Notified data b_exp06_marginbalance|k_exp06_run_audit_31JCamT45mJ6trrG79
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552933342079
+Schedule function exp06_marketdata with arg_flag 0 to executor 0. sched_time: 1702552933342605
+Notified data b_exp06_marginbalance|k_exp06_run_audit_23WY683LcEFu2qEJwN
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552933343711
+Notified data b_exp06_marginbalance|k_exp06_run_audit_398ynNxpBVmKwq3wWZ
+Notified data b_exp06_marginbalance|k_exp06_run_audit_288ynNxpBVmKwq3wWZ
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 29. sched_time: 1702552933366393
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 25. sched_time: 1702552933366740
+Schedule function exp06_marketdata with arg_flag 0 to executor 20. sched_time: 1702552933367315
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 18. sched_time: 1702552933373582
+Notified data b_exp06_marginbalance|k_exp06_run_audit_38mmoz8J3gr96y8AGk
+Notified data b_exp06_marginbalance|k_exp06_run_audit_247iWxfeB9vjkGkvxs
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 24. sched_time: 1702552933378135
+Schedule function exp06_marketdata with arg_flag 0 to executor 38. sched_time: 1702552933378874
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 38. sched_time: 1702552933379720
+Notified data b_exp06_marginbalance|k_exp06_run_audit_31AhJUH7ZhftcYDC6F
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 7. sched_time: 1702552933381391
+Notified data b_exp06_marginbalance|k_exp06_run_audit_294l6ls7fH86fX4lkg
+Schedule function exp06_run_audit_36 with arg_flag 0 to executor 20. sched_time: 1702552933383557
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 28. sched_time: 1702552933383768
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 19. sched_time: 1702552933385357
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 37. sched_time: 1702552933412566
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 15. sched_time: 1702552933413233
+Schedule function exp06_run_audit_19 with arg_flag 0 to executor 28. sched_time: 1702552933413374
+Notified data b_exp06_marginbalance|k_exp06_run_audit_12fhmUE0XMMaSBPgBU
+Notified data b_exp06_marginbalance|k_exp06_run_audit_9j2WbZ6mLhMtzTlul
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 12. sched_time: 1702552933492885
+Schedule function exp06_marketdata with arg_flag 0 to executor 5. sched_time: 1702552933498737
+Notified data b_exp06_marginbalance|k_exp06_run_audit_5dYXlv9oPmgaGVged
+Schedule function exp06_run_audit_27 with arg_flag 0 to executor 5. sched_time: 1702552933549020
+Schedule function exp06_marketdata with arg_flag 0 to executor 18. sched_time: 1702552933549762
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 20. sched_time: 1702552933550293
+Schedule function exp06_marketdata with arg_flag 0 to executor 37. sched_time: 1702552933587427
+Notified data b_exp06_marginbalance|k_exp06_run_audit_23dYXlv9oPmgaGVged
+Notified data b_exp06_marginbalance|k_exp06_run_audit_38jl9KvEXMXve1fHsT
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552933616699
+Schedule function exp06_run_audit_4 with arg_flag 0 to executor 39. sched_time: 1702552933617186
+Notified data b_exp06_marginbalance|k_exp06_run_audit_37QXjpQ8B6jwZ2Vvmd
+Schedule function exp06_marketdata with arg_flag 0 to executor 39. sched_time: 1702552933658985
+Notified data b_exp06_marginbalance|k_exp06_run_audit_26ISgWdg7n5ZtJWuXh
+Notified data b_exp06_marginbalance|k_exp06_run_audit_25jl9KvEXMXve1fHsT
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 33. sched_time: 1702552933664137
+Notified data b_exp06_marginbalance|k_exp06_run_audit_1679frAZSEPZ27PBg6
+Schedule function exp06_marketdata with arg_flag 0 to executor 33. sched_time: 1702552933673849
+Notified data b_exp06_marginbalance|k_exp06_run_audit_26nyWAr6CbzYWLiIoG
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 28. sched_time: 1702552933675174
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 26. sched_time: 1702552933678360
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 26. sched_time: 1702552933678499
+Schedule function exp06_marketdata with arg_flag 0 to executor 24. sched_time: 1702552933679874
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 23. sched_time: 1702552933680040
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 36. sched_time: 1702552933686244
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 4. sched_time: 1702552933733729
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35ft5Hd9sz7Dx8IFYE
+Schedule function exp06_marketdata with arg_flag 0 to executor 16. sched_time: 1702552933824942
+Notified data b_exp06_marginbalance|k_exp06_run_audit_11ls5HJEM5RQfFar3J
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 23. sched_time: 1702552933829932
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 34. sched_time: 1702552933831575
+Notified data b_exp06_marginbalance|k_exp06_run_audit_9Lmw4ziNjBUZGVkhP
+Schedule function exp06_run_audit_33 with arg_flag 0 to executor 38. sched_time: 1702552933832501
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 20. sched_time: 1702552933833861
+Schedule function exp06_run_audit_33 with arg_flag 0 to executor 1. sched_time: 1702552933834246
+Schedule function exp06_marketdata with arg_flag 0 to executor 31. sched_time: 1702552933835750
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 20. sched_time: 1702552933836452
+Notified data b_exp06_marginbalance|k_exp06_run_audit_40Dtu8SFkFKcm1J4cR
+Schedule function exp06_marketdata with arg_flag 0 to executor 34. sched_time: 1702552933838688
+Notified data b_exp06_marginbalance|k_exp06_run_audit_3AhJUH7ZhftcYDC6F
+Notified data b_exp06_marginbalance|k_exp06_run_audit_28xHDsyTU78Tu1mLwt
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 6. sched_time: 1702552933841747
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15QXjpQ8B6jwZ2Vvmd
+Schedule function exp06_run_audit_29 with arg_flag 0 to executor 1. sched_time: 1702552933843904
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 25. sched_time: 1702552933844427
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 25. sched_time: 1702552933844837
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 16. sched_time: 1702552933846502
+Schedule function exp06_marketdata with arg_flag 0 to executor 19. sched_time: 1702552933848362
+Schedule function exp06_run_audit_31 with arg_flag 0 to executor 0. sched_time: 1702552933850212
+Notified data b_exp06_marginbalance|k_exp06_run_audit_7ehpIgKJJdhtwc79K
+Schedule function exp06_run_audit_14 with arg_flag 0 to executor 38. sched_time: 1702552933851540
+Schedule function exp06_marketdata with arg_flag 0 to executor 0. sched_time: 1702552933852695
+Schedule function exp06_run_audit_6 with arg_flag 0 to executor 36. sched_time: 1702552933853362
+Notified data b_exp06_marginbalance|k_exp06_run_audit_30GruH8IrpwmBwQUvy
+Schedule function exp06_marketdata with arg_flag 0 to executor 33. sched_time: 1702552933855682
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15Too37YkQ2sORon5g
+Schedule function exp06_marketdata with arg_flag 0 to executor 14. sched_time: 1702552933860293
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 14. sched_time: 1702552933860454
+Notified data b_exp06_marginbalance|k_exp06_run_audit_31InKJPFbLqQnECwog
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 36. sched_time: 1702552933861489
+Notified data b_exp06_marginbalance|k_exp06_run_audit_10GhjbrRGBKPyqPlE3
+Notified data b_exp06_marginbalance|k_exp06_run_audit_38Too37YkQ2sORon5g
+Schedule function exp06_marketdata with arg_flag 0 to executor 20. sched_time: 1702552933865692
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 39. sched_time: 1702552933865873
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 39. sched_time: 1702552933867224
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2aWxB98R0yaEFiRO8
+Schedule function exp06_run_audit_19 with arg_flag 0 to executor 24. sched_time: 1702552933869112
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 36. sched_time: 1702552933869848
+Schedule function exp06_marketdata with arg_flag 0 to executor 28. sched_time: 1702552933869979
+Notified data b_exp06_marginbalance|k_exp06_run_audit_13CCOZtOWu0wGh7LAi
+Notified data b_exp06_marginbalance|k_exp06_run_audit_27Dtu8SFkFKcm1J4cR
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 39. sched_time: 1702552933874901
+Schedule function exp06_marketdata with arg_flag 0 to executor 24. sched_time: 1702552933876639
+Notified data b_exp06_marginbalance|k_exp06_run_audit_31xHDsyTU78Tu1mLwt
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 36. sched_time: 1702552933878152
+Notified data b_exp06_marginbalance|k_exp06_run_audit_36ebBMbbAlp8U2393S
+Notified data b_exp06_marginbalance|k_exp06_run_audit_36rYZL8GcGkY8JAKPZ
+Schedule function exp06_marketdata with arg_flag 0 to executor 36. sched_time: 1702552933885034
+Schedule function exp06_run_audit_36 with arg_flag 0 to executor 33. sched_time: 1702552933886037
+Notified data b_exp06_marginbalance|k_exp06_run_audit_32lI0Vrg3bNGwu7bwj
+Notified data b_exp06_marginbalance|k_exp06_run_audit_20rYZL8GcGkY8JAKPZ
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 24. sched_time: 1702552933899422
+Schedule function exp06_run_audit_27 with arg_flag 0 to executor 0. sched_time: 1702552933899713
+Schedule function exp06_marketdata with arg_flag 0 to executor 5. sched_time: 1702552933903698
+Notified data b_exp06_marginbalance|k_exp06_run_audit_17XTCOnFEIn0KObMDE
+Notified data b_exp06_marginbalance|k_exp06_run_audit_28iLQyy88uUI8agkyf
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 0. sched_time: 1702552933907400
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 21. sched_time: 1702552933923812
+Notified data b_exp06_marginbalance|k_exp06_run_audit_9m9h2g6LWpMlwLij8
+Notified data b_exp06_marginbalance|k_exp06_run_audit_9GhjbrRGBKPyqPlE3
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 20. sched_time: 1702552933950841
+Notified data b_exp06_marginbalance|k_exp06_run_audit_16b8YvcjQA7KGhQeCa
+Schedule function exp06_run_audit_29 with arg_flag 0 to executor 5. sched_time: 1702552933953999
+Schedule function exp06_marketdata with arg_flag 0 to executor 17. sched_time: 1702552934031790
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 31. sched_time: 1702552934032809
+Notified data b_exp06_marginbalance|k_exp06_run_audit_8HTNCBGk9mm9jw31Q
+Schedule function exp06_marketdata with arg_flag 0 to executor 17. sched_time: 1702552934035845
+Notified data b_exp06_marginbalance|k_exp06_run_audit_17xHDsyTU78Tu1mLwt
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 17. sched_time: 1702552934040635
+Notified data b_exp06_marginbalance|k_exp06_run_audit_3aZYKpT7DUd60Rtad
+Schedule function exp06_marketdata with arg_flag 0 to executor 17. sched_time: 1702552934044807
+Notified data b_exp06_marginbalance|k_exp06_run_audit_7cfCHFoCcv0wUB4TH
+Schedule function exp06_marketdata with arg_flag 0 to executor 17. sched_time: 1702552934047139
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 38. sched_time: 1702552934047726
+Schedule function exp06_run_audit_31 with arg_flag 0 to executor 31. sched_time: 1702552934049140
+Notified data b_exp06_marginbalance|k_exp06_run_audit_17ZveQtWtcipMDXNRB
+Notified data b_exp06_marginbalance|k_exp06_run_audit_4007HjkaAfZV8lka5F
+Schedule function exp06_run_audit_27 with arg_flag 0 to executor 12. sched_time: 1702552934066493
+Notified data b_exp06_marginbalance|k_exp06_run_audit_128ynNxpBVmKwq3wWZ
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 22. sched_time: 1702552934090836
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 3. sched_time: 1702552934095006
+Notified data b_exp06_marginbalance|k_exp06_run_audit_7IKohihB1CqJU1I6u
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 22. sched_time: 1702552934097887
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 6. sched_time: 1702552934099639
+Notified data b_exp06_marginbalance|k_exp06_run_audit_24sXjPZBzqSPSL6vS1
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 22. sched_time: 1702552934105845
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 3. sched_time: 1702552934106865
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 7. sched_time: 1702552934112157
+Notified data b_exp06_marginbalance|k_exp06_run_audit_14PCNRU0NdlIstpED0
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 12. sched_time: 1702552934172104
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 13. sched_time: 1702552934172906
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 26. sched_time: 1702552934174067
+Schedule function exp06_marketdata with arg_flag 0 to executor 13. sched_time: 1702552934177117
+Notified data b_exp06_marginbalance|k_exp06_run_audit_3ft5Hd9sz7Dx8IFYE
+Schedule function exp06_marketdata with arg_flag 0 to executor 31. sched_time: 1702552934178654
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 28. sched_time: 1702552934179176
+Notified data b_exp06_marginbalance|k_exp06_run_audit_6s20imHC2dwKsZTtX
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 32. sched_time: 1702552934184766
+Schedule function exp06_marketdata with arg_flag 0 to executor 32. sched_time: 1702552934185791
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 5. sched_time: 1702552934187839
+Schedule function exp06_marketdata with arg_flag 0 to executor 15. sched_time: 1702552934188880
+Schedule function exp06_marketdata with arg_flag 0 to executor 22. sched_time: 1702552934191178
+Notified data b_exp06_marginbalance|k_exp06_run_audit_5zwKx6WOGZE5teCFT
+Schedule function exp06_marketdata with arg_flag 0 to executor 22. sched_time: 1702552934193477
+Notified data b_exp06_marginbalance|k_exp06_run_audit_21ls5HJEM5RQfFar3J
+Schedule function exp06_marketdata with arg_flag 0 to executor 5. sched_time: 1702552934194335
+Schedule function exp06_marketdata with arg_flag 0 to executor 35. sched_time: 1702552934197116
+Schedule function exp06_run_audit_6 with arg_flag 0 to executor 35. sched_time: 1702552934198330
+Notified data b_exp06_marginbalance|k_exp06_run_audit_26gglPFEATSRVE1FJe
+Schedule function exp06_marketdata with arg_flag 0 to executor 9. sched_time: 1702552934199042
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 22. sched_time: 1702552934199376
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 30. sched_time: 1702552934206618
+Notified data b_exp06_marginbalance|k_exp06_run_audit_30JbxxoP5JNisbifpP
+Schedule function exp06_run_audit_22 with arg_flag 0 to executor 22. sched_time: 1702552934227282
+Schedule function exp06_run_audit_29 with arg_flag 0 to executor 20. sched_time: 1702552934236767
+Notified data b_exp06_marginbalance|k_exp06_run_audit_34vdQsE7YkMuhADUhA
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 36. sched_time: 1702552934237402
+Notified data b_exp06_marginbalance|k_exp06_run_audit_39Ut8OODn7YP42Htk0
+Schedule function exp06_run_audit_6 with arg_flag 0 to executor 22. sched_time: 1702552934238877
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 13. sched_time: 1702552934239013
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 5. sched_time: 1702552934239858
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 4. sched_time: 1702552934345805
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 33. sched_time: 1702552934345939
+Schedule function exp06_marketdata with arg_flag 0 to executor 15. sched_time: 1702552934346080
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 17. sched_time: 1702552934348905
+Notified data b_exp06_marginbalance|k_exp06_run_audit_6LZwOiuyYRbvZ0ZTW
+Notified data b_exp06_marginbalance|k_exp06_run_audit_19OuYGWomhpCBwe02Y
+Schedule function exp06_marketdata with arg_flag 0 to executor 31. sched_time: 1702552934351789
+Schedule function exp06_marketdata with arg_flag 0 to executor 17. sched_time: 1702552934352586
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552934352970
+Schedule function exp06_marketdata with arg_flag 0 to executor 35. sched_time: 1702552934355518
+Notified data b_exp06_marginbalance|k_exp06_run_audit_3sXjPZBzqSPSL6vS1
+Notified data b_exp06_marginbalance|k_exp06_run_audit_8UdMkdrNXxtHBORe1
+Schedule function exp06_marketdata with arg_flag 0 to executor 33. sched_time: 1702552934363054
+Notified data b_exp06_marginbalance|k_exp06_run_audit_26vdQsE7YkMuhADUhA
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 21. sched_time: 1702552934369239
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 4. sched_time: 1702552934371557
+Notified data b_exp06_marginbalance|k_exp06_run_audit_9xHDsyTU78Tu1mLwt
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 1. sched_time: 1702552934372691
+Notified data b_exp06_marginbalance|k_exp06_run_audit_4R68cXhSJnp6wLps1
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 17. sched_time: 1702552934376336
+Notified data b_exp06_marginbalance|k_exp06_run_audit_19U7mByWaj94gAU691
+Schedule function exp06_run_audit_19 with arg_flag 0 to executor 17. sched_time: 1702552934391800
+Schedule function exp06_run_audit_6 with arg_flag 0 to executor 1. sched_time: 1702552934394234
+Notified data b_exp06_marginbalance|k_exp06_run_audit_18QXjpQ8B6jwZ2Vvmd
+Notified data b_exp06_marginbalance|k_exp06_run_audit_12uDGiWo7gC7oNFEbT
+Schedule function exp06_run_audit_33 with arg_flag 0 to executor 5. sched_time: 1702552934395933
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 36. sched_time: 1702552934396983
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 38. sched_time: 1702552934400283
+Notified data b_exp06_marginbalance|k_exp06_run_audit_8dSuy1PojtnjW8NSz
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 38. sched_time: 1702552934410837
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 5. sched_time: 1702552934419615
+Schedule function exp06_run_audit_14 with arg_flag 0 to executor 11. sched_time: 1702552934423145
+Notified data b_exp06_marginbalance|k_exp06_run_audit_10XTF0oRkVCmc8cPfC
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 38. sched_time: 1702552934424654
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 14. sched_time: 1702552934442624
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 13. sched_time: 1702552934459288
+Schedule function exp06_marketdata with arg_flag 0 to executor 31. sched_time: 1702552934459789
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 10. sched_time: 1702552934460276
+Notified data b_exp06_marginbalance|k_exp06_run_audit_3JCamT45mJ6trrG79
+Notified data b_exp06_marginbalance|k_exp06_run_audit_36LWn8YmMj4ZhIj6Hj
+Notified data b_exp06_marginbalance|k_exp06_run_audit_25ylGWEga7qfNOVIle
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 15. sched_time: 1702552934463767
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552934473368
+Schedule function exp06_marketdata with arg_flag 0 to executor 14. sched_time: 1702552934473492
+Notified data b_exp06_marginbalance|k_exp06_run_audit_18W9N9sXi1sCE4lG2U
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 30. sched_time: 1702552934479708
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 7. sched_time: 1702552934490152
+Notified data b_exp06_marginbalance|k_exp06_run_audit_23QXjpQ8B6jwZ2Vvmd
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 9. sched_time: 1702552934498168
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 33. sched_time: 1702552934500788
+Schedule function exp06_marketdata with arg_flag 0 to executor 33. sched_time: 1702552934500966
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 24. sched_time: 1702552934505531
+Notified data b_exp06_marginbalance|k_exp06_run_audit_9fHwmAMJz0WrHCtEd
+Schedule function exp06_marketdata with arg_flag 0 to executor 14. sched_time: 1702552934509584
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15ylGWEga7qfNOVIle
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15ReUFwqXnCU65IUeQ
+Schedule function exp06_run_audit_19 with arg_flag 0 to executor 7. sched_time: 1702552934516989
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 15. sched_time: 1702552934517633
+Notified data b_exp06_marginbalance|k_exp06_run_audit_14NFYTlLRLWhIYfR8q
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35UEFpLYbPYuseckDf
+Notified data b_exp06_marginbalance|k_exp06_run_audit_25XTCOnFEIn0KObMDE
+Schedule function exp06_marketdata with arg_flag 0 to executor 24. sched_time: 1702552934523173
+Schedule function exp06_marketdata with arg_flag 0 to executor 14. sched_time: 1702552934523946
+Schedule function exp06_run_audit_36 with arg_flag 0 to executor 33. sched_time: 1702552934530137
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 3. sched_time: 1702552934538654
+Schedule function exp06_run_audit_33 with arg_flag 0 to executor 8. sched_time: 1702552934539488
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 8. sched_time: 1702552934595053
+Notified data b_exp06_marginbalance|k_exp06_run_audit_38wgXckVVyvlpj6Kwe
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 25. sched_time: 1702552934596936
+Schedule function exp06_marketdata with arg_flag 0 to executor 33. sched_time: 1702552934599678
+Notified data b_exp06_marginbalance|k_exp06_run_audit_5QXjpQ8B6jwZ2Vvmd
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 33. sched_time: 1702552934623650
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 27. sched_time: 1702552934787760
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 27. sched_time: 1702552934791297
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 10. sched_time: 1702552934823730
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 38. sched_time: 1702552934837723
+Schedule function exp06_marketdata with arg_flag 0 to executor 16. sched_time: 1702552934849908
+Schedule function exp06_marketdata with arg_flag 0 to executor 22. sched_time: 1702552934850704
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 37. sched_time: 1702552934874466
+Notified data b_exp06_marginbalance|k_exp06_run_audit_5At9m8ANf2lxFrmro
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 15. sched_time: 1702552934905831
+Schedule function exp06_run_audit_19 with arg_flag 0 to executor 22. sched_time: 1702552934906729
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 18. sched_time: 1702552934907820
+Schedule function exp06_marketdata with arg_flag 0 to executor 18. sched_time: 1702552934908768
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 0. sched_time: 1702552934910778
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 37. sched_time: 1702552934911102
+Notified data b_exp06_marginbalance|k_exp06_run_audit_18XVkkOB7bQXwcaOn5
+Notified data b_exp06_marginbalance|k_exp06_run_audit_377CFwP6UQIsGIwSHQ
+Notified data b_exp06_marginbalance|k_exp06_run_audit_200WX0nf1d266Khvfz
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 34. sched_time: 1702552935143661
+Notified data b_exp06_marginbalance|k_exp06_run_audit_29BQdaMZwr3702sz26
+Schedule function exp06_marketdata with arg_flag 0 to executor 23. sched_time: 1702552935148567
+Notified data b_exp06_marginbalance|k_exp06_run_audit_1707HjkaAfZV8lka5F
+Notified data b_exp06_marginbalance|k_exp06_run_audit_29O2XLTHngbg8CZ7V
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 23. sched_time: 1702552935155290
+Schedule function exp06_marketdata with arg_flag 0 to executor 30. sched_time: 1702552935157593
+Schedule function exp06_marketdata with arg_flag 0 to executor 24. sched_time: 1702552935159055
+Notified data b_exp06_marginbalance|k_exp06_run_audit_39ReUFwqXnCU65IUeQ
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 3. sched_time: 1702552935174234
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 24. sched_time: 1702552935174383
+Schedule function exp06_run_audit_14 with arg_flag 0 to executor 21. sched_time: 1702552935177863
+Schedule function exp06_marketdata with arg_flag 0 to executor 34. sched_time: 1702552935287581
+Notified data b_exp06_marginbalance|k_exp06_run_audit_9tpuzjfQ8mq3yEFiW
+Schedule function exp06_marketdata with arg_flag 0 to executor 7. sched_time: 1702552935290318
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 4. sched_time: 1702552935291092
+Schedule function exp06_marketdata with arg_flag 0 to executor 28. sched_time: 1702552935291558
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 28. sched_time: 1702552935291709
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35J70SALoEAh7as3AM
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552935299462
+Schedule function exp06_run_audit_22 with arg_flag 0 to executor 21. sched_time: 1702552935301950
+Notified data b_exp06_marginbalance|k_exp06_run_audit_6Dtu8SFkFKcm1J4cR
+Notified data b_exp06_marginbalance|k_exp06_run_audit_30qjNp3DlmW5i8D4yQ
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 28. sched_time: 1702552935384779
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552935395065
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 12. sched_time: 1702552935395196
+Notified data b_exp06_marginbalance|k_exp06_run_audit_29JCamT45mJ6trrG79
+Schedule function exp06_run_audit_14 with arg_flag 0 to executor 26. sched_time: 1702552935489671
+Schedule function exp06_marketdata with arg_flag 0 to executor 20. sched_time: 1702552935495821
+Schedule function exp06_marketdata with arg_flag 0 to executor 28. sched_time: 1702552935503913
+Schedule function exp06_marketdata with arg_flag 0 to executor 32. sched_time: 1702552935510849
+Schedule function exp06_run_audit_14 with arg_flag 0 to executor 5. sched_time: 1702552935523374
+Schedule function exp06_marketdata with arg_flag 0 to executor 32. sched_time: 1702552935523505
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 26. sched_time: 1702552935526051
+Schedule function exp06_marketdata with arg_flag 0 to executor 5. sched_time: 1702552935540754
+Schedule function exp06_run_audit_29 with arg_flag 0 to executor 20. sched_time: 1702552935545924
+Notified data b_exp06_marginbalance|k_exp06_run_audit_16J70SALoEAh7as3AM
+Notified data b_exp06_marginbalance|k_exp06_run_audit_11dSuy1PojtnjW8NSz
+Notified data b_exp06_marginbalance|k_exp06_run_audit_16n5qOrN00wkjMADGh
+Schedule function exp06_marketdata with arg_flag 0 to executor 35. sched_time: 1702552935722660
+Schedule function exp06_marketdata with arg_flag 0 to executor 18. sched_time: 1702552935740863
+Schedule function exp06_marketdata with arg_flag 0 to executor 39. sched_time: 1702552935749362
+Notified data b_exp06_marginbalance|k_exp06_run_audit_4ft5Hd9sz7Dx8IFYE
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 14. sched_time: 1702552935789220
+Schedule function exp06_marketdata with arg_flag 0 to executor 14. sched_time: 1702552935793884
+Schedule function exp06_marketdata with arg_flag 0 to executor 35. sched_time: 1702552935797249
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 36. sched_time: 1702552935811041
+Schedule function exp06_marketdata with arg_flag 0 to executor 19. sched_time: 1702552935897781
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 27. sched_time: 1702552935910036
+Notified data b_exp06_marginbalance|k_exp06_run_audit_20Dtu8SFkFKcm1J4cR
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 35. sched_time: 1702552935912914
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 24. sched_time: 1702552935913218
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 37. sched_time: 1702552935915333
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 37. sched_time: 1702552935916039
+Notified data b_exp06_marginbalance|k_exp06_run_audit_36YRdigssaauIcPCQR
+Schedule function exp06_marketdata with arg_flag 0 to executor 17. sched_time: 1702552935939130
+Schedule function exp06_marketdata with arg_flag 0 to executor 6. sched_time: 1702552935940628
+Schedule function exp06_marketdata with arg_flag 0 to executor 17. sched_time: 1702552935941749
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 11. sched_time: 1702552935942065
+Schedule function exp06_run_audit_27 with arg_flag 0 to executor 11. sched_time: 1702552935942367
+Schedule function exp06_run_audit_19 with arg_flag 0 to executor 39. sched_time: 1702552935942927
+Schedule function exp06_marketdata with arg_flag 0 to executor 20. sched_time: 1702552935943058
+Schedule function exp06_marketdata with arg_flag 0 to executor 38. sched_time: 1702552935943181
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 38. sched_time: 1702552935943518
+Notified data b_exp06_marginbalance|k_exp06_run_audit_88ynNxpBVmKwq3wWZ
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552935946849
+Notified data b_exp06_marginbalance|k_exp06_run_audit_279w2UUjZo9H2SS3Ww
+Schedule function exp06_marketdata with arg_flag 0 to executor 13. sched_time: 1702552935992603
+Schedule function exp06_marketdata with arg_flag 0 to executor 5. sched_time: 1702552936005979
+Notified data b_exp06_marginbalance|k_exp06_run_audit_10rRst6Kg7gJyUIo58
+Schedule function exp06_marketdata with arg_flag 0 to executor 13. sched_time: 1702552936085709
+Notified data b_exp06_marginbalance|k_exp06_run_audit_8m9h2g6LWpMlwLij8
+Schedule function exp06_run_audit_4 with arg_flag 0 to executor 36. sched_time: 1702552936086705
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 39. sched_time: 1702552936087063
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552936158041
+Notified data b_exp06_marginbalance|k_exp06_run_audit_110hk6HH2QueqcJwjt
+Schedule function exp06_marketdata with arg_flag 0 to executor 19. sched_time: 1702552936159421
+Schedule function exp06_marketdata with arg_flag 0 to executor 1. sched_time: 1702552936161753
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 9. sched_time: 1702552936162092
+Schedule function exp06_run_audit_33 with arg_flag 0 to executor 25. sched_time: 1702552936163185
+Schedule function exp06_marketdata with arg_flag 0 to executor 15. sched_time: 1702552936163556
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 15. sched_time: 1702552936213753
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 6. sched_time: 1702552936213892
+Notified data b_exp06_marginbalance|k_exp06_run_audit_5XTF0oRkVCmc8cPfC
+Notified data b_exp06_marginbalance|k_exp06_run_audit_9aZYKpT7DUd60Rtad
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 24. sched_time: 1702552936239852
+Schedule function exp06_marketdata with arg_flag 0 to executor 16. sched_time: 1702552936254902
+Schedule function exp06_marketdata with arg_flag 0 to executor 25. sched_time: 1702552936255045
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 16. sched_time: 1702552936255358
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 30. sched_time: 1702552936256984
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 33. sched_time: 1702552936301732
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 33. sched_time: 1702552936329498
+Notified data b_exp06_marginbalance|k_exp06_run_audit_23wEjHYapgMx5wx1uX
+Schedule function exp06_marketdata with arg_flag 0 to executor 21. sched_time: 1702552936330991
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 24. sched_time: 1702552936337182
+Notified data b_exp06_marginbalance|k_exp06_run_audit_38ISgWdg7n5ZtJWuXh
+Schedule function exp06_marketdata with arg_flag 0 to executor 10. sched_time: 1702552936340684
+Notified data b_exp06_marginbalance|k_exp06_run_audit_20VgDO187BqQe1w268
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 8. sched_time: 1702552936348133
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15b8YvcjQA7KGhQeCa
+Schedule function exp06_marketdata with arg_flag 0 to executor 29. sched_time: 1702552936349849
+Schedule function exp06_run_audit_29 with arg_flag 0 to executor 33. sched_time: 1702552936365075
+Schedule function exp06_marketdata with arg_flag 0 to executor 32. sched_time: 1702552936433262
+Schedule function exp06_run_audit_33 with arg_flag 0 to executor 32. sched_time: 1702552936435798
+Schedule function exp06_run_audit_36 with arg_flag 0 to executor 27. sched_time: 1702552936494019
+Schedule function exp06_marketdata with arg_flag 0 to executor 9. sched_time: 1702552936495201
+Schedule function exp06_run_audit_36 with arg_flag 0 to executor 8. sched_time: 1702552936495840
+Notified data b_exp06_marginbalance|k_exp06_run_audit_8XVkkOB7bQXwcaOn5
+Schedule function exp06_marketdata with arg_flag 0 to executor 24. sched_time: 1702552936496548
+Schedule function exp06_marketdata with arg_flag 0 to executor 28. sched_time: 1702552936513040
+Schedule function exp06_run_audit_22 with arg_flag 0 to executor 28. sched_time: 1702552936515130
+Schedule function exp06_marketdata with arg_flag 0 to executor 20. sched_time: 1702552936518477
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 21. sched_time: 1702552936519227
+Schedule function exp06_run_audit_14 with arg_flag 0 to executor 1. sched_time: 1702552936520005
+Notified data b_exp06_marginbalance|k_exp06_run_audit_9kTtpgUf1wrZeaxXn
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 22. sched_time: 1702552936545352
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 24. sched_time: 1702552936545758
+Notified data b_exp06_marginbalance|k_exp06_run_audit_3279frAZSEPZ27PBg6
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 28. sched_time: 1702552936548581
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 29. sched_time: 1702552937282432
+Notified data b_exp06_marginbalance|k_exp06_run_audit_194l6ls7fH86fX4lkg
+Schedule function exp06_marketdata with arg_flag 0 to executor 28. sched_time: 1702552937618204
+Notified data b_exp06_marginbalance|k_exp06_run_audit_7dYXlv9oPmgaGVged
+Schedule function exp06_run_audit_14 with arg_flag 0 to executor 14. sched_time: 1702552937855617
+Notified data b_exp06_marginbalance|k_exp06_run_audit_18OTKo4EdgCZwfHCma
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 28. sched_time: 1702552937877239
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 22. sched_time: 1702552937887569
+Notified data b_exp06_marginbalance|k_exp06_run_audit_24tcE0XWHXfiyfKNhq
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 30. sched_time: 1702552939512963
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 11. sched_time: 1702552939530204
+Schedule function exp06_marketdata with arg_flag 0 to executor 20. sched_time: 1702552939530759
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 4. sched_time: 1702552939533277
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 4. sched_time: 1702552939533794
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 18. sched_time: 1702552939751032
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 18. sched_time: 1702552939752420
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 17. sched_time: 1702552939753516
+Schedule function exp06_marketdata with arg_flag 0 to executor 17. sched_time: 1702552939754629
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 0. sched_time: 1702552939760547
+Schedule function exp06_marketdata with arg_flag 0 to executor 13. sched_time: 1702552939904805
+Notified data b_exp06_marginbalance|k_exp06_run_audit_9WFvdAw3i67oxCxQc
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 13. sched_time: 1702552939991564
+Schedule function exp06_marketdata with arg_flag 0 to executor 25. sched_time: 1702552939995606
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 0. sched_time: 1702552939997397
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 12. sched_time: 1702552939997904
+Schedule function exp06_run_audit_33 with arg_flag 0 to executor 25. sched_time: 1702552939998044
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 31. sched_time: 1702552939999853
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 12. sched_time: 1702552940000391
+Schedule function exp06_marketdata with arg_flag 0 to executor 7. sched_time: 1702552940001264
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 35. sched_time: 1702552940004029
+Schedule function exp06_marketdata with arg_flag 0 to executor 35. sched_time: 1702552940025111
+Schedule function exp06_marketdata with arg_flag 0 to executor 32. sched_time: 1702552940026647
+Schedule function exp06_marketdata with arg_flag 0 to executor 32. sched_time: 1702552940027443
+Notified data b_exp06_marginbalance|k_exp06_run_audit_12kTtpgUf1wrZeaxXn
+Schedule function exp06_run_audit_33 with arg_flag 0 to executor 20. sched_time: 1702552940030404
+Schedule function exp06_marketdata with arg_flag 0 to executor 20. sched_time: 1702552940030615
+Notified data b_exp06_marginbalance|k_exp06_run_audit_34o4ruMMx4qNXL3EPw
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 31. sched_time: 1702552940031375
+Notified data b_exp06_marginbalance|k_exp06_run_audit_34PHQTwdA9ZS1JEnwf
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 13. sched_time: 1702552940034080
+Schedule function exp06_run_audit_22 with arg_flag 0 to executor 0. sched_time: 1702552940056747
+Schedule function exp06_run_audit_29 with arg_flag 0 to executor 7. sched_time: 1702552940057272
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 26. sched_time: 1702552940058370
+Notified data b_exp06_marginbalance|k_exp06_run_audit_1dSuy1PojtnjW8NSz
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 3. sched_time: 1702552940060899
+Schedule function exp06_marketdata with arg_flag 0 to executor 10. sched_time: 1702552940062668
+Schedule function exp06_marketdata with arg_flag 0 to executor 35. sched_time: 1702552940063338
+Notified data b_exp06_marginbalance|k_exp06_run_audit_1301HxXvoBqr0igayf
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 5. sched_time: 1702552940064100
+Notified data b_exp06_marginbalance|k_exp06_run_audit_13aZYKpT7DUd60Rtad
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 4. sched_time: 1702552940154266
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35MQEFeiFW9AekB8il
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552940271385
+Schedule function exp06_run_audit_33 with arg_flag 0 to executor 12. sched_time: 1702552940271750
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 22. sched_time: 1702552940273495
+Schedule function exp06_marketdata with arg_flag 0 to executor 28. sched_time: 1702552940273645
+Notified data b_exp06_marginbalance|k_exp06_run_audit_17uDGiWo7gC7oNFEbT
+Schedule function exp06_marketdata with arg_flag 0 to executor 25. sched_time: 1702552940275492
+Schedule function exp06_marketdata with arg_flag 0 to executor 26. sched_time: 1702552940275617
+Notified data b_exp06_marginbalance|k_exp06_run_audit_32InKJPFbLqQnECwog
+Notified data b_exp06_marginbalance|k_exp06_run_audit_22xHDsyTU78Tu1mLwt
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 12. sched_time: 1702552940295979
+Notified data b_exp06_marginbalance|k_exp06_run_audit_39XTCOnFEIn0KObMDE
+Schedule function exp06_marketdata with arg_flag 0 to executor 35. sched_time: 1702552940297545
+Schedule function exp06_run_audit_31 with arg_flag 0 to executor 20. sched_time: 1702552940298978
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552940299964
+Notified data b_exp06_marginbalance|k_exp06_run_audit_28dYXlv9oPmgaGVged
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 28. sched_time: 1702552940305955
+Notified data b_exp06_marginbalance|k_exp06_run_audit_22m9h2g6LWpMlwLij8
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 25. sched_time: 1702552940313478
+Schedule function exp06_marketdata with arg_flag 0 to executor 15. sched_time: 1702552940315950
+Schedule function exp06_marketdata with arg_flag 0 to executor 39. sched_time: 1702552940321175
+Schedule function exp06_marketdata with arg_flag 0 to executor 15. sched_time: 1702552940321347
+Notified data b_exp06_marginbalance|k_exp06_run_audit_19b8YvcjQA7KGhQeCa
+Schedule function exp06_marketdata with arg_flag 0 to executor 26. sched_time: 1702552940396059
+Schedule function exp06_run_audit_36 with arg_flag 0 to executor 39. sched_time: 1702552940402013
+Notified data b_exp06_marginbalance|k_exp06_run_audit_36ENEgCx0mbb5jgdsm
+Schedule function exp06_run_audit_4 with arg_flag 0 to executor 4. sched_time: 1702552940403813
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 12. sched_time: 1702552940407309
+Schedule function exp06_marketdata with arg_flag 0 to executor 36. sched_time: 1702552940408398
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 37. sched_time: 1702552940409408
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 36. sched_time: 1702552940409832
+Notified data b_exp06_marginbalance|k_exp06_run_audit_30XTF0oRkVCmc8cPfC
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 6. sched_time: 1702552940414943
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35Lmw4ziNjBUZGVkhP
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 37. sched_time: 1702552940419108
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 4. sched_time: 1702552940419211
+Schedule function exp06_marketdata with arg_flag 0 to executor 6. sched_time: 1702552940419288
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 12. sched_time: 1702552940419649
+Notified data b_exp06_marginbalance|k_exp06_run_audit_14MQEFeiFW9AekB8il
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 4. sched_time: 1702552940423887
+Notified data b_exp06_marginbalance|k_exp06_run_audit_32PHQTwdA9ZS1JEnwf
+Notified data b_exp06_marginbalance|k_exp06_run_audit_5JbxxoP5JNisbifpP
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552940427139
+Schedule function exp06_marketdata with arg_flag 0 to executor 19. sched_time: 1702552940431056
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2B7gdZDvCXckD4AJ1
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 4. sched_time: 1702552940432070
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 22. sched_time: 1702552940436833
+Notified data b_exp06_marginbalance|k_exp06_run_audit_287csaE2ee4fDi2O72
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 5. sched_time: 1702552940438828
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 4. sched_time: 1702552940439554
+Notified data b_exp06_marginbalance|k_exp06_run_audit_13XVkkOB7bQXwcaOn5
+Notified data b_exp06_marginbalance|k_exp06_run_audit_32Nw3DAXNcOYAoi8Wr
+Schedule function exp06_run_audit_22 with arg_flag 0 to executor 4. sched_time: 1702552940452078
+Notified data b_exp06_marginbalance|k_exp06_run_audit_18XbF2TPRN91hpu4H1
+Notified data b_exp06_marginbalance|k_exp06_run_audit_11GruH8IrpwmBwQUvy
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 34. sched_time: 1702552940465258
+Schedule function exp06_marketdata with arg_flag 0 to executor 28. sched_time: 1702552940467667
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 26. sched_time: 1702552940468787
+Notified data b_exp06_marginbalance|k_exp06_run_audit_14wgXckVVyvlpj6Kwe
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35U7mByWaj94gAU691
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 27. sched_time: 1702552940476792
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 37. sched_time: 1702552940478454
+Notified data b_exp06_marginbalance|k_exp06_run_audit_25XVkkOB7bQXwcaOn5
+Schedule function exp06_run_audit_27 with arg_flag 0 to executor 19. sched_time: 1702552940479244
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552940479578
+Schedule function exp06_marketdata with arg_flag 0 to executor 39. sched_time: 1702552940479822
+Notified data b_exp06_marginbalance|k_exp06_run_audit_332zuAs6BkHuB0LPch
+Schedule function exp06_marketdata with arg_flag 0 to executor 26. sched_time: 1702552940482433
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 27. sched_time: 1702552940482970
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 9. sched_time: 1702552940484159
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 16. sched_time: 1702552940486354
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 16. sched_time: 1702552940487736
+Notified data b_exp06_marginbalance|k_exp06_run_audit_5FvdRvN7xTryUdW8B
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 26. sched_time: 1702552940488512
+Schedule function exp06_marketdata with arg_flag 0 to executor 17. sched_time: 1702552940490723
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 33. sched_time: 1702552940491540
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 33. sched_time: 1702552940492227
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 14. sched_time: 1702552940492421
+Schedule function exp06_marketdata with arg_flag 0 to executor 14. sched_time: 1702552940492851
+Notified data b_exp06_marginbalance|k_exp06_run_audit_34dSuy1PojtnjW8NSz
+Notified data b_exp06_marginbalance|k_exp06_run_audit_13abRUqWNJ3GlhBJT0
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 25. sched_time: 1702552940498163
+Notified data b_exp06_marginbalance|k_exp06_run_audit_13UdMkdrNXxtHBORe1
+Schedule function exp06_marketdata with arg_flag 0 to executor 32. sched_time: 1702552940507767
+Schedule function exp06_marketdata with arg_flag 0 to executor 16. sched_time: 1702552940511940
+Notified data b_exp06_marginbalance|k_exp06_run_audit_25ls5HJEM5RQfFar3J
+Schedule function exp06_marketdata with arg_flag 0 to executor 25. sched_time: 1702552940513061
+Notified data b_exp06_marginbalance|k_exp06_run_audit_210WX0nf1d266Khvfz
+Schedule function exp06_marketdata with arg_flag 0 to executor 31. sched_time: 1702552940514637
+Notified data b_exp06_marginbalance|k_exp06_run_audit_20JQCBA2eWIFtYmfjg
+Notified data b_exp06_marginbalance|k_exp06_run_audit_25uDGiWo7gC7oNFEbT
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 24. sched_time: 1702552940517515
+Schedule function exp06_marketdata with arg_flag 0 to executor 24. sched_time: 1702552940518262
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 9. sched_time: 1702552940518390
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 27. sched_time: 1702552940519738
+Notified data b_exp06_marginbalance|k_exp06_run_audit_19Rc2536LKOmgc7GMB
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 32. sched_time: 1702552940522930
+Notified data b_exp06_marginbalance|k_exp06_run_audit_38Vo947ASkwqvPsWrp
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 15. sched_time: 1702552940524367
+Notified data b_exp06_marginbalance|k_exp06_run_audit_19nyWAr6CbzYWLiIoG
+Schedule function exp06_marketdata with arg_flag 0 to executor 18. sched_time: 1702552940529676
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 18. sched_time: 1702552940530326
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 24. sched_time: 1702552940530785
+Notified data b_exp06_marginbalance|k_exp06_run_audit_33pHwkBfdj5vcLG6F8
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 31. sched_time: 1702552940534509
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2Rc2536LKOmgc7GMB
+Notified data b_exp06_marginbalance|k_exp06_run_audit_5m9h2g6LWpMlwLij8
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 16. sched_time: 1702552940537846
+Notified data b_exp06_marginbalance|k_exp06_run_audit_160WX0nf1d266Khvfz
+Schedule function exp06_marketdata with arg_flag 0 to executor 35. sched_time: 1702552940540834
+Notified data b_exp06_marginbalance|k_exp06_run_audit_13T62iN7TzAjx4iW71
+Schedule function exp06_marketdata with arg_flag 0 to executor 38. sched_time: 1702552940542648
+Schedule function exp06_marketdata with arg_flag 0 to executor 18. sched_time: 1702552940543751
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 38. sched_time: 1702552940543889
+Notified data b_exp06_marginbalance|k_exp06_run_audit_18PkVe4mnBbDR3Kq6h
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35soQS7fGGmujRcu6j
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 27. sched_time: 1702552940547849
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 34. sched_time: 1702552940548726
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 15. sched_time: 1702552940558568
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 23. sched_time: 1702552940558708
+Notified data b_exp06_marginbalance|k_exp06_run_audit_18qJLcNxEq4ziHkzK
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 25. sched_time: 1702552940563913
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 14. sched_time: 1702552940566878
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 6. sched_time: 1702552940567770
+Schedule function exp06_marketdata with arg_flag 0 to executor 7. sched_time: 1702552940586002
+Notified data b_exp06_marginbalance|k_exp06_run_audit_17wEjHYapgMx5wx1uX
+Schedule function exp06_marketdata with arg_flag 0 to executor 14. sched_time: 1702552940586592
+Notified data b_exp06_marginbalance|k_exp06_run_audit_17Nw3DAXNcOYAoi8Wr
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 25. sched_time: 1702552940589565
+Schedule function exp06_run_audit_33 with arg_flag 0 to executor 23. sched_time: 1702552940700435
+Schedule function exp06_marketdata with arg_flag 0 to executor 30. sched_time: 1702552940701135
+Notified data b_exp06_marginbalance|k_exp06_run_audit_31W9N9sXi1sCE4lG2U
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 18. sched_time: 1702552940701851
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2333E6wijEUFcGSP8E
+Schedule function exp06_run_audit_33 with arg_flag 0 to executor 4. sched_time: 1702552940709846
+Notified data b_exp06_marginbalance|k_exp06_run_audit_24WBqevExFuAIX3soR
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552940716815
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 25. sched_time: 1702552940773641
+Notified data b_exp06_marginbalance|k_exp06_run_audit_3tpuzjfQ8mq3yEFiW
+Schedule function exp06_marketdata with arg_flag 0 to executor 18. sched_time: 1702552940797339
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 11. sched_time: 1702552940802717
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 11. sched_time: 1702552940808833
+Notified data b_exp06_marginbalance|k_exp06_run_audit_168ALCCVqA1jdPPaMu
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 30. sched_time: 1702552940811763
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552940823242
+Notified data b_exp06_marginbalance|k_exp06_run_audit_26s20imHC2dwKsZTtX
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 28. sched_time: 1702552940824689
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 18. sched_time: 1702552940825188
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 36. sched_time: 1702552940828084
+Notified data b_exp06_marginbalance|k_exp06_run_audit_5ALYEVCs5oaUYqgp8
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552940828977
+Schedule function exp06_marketdata with arg_flag 0 to executor 29. sched_time: 1702552940830802
+Schedule function exp06_marketdata with arg_flag 0 to executor 3. sched_time: 1702552940901585
+Notified data b_exp06_marginbalance|k_exp06_run_audit_33HgGM5gknpNzB0EKJ
+Notified data b_exp06_marginbalance|k_exp06_run_audit_36thFGmnT6L3wbdegD
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 29. sched_time: 1702552940921211
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 39. sched_time: 1702552940921451
+Notified data b_exp06_marginbalance|k_exp06_run_audit_74UEU153vIN6myTpD
+Notified data b_exp06_marginbalance|k_exp06_run_audit_1v21BzArdbSlhrDjD
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 21. sched_time: 1702552940947315
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 25. sched_time: 1702552940948166
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35AS7GibRKhcj7lMSo
+Schedule function exp06_marketdata with arg_flag 0 to executor 25. sched_time: 1702552940951843
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552940952004
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 28. sched_time: 1702552940952138
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552940961499
+Notified data b_exp06_marginbalance|k_exp06_run_audit_29m9h2g6LWpMlwLij8
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 21. sched_time: 1702552940963065
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 13. sched_time: 1702552940969343
+Notified data b_exp06_marginbalance|k_exp06_run_audit_29Nw3DAXNcOYAoi8Wr
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 0. sched_time: 1702552941143108
+Notified data b_exp06_marginbalance|k_exp06_run_audit_1MQEFeiFW9AekB8il
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 13. sched_time: 1702552941146796
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 22. sched_time: 1702552941164633
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 26. sched_time: 1702552941166853
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35WFvdAw3i67oxCxQc
+Schedule function exp06_marketdata with arg_flag 0 to executor 0. sched_time: 1702552941181864
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 5. sched_time: 1702552941196261
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 26. sched_time: 1702552941204233
+Schedule function exp06_run_audit_27 with arg_flag 0 to executor 19. sched_time: 1702552941205923
+Schedule function exp06_marketdata with arg_flag 0 to executor 23. sched_time: 1702552941208939
+Schedule function exp06_marketdata with arg_flag 0 to executor 38. sched_time: 1702552941212378
+Schedule function exp06_marketdata with arg_flag 0 to executor 24. sched_time: 1702552941212589
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 4. sched_time: 1702552941218544
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 37. sched_time: 1702552941233857
+Schedule function exp06_marketdata with arg_flag 0 to executor 20. sched_time: 1702552941234218
+Notified data b_exp06_marginbalance|k_exp06_run_audit_152zuAs6BkHuB0LPch
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 30. sched_time: 1702552941355685
+Schedule function exp06_run_audit_33 with arg_flag 0 to executor 20. sched_time: 1702552941355819
+Schedule function exp06_run_audit_31 with arg_flag 0 to executor 15. sched_time: 1702552941361152
+Schedule function exp06_marketdata with arg_flag 0 to executor 33. sched_time: 1702552941361301
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 15. sched_time: 1702552941365507
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 9. sched_time: 1702552941368629
+Notified data b_exp06_marginbalance|k_exp06_run_audit_12klcf4fVM1AqYBNSy
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35MDbFOvjAjzIuFLFL
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 27. sched_time: 1702552941386619
+Notified data b_exp06_marginbalance|k_exp06_run_audit_25b8YvcjQA7KGhQeCa
+Notified data b_exp06_marginbalance|k_exp06_run_audit_40ENEgCx0mbb5jgdsm
+Schedule function exp06_marketdata with arg_flag 0 to executor 0. sched_time: 1702552941390134
+Notified data b_exp06_marginbalance|k_exp06_run_audit_20fnvq03nVsZXioBqk
+Schedule function exp06_run_audit_14 with arg_flag 0 to executor 31. sched_time: 1702552941404109
+Schedule function exp06_run_audit_19 with arg_flag 0 to executor 31. sched_time: 1702552941404952
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 28. sched_time: 1702552941405685
+Notified data b_exp06_marginbalance|k_exp06_run_audit_12TEzOHmjcMMFtJqRM
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 22. sched_time: 1702552941421260
+Schedule function exp06_run_audit_6 with arg_flag 0 to executor 18. sched_time: 1702552941421850
+Schedule function exp06_marketdata with arg_flag 0 to executor 37. sched_time: 1702552941428944
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 28. sched_time: 1702552941434828
+Notified data b_exp06_marginbalance|k_exp06_run_audit_33H8hiaG6HGnUsgoPx
+Schedule function exp06_run_audit_27 with arg_flag 0 to executor 26. sched_time: 1702552941439645
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 22. sched_time: 1702552941440559
+Notified data b_exp06_marginbalance|k_exp06_run_audit_16fzHJdOmN6JhKvVsP
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 32. sched_time: 1702552941446970
+Notified data b_exp06_marginbalance|k_exp06_run_audit_36Q0Umdxq2c39uPils
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 33. sched_time: 1702552941452534
+Notified data b_exp06_marginbalance|k_exp06_run_audit_12R68cXhSJnp6wLps1
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 36. sched_time: 1702552941453549
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 20. sched_time: 1702552941454370
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 38. sched_time: 1702552941455725
+Schedule function exp06_marketdata with arg_flag 0 to executor 32. sched_time: 1702552941457211
+Notified data b_exp06_marginbalance|k_exp06_run_audit_37YRdigssaauIcPCQR
+Schedule function exp06_run_audit_20 with arg_flag 0 to executor 26. sched_time: 1702552941460408
+Notified data b_exp06_marginbalance|k_exp06_run_audit_30fe4DTxs7MDttSbFz
+Notified data b_exp06_marginbalance|k_exp06_run_audit_4cyttFWIVcDSViKTW
+Notified data b_exp06_marginbalance|k_exp06_run_audit_308SbljLnlZ1kDWFRR
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 18. sched_time: 1702552941469522
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2901HxXvoBqr0igayf
+Schedule function exp06_marketdata with arg_flag 0 to executor 5. sched_time: 1702552941475336
+Schedule function exp06_run_audit_33 with arg_flag 0 to executor 20. sched_time: 1702552941475894
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 16. sched_time: 1702552941476094
+Notified data b_exp06_marginbalance|k_exp06_run_audit_39aIqfEcDRHH5qQhNm
+Schedule function exp06_run_audit_27 with arg_flag 0 to executor 36. sched_time: 1702552941480987
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552941481121
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 26. sched_time: 1702552941481254
+Notified data b_exp06_marginbalance|k_exp06_run_audit_30Vo947ASkwqvPsWrp
+Notified data b_exp06_marginbalance|k_exp06_run_audit_31Gvzk67n5EP94XN3q
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 32. sched_time: 1702552941495528
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 33. sched_time: 1702552941496041
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 33. sched_time: 1702552941497562
+Notified data b_exp06_marginbalance|k_exp06_run_audit_14RDxUKnEblm3QIdB6
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 26. sched_time: 1702552941514175
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 16. sched_time: 1702552941515245
+Notified data b_exp06_marginbalance|k_exp06_run_audit_916rntGeCIZvMQdJO
+Schedule function exp06_run_audit_36 with arg_flag 0 to executor 13. sched_time: 1702552941519742
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 17. sched_time: 1702552941543865
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 4. sched_time: 1702552941563914
+Notified data b_exp06_marginbalance|k_exp06_run_audit_129w2UUjZo9H2SS3Ww
+Schedule function exp06_marketdata with arg_flag 0 to executor 26. sched_time: 1702552941569556
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 39. sched_time: 1702552941571018
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 35. sched_time: 1702552941572557
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552941586125
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 32. sched_time: 1702552941586491
+Notified data b_exp06_marginbalance|k_exp06_run_audit_4bzE2u5xa4iZ9d2ML
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 4. sched_time: 1702552941654135
+Notified data b_exp06_marginbalance|k_exp06_run_audit_32OK3ZnWyyWe1OHAxV
+Notified data b_exp06_marginbalance|k_exp06_run_audit_10gTmJSQTYS788LMGi
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552941818974
+Schedule function exp06_run_audit_36 with arg_flag 0 to executor 39. sched_time: 1702552941819149
+Notified data b_exp06_marginbalance|k_exp06_run_audit_27WFvdAw3i67oxCxQc
+Notified data b_exp06_marginbalance|k_exp06_run_audit_23PeZ5MaqVgrkgrJ0q
+Notified data b_exp06_marginbalance|k_exp06_run_audit_14TEzOHmjcMMFtJqRM
+Schedule function exp06_run_audit_6 with arg_flag 0 to executor 17. sched_time: 1702552941843807
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 5. sched_time: 1702552941845824
+Notified data b_exp06_marginbalance|k_exp06_run_audit_328ynNxpBVmKwq3wWZ
+Notified data b_exp06_marginbalance|k_exp06_run_audit_10pxD112IDCArjJo0i
+Notified data b_exp06_marginbalance|k_exp06_run_audit_38dSY4DE7hVLwUhzIK
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 26. sched_time: 1702552941856525
+Schedule function exp06_run_audit_14 with arg_flag 0 to executor 24. sched_time: 1702552941857599
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 14. sched_time: 1702552941872571
+Notified data b_exp06_marginbalance|k_exp06_run_audit_4tpuzjfQ8mq3yEFiW
+Schedule function exp06_marketdata with arg_flag 0 to executor 29. sched_time: 1702552941932142
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2U7mByWaj94gAU691
+Schedule function exp06_marketdata with arg_flag 0 to executor 8. sched_time: 1702552941995388
+Schedule function exp06_run_audit_14 with arg_flag 0 to executor 4. sched_time: 1702552941997971
+Notified data b_exp06_marginbalance|k_exp06_run_audit_6PHQTwdA9ZS1JEnwf
+Notified data b_exp06_marginbalance|k_exp06_run_audit_12eSmu5LHunuyHEFn7
+Schedule function exp06_run_audit_4 with arg_flag 0 to executor 14. sched_time: 1702552942147755
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552942152777
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552942154062
+Schedule function exp06_run_audit_33 with arg_flag 0 to executor 38. sched_time: 1702552942156601
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 30. sched_time: 1702552942158798
+Schedule function exp06_run_audit_17 with arg_flag 0 to executor 13. sched_time: 1702552942162203
+Schedule function exp06_marketdata with arg_flag 0 to executor 8. sched_time: 1702552942165057
+Schedule function exp06_marketdata with arg_flag 0 to executor 13. sched_time: 1702552942168156
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 22. sched_time: 1702552942168689
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 38. sched_time: 1702552942170898
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2881833m6XvOW4sB6m
+Schedule function exp06_marketdata with arg_flag 0 to executor 15. sched_time: 1702552942176856
+Notified data b_exp06_marginbalance|k_exp06_run_audit_27klcf4fVM1AqYBNSy
+Notified data b_exp06_marginbalance|k_exp06_run_audit_32PkVe4mnBbDR3Kq6h
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552942180726
+Notified data b_exp06_marginbalance|k_exp06_run_audit_7xPntxFJ2MujJNMum
+Schedule function exp06_marketdata with arg_flag 0 to executor 38. sched_time: 1702552942182552
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 36. sched_time: 1702552942184074
+Notified data b_exp06_marginbalance|k_exp06_run_audit_5cMsGOYSuWMMXGMjS
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 12. sched_time: 1702552942185563
+Notified data b_exp06_marginbalance|k_exp06_run_audit_39J57GxMyFtrtCT6uh
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 15. sched_time: 1702552942190085
+Notified data b_exp06_marginbalance|k_exp06_run_audit_26VgDO187BqQe1w268
+Schedule function exp06_marketdata with arg_flag 0 to executor 35. sched_time: 1702552942199882
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 23. sched_time: 1702552942201413
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552942206975
+Notified data b_exp06_marginbalance|k_exp06_run_audit_12ipJhbQD9BqPB7xlH
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 30. sched_time: 1702552942217116
+Notified data b_exp06_marginbalance|k_exp06_run_audit_176XqPy1d53Y1Kykyk
+Schedule function exp06_run_audit_34 with arg_flag 0 to executor 4. sched_time: 1702552942224360
+Schedule function exp06_marketdata with arg_flag 0 to executor 23. sched_time: 1702552942229069
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 37. sched_time: 1702552942238385
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 19. sched_time: 1702552942285163
+Notified data b_exp06_marginbalance|k_exp06_run_audit_13InKJPFbLqQnECwog
+Schedule function exp06_marketdata with arg_flag 0 to executor 4. sched_time: 1702552942294605
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 21. sched_time: 1702552942421317
+Notified data b_exp06_marginbalance|k_exp06_run_audit_13CkVHchVAv9BPYcEF
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 21. sched_time: 1702552942451308
+Notified data b_exp06_marginbalance|k_exp06_run_audit_22XbF2TPRN91hpu4H1
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 4. sched_time: 1702552942455455
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 31. sched_time: 1702552942455978
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 31. sched_time: 1702552942461004
+Schedule function exp06_run_audit_4 with arg_flag 0 to executor 16. sched_time: 1702552942461851
+Schedule function exp06_marketdata with arg_flag 0 to executor 20. sched_time: 1702552942463422
+Notified data b_exp06_marginbalance|k_exp06_run_audit_31XbF2TPRN91hpu4H1
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 20. sched_time: 1702552942468086
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 28. sched_time: 1702552942468202
+Schedule function exp06_run_audit_4 with arg_flag 0 to executor 31. sched_time: 1702552942471784
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 24. sched_time: 1702552942472036
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 28. sched_time: 1702552942475549
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 27. sched_time: 1702552942476794
+Schedule function exp06_marketdata with arg_flag 0 to executor 25. sched_time: 1702552942476992
+Schedule function exp06_run_audit_23 with arg_flag 0 to executor 27. sched_time: 1702552942477207
+Schedule function exp06_run_audit_4 with arg_flag 0 to executor 14. sched_time: 1702552942477945
+Notified data b_exp06_marginbalance|k_exp06_run_audit_37TEzOHmjcMMFtJqRM
+Schedule function exp06_run_audit_1 with arg_flag 0 to executor 25. sched_time: 1702552942479088
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 15. sched_time: 1702552942490219
+Notified data b_exp06_marginbalance|k_exp06_run_audit_3702ulmn5cznwrPsb6
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 15. sched_time: 1702552942492771
+Notified data b_exp06_marginbalance|k_exp06_run_audit_6Too37YkQ2sORon5g
+Schedule function exp06_run_audit_31 with arg_flag 0 to executor 27. sched_time: 1702552942495507
+Schedule function exp06_marketdata with arg_flag 0 to executor 32. sched_time: 1702552942496028
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 32. sched_time: 1702552942497349
+Notified data b_exp06_marginbalance|k_exp06_run_audit_36B7gdZDvCXckD4AJ1
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 27. sched_time: 1702552942542055
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 35. sched_time: 1702552942632895
+Notified data b_exp06_marginbalance|k_exp06_run_audit_20gJdv3pbUZikX8N7W
+Schedule function exp06_run_audit_33 with arg_flag 0 to executor 27. sched_time: 1702552942674952
+Notified data b_exp06_marginbalance|k_exp06_run_audit_29xPntxFJ2MujJNMum
+Notified data b_exp06_marginbalance|k_exp06_run_audit_13Skwy1MmEQ4LOAmxz
+Schedule function exp06_marketdata with arg_flag 0 to executor 27. sched_time: 1702552942713763
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2543hE2SQBW4Dw17za
+Schedule function exp06_marketdata with arg_flag 0 to executor 27. sched_time: 1702552942780145
+Schedule function exp06_marketdata with arg_flag 0 to executor 26. sched_time: 1702552942780723
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 26. sched_time: 1702552942781043
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 6. sched_time: 1702552942824269
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552942826367
+Schedule function exp06_run_audit_35 with arg_flag 0 to executor 10. sched_time: 1702552942826575
+Schedule function exp06_marketdata with arg_flag 0 to executor 10. sched_time: 1702552942827599
+Schedule function exp06_run_audit_33 with arg_flag 0 to executor 20. sched_time: 1702552942828258
+Notified data b_exp06_marginbalance|k_exp06_run_audit_39KF9jZUrc3lecA4Nh
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 27. sched_time: 1702552942904015
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 6. sched_time: 1702552942906837
+Notified data b_exp06_marginbalance|k_exp06_run_audit_38Z2i2tbfq1AokM31e
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 1. sched_time: 1702552942914949
+Schedule function exp06_run_audit_29 with arg_flag 0 to executor 12. sched_time: 1702552942916669
+Notified data b_exp06_marginbalance|k_exp06_run_audit_30CCOZtOWu0wGh7LAi
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35TXukY3B4lKsncC8q
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552942926468
+Notified data b_exp06_marginbalance|k_exp06_run_audit_35OovgN2PFDj82p9tT
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 12. sched_time: 1702552942953109
+Notified data b_exp06_marginbalance|k_exp06_run_audit_33eXedzGZe824zxRfK
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 12. sched_time: 1702552942963254
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 0. sched_time: 1702552942977110
+Notified data b_exp06_marginbalance|k_exp06_run_audit_8PeZ5MaqVgrkgrJ0q
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 17. sched_time: 1702552942979077
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 17. sched_time: 1702552942979508
+Schedule function exp06_run_audit_15 with arg_flag 0 to executor 12. sched_time: 1702552942982641
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 19. sched_time: 1702552942983935
+Schedule function exp06_marketdata with arg_flag 0 to executor 0. sched_time: 1702552942985629
+Notified data b_exp06_marginbalance|k_exp06_run_audit_40TXukY3B4lKsncC8q
+Schedule function exp06_run_audit_27 with arg_flag 0 to executor 12. sched_time: 1702552943240150
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 33. sched_time: 1702552943245205
+Notified data b_exp06_marginbalance|k_exp06_run_audit_8At9m8ANf2lxFrmro
+Notified data b_exp06_marginbalance|k_exp06_run_audit_5XbF2TPRN91hpu4H1
+Schedule function exp06_marketdata with arg_flag 0 to executor 12. sched_time: 1702552943249323
+Notified data b_exp06_marginbalance|k_exp06_run_audit_31T62iN7TzAjx4iW71
+Schedule function exp06_run_audit_22 with arg_flag 0 to executor 0. sched_time: 1702552943257617
+Schedule function exp06_marketdata with arg_flag 0 to executor 11. sched_time: 1702552943265405
+Notified data b_exp06_marginbalance|k_exp06_run_audit_10m9h2g6LWpMlwLij8
+Notified data b_exp06_marginbalance|k_exp06_run_audit_3OovgN2PFDj82p9tT
+Schedule function exp06_marketdata with arg_flag 0 to executor 17. sched_time: 1702552943338392
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 6. sched_time: 1702552943338585
+Notified data b_exp06_marginbalance|k_exp06_run_audit_21XnstPwL91CDY9vyz
+Schedule function exp06_marketdata with arg_flag 0 to executor 13. sched_time: 1702552943340012
+Schedule function exp06_run_audit_14 with arg_flag 0 to executor 13. sched_time: 1702552943340137
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 15. sched_time: 1702552943341969
+Notified data b_exp06_marginbalance|k_exp06_run_audit_16MQEFeiFW9AekB8il
+Schedule function exp06_run_audit_6 with arg_flag 0 to executor 12. sched_time: 1702552943395726
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 27. sched_time: 1702552943395870
+Schedule function exp06_run_audit_39 with arg_flag 0 to executor 30. sched_time: 1702552943396045
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 30. sched_time: 1702552943396170
+Schedule function exp06_run_audit_4 with arg_flag 0 to executor 12. sched_time: 1702552943397235
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 18. sched_time: 1702552943398971
+Schedule function exp06_run_audit_38 with arg_flag 0 to executor 18. sched_time: 1702552943399115
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 13. sched_time: 1702552943399885
+Schedule function exp06_run_audit_4 with arg_flag 0 to executor 11. sched_time: 1702552943423436
+Schedule function exp06_run_audit_27 with arg_flag 0 to executor 33. sched_time: 1702552943428405
+Schedule function exp06_marketdata with arg_flag 0 to executor 3. sched_time: 1702552943430861
+Schedule function exp06_run_audit_26 with arg_flag 0 to executor 3. sched_time: 1702552943432959
+Schedule function exp06_run_audit_30 with arg_flag 0 to executor 1. sched_time: 1702552943434431
+Schedule function exp06_marketdata with arg_flag 0 to executor 35. sched_time: 1702552943555502
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 28. sched_time: 1702552943556332
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 35. sched_time: 1702552943597028
+Notified data b_exp06_marginbalance|k_exp06_run_audit_12ENWvylBE7oMKNx7L
+Notified data b_exp06_marginbalance|k_exp06_run_audit_25J57GxMyFtrtCT6uh
+Notified data b_exp06_marginbalance|k_exp06_run_audit_13gvnHDmXUSPcFfAHO
+Schedule function exp06_run_audit_2 with arg_flag 0 to executor 33. sched_time: 1702552943609399
+Notified data b_exp06_marginbalance|k_exp06_run_audit_22XyqscXq9kWpvP1zJ
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 30. sched_time: 1702552943634443
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 28. sched_time: 1702552943638571
+Schedule function exp06_marketdata with arg_flag 0 to executor 36. sched_time: 1702552943642317
+Schedule function exp06_run_audit_3 with arg_flag 0 to executor 28. sched_time: 1702552943642571
+Schedule function exp06_marketdata with arg_flag 0 to executor 18. sched_time: 1702552943649095
+Notified data b_exp06_marginbalance|k_exp06_run_audit_30Q0Umdxq2c39uPils
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 36. sched_time: 1702552943655134
+Notified data b_exp06_marginbalance|k_exp06_run_audit_237zBfzdIHkkNixQ5a
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 18. sched_time: 1702552943655844
+Notified data b_exp06_marginbalance|k_exp06_run_audit_15cfCHFoCcv0wUB4TH
+Schedule function exp06_run_audit_18 with arg_flag 0 to executor 14. sched_time: 1702552943656716
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2s8ybh7PpYWPU8GFb
+Schedule function exp06_run_audit_14 with arg_flag 0 to executor 3. sched_time: 1702552943661639
+Schedule function exp06_run_audit_13 with arg_flag 0 to executor 16. sched_time: 1702552943661837
+Schedule function exp06_run_audit_37 with arg_flag 0 to executor 16. sched_time: 1702552943663371
+Notified data b_exp06_marginbalance|k_exp06_run_audit_157zBfzdIHkkNixQ5a
+Schedule function exp06_marketdata with arg_flag 0 to executor 18. sched_time: 1702552943664499
+Schedule function exp06_run_audit_10 with arg_flag 0 to executor 29. sched_time: 1702552943665785
+Schedule function exp06_run_audit_29 with arg_flag 0 to executor 29. sched_time: 1702552943666182
+Schedule function exp06_run_audit_31 with arg_flag 0 to executor 38. sched_time: 1702552943667355
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 6. sched_time: 1702552943672508
+Notified data b_exp06_marginbalance|k_exp06_run_audit_37rYZL8GcGkY8JAKPZ
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 29. sched_time: 1702552943673984
+Schedule function exp06_marketdata with arg_flag 0 to executor 38. sched_time: 1702552943677348
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 9. sched_time: 1702552943693819
+Schedule function exp06_run_audit_32 with arg_flag 0 to executor 32. sched_time: 1702552943695713
+Schedule function exp06_run_audit_6 with arg_flag 0 to executor 32. sched_time: 1702552943696375
+Schedule function exp06_run_audit_29 with arg_flag 0 to executor 9. sched_time: 1702552943699171
+Notified data b_exp06_marginbalance|k_exp06_run_audit_21cr1MfhCmXRte41rL
+Notified data b_exp06_marginbalance|k_exp06_run_audit_10cr1MfhCmXRte41rL
+Schedule function exp06_marketdata with arg_flag 0 to executor 17. sched_time: 1702552943703484
+Schedule function exp06_run_audit_9 with arg_flag 0 to executor 14. sched_time: 1702552943703854
+Notified data b_exp06_marginbalance|k_exp06_run_audit_2133E6wijEUFcGSP8E
+Schedule function exp06_marketdata with arg_flag 0 to executor 7. sched_time: 1702552943708454
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 28. sched_time: 1702552943709005
+Schedule function exp06_run_audit_27 with arg_flag 0 to executor 30. sched_time: 1702552943710840
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 8. sched_time: 1702552943711376
+Notified data b_exp06_marginbalance|k_exp06_run_audit_24lI0Vrg3bNGwu7bwj
+Schedule function exp06_run_audit_28 with arg_flag 0 to executor 14. sched_time: 1702552943715847
+Notified data b_exp06_marginbalance|k_exp06_run_audit_33rRst6Kg7gJyUIo58
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 8. sched_time: 1702552943721168
+Schedule function exp06_marketdata with arg_flag 0 to executor 1. sched_time: 1702552943729117
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 33. sched_time: 1702552943734796
+Schedule function exp06_run_audit_24 with arg_flag 0 to executor 15. sched_time: 1702552943736421
+Schedule function exp06_marketdata with arg_flag 0 to executor 15. sched_time: 1702552943736559
+Notified data b_exp06_marginbalance|k_exp06_run_audit_38soQS7fGGmujRcu6j
+Notified data b_exp06_marginbalance|k_exp06_run_audit_36wVFcdTIVW7EDh9nN
+Schedule function exp06_marketdata with arg_flag 0 to executor 33. sched_time: 1702552943761264
+Schedule function exp06_run_audit_40 with arg_flag 0 to executor 29. sched_time: 1702552943807063
+Schedule function exp06_run_audit_25 with arg_flag 0 to executor 34. sched_time: 1702552943815386
+Notified data b_exp06_marginbalance|k_exp06_run_audit_20lI0Vrg3bNGwu7bwj
+Schedule function exp06_run_audit_21 with arg_flag 0 to executor 8. sched_time: 1702552943859707
+Schedule function exp06_run_audit_5 with arg_flag 0 to executor 16. sched_time: 1702552943859837
+Notified data b_exp06_marginbalance|k_exp06_run_audit_258SbljLnlZ1kDWFRR
+Schedule function exp06_run_audit_7 with arg_flag 0 to executor 15. sched_time: 1702552943869264
+Notified data b_exp06_marginbalance|k_exp06_run_audit_17OTKo4EdgCZwfHCma
+Schedule function exp06_run_audit_8 with arg_flag 0 to executor 11. sched_time: 1702552943875499
+Schedule function exp06_run_audit_12 with arg_flag 0 to executor 25. sched_time: 1702552943876830
+Schedule function exp06_run_audit_11 with arg_flag 0 to executor 35. sched_time: 1702552943877185
+Schedule function exp06_marketdata with arg_flag 0 to executor 39. sched_time: 1702552943899909
+Schedule function exp06_run_audit_16 with arg_flag 0 to executor 34. sched_time: 1702552943900060
+Schedule function exp06_run_audit_27 with arg_flag 0 to executor 25. sched_time: 1702552943902583

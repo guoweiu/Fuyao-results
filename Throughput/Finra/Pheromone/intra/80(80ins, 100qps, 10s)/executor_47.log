@@ -1,0 +1,30 @@
+Read file config.yml
+Running executor...
+Load lib exp06_run_audit_1.so failed
+Fail to execute function  due to load errorexp06_run_audit_1
+Load lib exp06_run_audit_8.so failed
+Fail to execute function  due to load errorexp06_run_audit_8
+Load lib exp06_run_audit_23.so failed
+Fail to execute function  due to load errorexp06_run_audit_23
+Load lib exp06_run_audit_50.so failed
+Fail to execute function  due to load errorexp06_run_audit_50
+Load lib exp06_run_audit_31.so failed
+Fail to execute function  due to load errorexp06_run_audit_31
+Load lib exp06_run_audit_24.so failed
+Fail to execute function  due to load errorexp06_run_audit_24
+Load lib exp06_run_audit_53.so failed
+Fail to execute function  due to load errorexp06_run_audit_53
+Load lib exp06_run_audit_50.so failed
+Fail to execute function  due to load errorexp06_run_audit_50
+Load lib exp06_run_audit_44.so failed
+Fail to execute function  due to load errorexp06_run_audit_44
+Loaded function exp06_marketdata. lib_load_elasped: 4586, func_load_elasped: 4
+Load lib exp06_run_audit_55.so failed
+Fail to execute function  due to load errorexp06_run_audit_55
+Load lib exp06_run_audit_6.so failed
+Fail to execute function  due to load errorexp06_run_audit_6
+Load lib exp06_run_audit_17.so failed
+Fail to execute function  due to load errorexp06_run_audit_17
+Loaded function exp06_run_audit_21. lib_load_elasped: 476, func_load_elasped: 2
+Loaded function exp06_run_audit_8. lib_load_elasped: 261, func_load_elasped: 1
+Loaded function exp06_run_audit_7. lib_load_elasped: 364, func_load_elasped: 1

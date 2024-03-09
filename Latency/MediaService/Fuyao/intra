@@ -1,0 +1,260 @@
+  # 1600 qps
+ 
+   Latency Distribution (HdrHistogram - Uncorrected Latency (measured without taking delayed starts into account))
+ 50.000%   65.21ms
+ 75.000%   66.94ms
+ 90.000%   70.33ms
+ 99.000%   80.83ms
+ 99.900%  113.60ms
+ 99.990%  120.45ms
+ 99.999%  124.67ms
+100.000%  124.93ms
+ 
+ 
+  #[Mean    =       66.011, StdDeviation   =        4.067]
+#[Max     =      124.864, Total count    =        75586]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  90132 requests in 1.00m, 12.46MB read
+Requests/sec:   1502.11
+Transfer/sec:    212.70KB
+  
+  
+  
+  # 1400 qps
+   50.000%    5.71ms
+ 75.000%    7.83ms
+ 90.000%   15.44ms
+ 99.000%   46.72ms
+ 99.900%   78.14ms
+ 99.990%   86.14ms
+ 99.999%   88.00ms
+100.000%   91.46ms
+  
+  #[Mean    =        8.465, StdDeviation   =        7.902]
+#[Max     =       91.392, Total count    =        69992]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  84042 requests in 1.00m, 11.62MB read
+Requests/sec:   1400.54
+Transfer/sec:    198.32KB
+  
+  
+  # 1200 qps
+  
+  
+    Latency Distribution (HdrHistogram - Uncorrected Latency (measured without taking delayed starts into account))
+ 50.000%    5.66ms
+ 75.000%    6.78ms
+ 90.000%   10.81ms
+ 99.000%   21.18ms
+ 99.900%   41.09ms
+ 99.990%   43.49ms
+ 99.999%   49.02ms
+100.000%   49.22ms
+  
+  
+#[Mean    =        6.756, StdDeviation   =        3.523]
+#[Max     =       49.184, Total count    =        59995]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  72060 requests in 1.00m, 9.96MB read
+Requests/sec:   1200.85
+Transfer/sec:    170.04KB
+
+  
+  ======================================================================================================================
+  # 1100 qps
+  
+    Latency Distribution (HdrHistogram - Uncorrected Latency (measured without taking delayed starts into account))
+ 50.000%    5.23ms
+ 75.000%    6.14ms
+ 90.000%   10.70ms
+ 99.000%   21.55ms
+ 99.900%   57.44ms
+ 99.990%   81.34ms
+ 99.999%   82.50ms
+100.000%   82.88ms
+  
+  
+  #[Mean    =        6.546, StdDeviation   =        4.435]
+#[Max     =       82.816, Total count    =        54987]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  66067 requests in 1.00m, 9.14MB read
+Requests/sec:   1101.03
+Transfer/sec:    155.91KB
+  
+  =====================================================================================================================
+  # 1000 qps
+  
+   50.000%    7.49ms
+ 75.000%   11.30ms
+ 90.000%   14.34ms
+ 99.000%   23.55ms
+ 99.900%   38.01ms
+ 99.990%   65.12ms
+ 99.999%   80.83ms
+100.000%   80.83ms
+  
+  
+  #[Mean    =        8.620, StdDeviation   =        4.730]
+#[Max     =       80.768, Total count    =        49682]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  59717 requests in 1.00m, 8.26MB read
+  Socket errors: connect 0, read 0, write 0, timeout 14
+Requests/sec:    995.14
+Transfer/sec:    140.91KB
+  
+  
+  ====================================================================================================================
+  # 900 qps
+  
+  Latency Distribution (HdrHistogram - Uncorrected Latency (measured without taking delayed starts into account))
+ 50.000%    4.96ms
+ 75.000%    5.54ms
+ 90.000%    7.09ms
+ 99.000%   13.98ms
+ 
+ 
+ #[Mean    =        5.534, StdDeviation   =        2.034]
+#[Max     =       34.304, Total count    =        44998]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  54040 requests in 1.00m, 7.47MB read
+Requests/sec:    900.59
+Transfer/sec:    127.52KB
+
+======================================================================================================================
+# 800 qps
+
+  Latency Distribution (HdrHistogram - Uncorrected Latency (measured without taking delayed starts into account))
+ 50.000%    4.34ms
+ 75.000%    4.55ms
+ 90.000%    4.84ms
+ 99.000%    9.22ms
+ 99.900%   13.90ms
+ 99.990%   18.50ms
+ 99.999%   21.26ms
+100.000%   21.26ms
+
+
+#[Mean    =        4.514, StdDeviation   =        0.937]
+#[Max     =       21.248, Total count    =        39989]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  48042 requests in 1.00m, 6.64MB read
+Requests/sec:    800.63
+Transfer/sec:    113.37KB
+
+===========================================================================================================================
+# 500 qps
+
+
+  Latency Distribution (HdrHistogram - Uncorrected Latency (measured without taking delayed starts into account))
+ 50.000%    5.33ms
+ 75.000%    6.06ms
+ 90.000%    7.46ms
+ 99.000%   14.32ms
+ 99.900%   18.90ms
+ 99.990%   21.95ms
+ 99.999%   24.50ms
+100.000%   24.50ms
+
+#[Mean    =        5.819, StdDeviation   =        1.766]
+#[Max     =       24.480, Total count    =        24994]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  30034 requests in 1.00m, 4.15MB read
+Requests/sec:    500.51
+Transfer/sec:     70.87KB
+
+==============================================================================================================================
+
+# 200 qps
+
+#[Mean    =        5.537, StdDeviation   =        1.371]
+#[Max     =       22.128, Total count    =        10000]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  12038 requests in 1.00m, 1.66MB read
+Requests/sec:    200.62
+Transfer/sec:     28.41KB
+
+ 50.000%    5.15ms
+ 75.000%    5.87ms
+ 90.000%    7.03ms
+ 99.000%   10.38ms
+ 99.900%   16.45ms
+ 99.990%   21.25ms
+ 99.999%   22.14ms
+100.000%   22.14ms
+
+=================================================================================================================================
+ # 100 qps
+ 
+ 50.000%    6.23ms
+ 75.000%    7.31ms
+ 90.000%    8.85ms
+ 99.000%   10.98ms
+ 99.900%   11.73ms
+ 99.990%   11.93ms
+ 99.999%   11.94ms
+100.000%   11.94ms
+
+
+#[Mean    =        6.598, StdDeviation   =        1.473]
+#[Max     =       11.936, Total count    =         5000]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  6001 requests in 1.00m, 849.75KB read
+Requests/sec:    100.00
+Transfer/sec:     14.16KB
+
+====================================================================================================================================
+
+# 50
+
+ 50.000%    5.94ms
+ 75.000%    7.07ms
+ 90.000%    8.43ms
+ 99.000%   10.90ms
+ 99.900%   12.67ms
+ 99.990%   20.19ms
+ 99.999%   20.19ms
+100.000%   20.19ms
+
+#[Mean    =        6.301, StdDeviation   =        1.538]
+#[Max     =       20.176, Total count    =         2500]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  3013 requests in 1.00m, 426.65KB read
+Requests/sec:     50.21
+Transfer/sec:      7.11KB
+
+============================================================================================================================
+# 10
+
+ 50.000%    6.86ms
+ 75.000%    7.86ms
+ 90.000%    8.83ms
+ 99.000%    9.99ms
+ 99.900%   10.90ms
+ 99.990%   10.90ms
+ 99.999%   10.90ms
+100.000%   10.90ms
+
+#[Mean    =        6.955, StdDeviation   =        1.305]
+#[Max     =       10.896, Total count    =          500]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  650 requests in 1.00m, 92.04KB read
+  Socket errors: connect 0, read 0, write 0, timeout 900
+Requests/sec:     10.83
+Transfer/sec:      1.53KB
+
+
+
+
+

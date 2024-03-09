@@ -1,0 +1,26 @@
+I0419 11:48:59.467468 Main        (593322) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:96] Register main thread: tid=593322
+I0419 11:48:59.469580 Main        (593322) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09Start[1]
+I0419 11:48:59.469806 Main        (593322) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09End[2]
+I0419 11:48:59.469895 Main        (593322) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09Register[3]
+I0419 11:48:59.470068 Main        (593322) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:107] My client_id is 2
+I0419 11:48:59.470189 Main        (593322) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:173] Use extra pipes for messages
+I0419 11:48:59.470917 Main        (593322) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:195] Handshake done
+I0419 11:49:30.275514 Main        (593322) /home/lgw/Lumine-benchmarks/Experiments/09/src/0_start/start.cpp:86] req_id = 180002, start_time = 1681904970274470
+I0419 11:49:31.069051 Main        (593322) /home/lgw/Lumine-benchmarks/Experiments/09/src/0_start/start.cpp:86] req_id = 120003, start_time = 1681904971068009
+I0419 11:49:31.073418 Main        (593322) /home/lgw/Lumine-benchmarks/Experiments/09/src/0_start/start.cpp:86] req_id = 120004, start_time = 1681904971072605
+I0419 11:49:31.869655 Main        (593322) /home/lgw/Lumine-benchmarks/Experiments/09/src/0_start/start.cpp:86] req_id = 240005, start_time = 1681904971868932
+I0419 11:49:31.872374 Main        (593322) /home/lgw/Lumine-benchmarks/Experiments/09/src/0_start/start.cpp:86] req_id = 60007, start_time = 1681904971871655
+I0419 11:49:31.875355 Main        (593322) /home/lgw/Lumine-benchmarks/Experiments/09/src/0_start/start.cpp:86] req_id = 180006, start_time = 1681904971874646
+I0419 11:49:32.668633 Main        (593322) /home/lgw/Lumine-benchmarks/Experiments/09/src/0_start/start.cpp:86] req_id = 60008, start_time = 1681904972667770
+I0419 11:49:32.674089 Main        (593322) /home/lgw/Lumine-benchmarks/Experiments/09/src/0_start/start.cpp:86] req_id = 240008, start_time = 1681904972673261
+I0419 11:49:33.469320 Main        (593322) /home/lgw/Lumine-benchmarks/Experiments/09/src/0_start/start.cpp:86] req_id = 120009, start_time = 1681904973468482
+I0419 11:49:34.274737 Main        (593322) /home/lgw/Lumine-benchmarks/Experiments/09/src/0_start/start.cpp:86] req_id = 180012, start_time = 1681904974274007
+I0419 11:49:35.067432 Main        (593322) /home/lgw/Lumine-benchmarks/Experiments/09/src/0_start/start.cpp:86] req_id = 60014, start_time = 1681904975066675
+I0419 11:49:35.070513 Main        (593322) /home/lgw/Lumine-benchmarks/Experiments/09/src/0_start/start.cpp:86] req_id = 240013, start_time = 1681904975069840
+I0419 11:49:35.073820 Main        (593322) /home/lgw/Lumine-benchmarks/Experiments/09/src/0_start/start.cpp:86] req_id = 120014, start_time = 1681904975073165
+I0419 11:49:35.870775 Main        (593322) /home/lgw/Lumine-benchmarks/Experiments/09/src/0_start/start.cpp:86] req_id = 240015, start_time = 1681904975869688
+I0419 11:49:35.874723 Main        (593322) /home/lgw/Lumine-benchmarks/Experiments/09/src/0_start/start.cpp:86] req_id = 120016, start_time = 1681904975873797
+I0419 11:49:36.669724 Main        (593322) /home/lgw/Lumine-benchmarks/Experiments/09/src/0_start/start.cpp:86] req_id = 180017, start_time = 1681904976668854
+I0419 11:49:36.672584 Main        (593322) /home/lgw/Lumine-benchmarks/Experiments/09/src/0_start/start.cpp:86] req_id = 60019, start_time = 1681904976671781
+I0419 11:49:36.675171 Main        (593322) /home/lgw/Lumine-benchmarks/Experiments/09/src/0_start/start.cpp:86] req_id = 180018, start_time = 1681904976674335
+I0419 11:49:37.468998 Main        (593322) /home/lgw/Lumine-benchmarks/Experiments/09/src/0_start/start.cpp:86] req_id = 60020, start_time = 1681904977467792

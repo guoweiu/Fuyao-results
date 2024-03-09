@@ -1,0 +1,13 @@
+I0420 15:43:34.794323 Main        (1760820) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:96] Register main thread: tid=1760820
+E0420 15:43:34.794871 Main        (1760820) /home/lgw/Lumine-benchmarks/Lumine/lib/utils/docker.cpp:57] Cannot find docker's cgroup in /proc/self/cgroup
+I0420 15:43:34.795122 Launcher EL (1760821) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:36] Start thread: Launcher EL
+I0420 15:43:34.795229 Launcher EL (1760821) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:60] Does not find cpuset setting for IO threads (can be set by FAAS_IO_THREAD_CPUSET)
+I0420 15:43:34.795260 Launcher EL (1760821) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:78] Does not find nice setting for IO threads (can be set by FAAS_IO_THREAD_NICE)
+I0420 15:43:34.795285 Launcher EL (1760821) /home/lgw/Lumine-benchmarks/Lumine/src/host/launcher/launcher.cpp:93] Launcher: Event loop starts
+I0420 15:43:34.795349 Launcher EL (1760821) /home/lgw/Lumine-benchmarks/Lumine/src/host/launcher/engine_connection.cpp:91] EngineConnection: Connected to engine, start writing handshake message
+I0420 15:43:34.797171 Launcher EL (1760821) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09Start[1]
+I0420 15:43:34.797260 Launcher EL (1760821) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09End[2]
+I0420 15:43:34.797307 Launcher EL (1760821) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09Register[3]
+I0420 15:43:34.797348 Launcher EL (1760821) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09StartFinra[4]
+I0420 15:43:34.797552 Launcher EL (1760821) /home/lgw/Lumine-benchmarks/Lumine/src/host/launcher/engine_connection.cpp:63] EngineConnection: Handshake done
+W0420 15:43:34.808487 Launcher EL (1760821) /home/lgw/Lumine-benchmarks/Lumine/src/host/launcher/engine_connection.cpp:164] EngineConnection: nread=0, will do nothing

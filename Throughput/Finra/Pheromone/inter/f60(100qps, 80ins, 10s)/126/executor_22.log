@@ -1,0 +1,40 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_marketdata. lib_load_elasped: 4668, func_load_elasped: 4
+fail release: invalid id (mem = (nil), size = 48)
+force_push: msg_id = 806868, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 806867, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 806832, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 807053, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 806833, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 806876, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 809919, remain = 74, size = 64
+Send to executer failed.Loaded function exp06_run_audit_41. lib_load_elasped: 352, func_load_elasped: 2
+Loaded function exp06_run_audit_18. lib_load_elasped: 372, func_load_elasped: 2
+Loaded function exp06_run_audit_9. lib_load_elasped: 365, func_load_elasped: 2
+Loaded function exp06_run_audit_56. lib_load_elasped: 282, func_load_elasped: 2
+Loaded function exp06_run_audit_36. lib_load_elasped: 343, func_load_elasped: 1
+Loaded function exp06_run_audit_21. lib_load_elasped: 258, func_load_elasped: 2
+Loaded function exp06_run_audit_57. lib_load_elasped: 364, func_load_elasped: 2
+force_push: msg_id = 813876, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 813866, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 813879, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 813932, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 813868, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 813863, remain = -56, size = 8
+Send to executer failed.Loaded function exp06_run_audit_54. lib_load_elasped: 365, func_load_elasped: 2
+force_push: msg_id = 817864, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 817710, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 817822, remain = 10, size = 64
+Send to executer failed.Loaded function exp06_run_audit_12. lib_load_elasped: 445, func_load_elasped: 2
+Loaded function exp06_run_audit_14. lib_load_elasped: 297, func_load_elasped: 1
+Loaded function exp06_run_audit_8. lib_load_elasped: 321, func_load_elasped: 1
+Loaded function exp06_run_audit_58. lib_load_elasped: 303, func_load_elasped: 1
+force_push: msg_id = 821804, remain = 75, size = 64
+Send to executer failed.Loaded function exp06_run_audit_29. lib_load_elasped: 368, func_load_elasped: 2
+Loaded function exp06_run_audit_27. lib_load_elasped: 329, func_load_elasped: 2
+Loaded function exp06_run_audit_53. lib_load_elasped: 312, func_load_elasped: 1
+Loaded function exp06_run_audit_47. lib_load_elasped: 270, func_load_elasped: 1
+Loaded function exp06_run_audit_2. lib_load_elasped: 11105, func_load_elasped: 2
+force_push: msg_id = 828231, remain = 10, size = 64
+Send to executer failed.

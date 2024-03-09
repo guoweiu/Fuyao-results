@@ -1,0 +1,30 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_run_audit_5. lib_load_elasped: 408, func_load_elasped: 3
+Loaded function exp06_run_audit_8. lib_load_elasped: 409, func_load_elasped: 2
+Loaded function exp06_run_audit_29. lib_load_elasped: 287, func_load_elasped: 1
+Loaded function exp06_run_audit_78. lib_load_elasped: 212, func_load_elasped: 1
+Loaded function exp06_run_audit_53. lib_load_elasped: 283, func_load_elasped: 1
+Loaded function exp06_run_audit_12. lib_load_elasped: 295, func_load_elasped: 1
+Loaded function exp06_run_audit_48. lib_load_elasped: 273, func_load_elasped: 1
+Loaded function exp06_run_audit_40. lib_load_elasped: 343, func_load_elasped: 2
+Loaded function exp06_run_audit_27. lib_load_elasped: 219, func_load_elasped: 1
+Loaded function exp06_run_audit_72. lib_load_elasped: 261, func_load_elasped: 1
+Loaded function exp06_marketdata. lib_load_elasped: 4457, func_load_elasped: 1
+fail release: invalid id (mem = (nil), size = 48)
+Loaded function exp06_run_audit_80. lib_load_elasped: 308, func_load_elasped: 1
+Loaded function exp06_run_audit_45. lib_load_elasped: 368, func_load_elasped: 1
+Loaded function exp06_run_audit_76. lib_load_elasped: 213, func_load_elasped: 1
+force_push: msg_id = 3288914, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 3288233, remain = -54, size = 10
+Send to executer failed.Loaded function exp06_run_audit_4. lib_load_elasped: 417, func_load_elasped: 2
+Loaded function exp06_run_audit_55. lib_load_elasped: 301, func_load_elasped: 1
+Loaded function exp06_run_audit_9. lib_load_elasped: 253, func_load_elasped: 1
+Loaded function exp06_run_audit_18. lib_load_elasped: 306, func_load_elasped: 1
+Loaded function exp06_run_audit_35. lib_load_elasped: 289, func_load_elasped: 1
+Loaded function exp06_run_audit_46. lib_load_elasped: 243, func_load_elasped: 1
+Loaded function exp06_run_audit_22. lib_load_elasped: 230, func_load_elasped: 1
+Loaded function exp00_front. lib_load_elasped: 516, func_load_elasped: 1
+Loaded function exp00_back. lib_load_elasped: 118, func_load_elasped: 1
+chain_length = 128, payload_size = 512, token 3254135 us.
+chain_length = 128, payload_size = 512, token 3056198 us.

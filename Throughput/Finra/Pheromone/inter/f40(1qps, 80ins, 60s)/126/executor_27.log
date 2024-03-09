@@ -1,0 +1,40 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_run_audit_10. lib_load_elasped: 384, func_load_elasped: 3
+Loaded function exp06_run_audit_28. lib_load_elasped: 228, func_load_elasped: 1
+Loaded function exp06_run_audit_15. lib_load_elasped: 218, func_load_elasped: 1
+Loaded function exp06_run_audit_32. lib_load_elasped: 219, func_load_elasped: 1
+Loaded function exp06_run_audit_27. lib_load_elasped: 207, func_load_elasped: 1
+Loaded function exp06_run_audit_34. lib_load_elasped: 257, func_load_elasped: 1
+Loaded function exp06_run_audit_22. lib_load_elasped: 294, func_load_elasped: 1
+Loaded function exp06_run_audit_12. lib_load_elasped: 251, func_load_elasped: 1
+Loaded function exp06_run_audit_31. lib_load_elasped: 192, func_load_elasped: 1
+Loaded function exp06_run_audit_38. lib_load_elasped: 464, func_load_elasped: 0
+Loaded function exp06_run_audit_1. lib_load_elasped: 292, func_load_elasped: 1
+Loaded function exp06_run_audit_25. lib_load_elasped: 263, func_load_elasped: 1
+Loaded function exp06_run_audit_5. lib_load_elasped: 181, func_load_elasped: 0
+Loaded function exp06_run_audit_36. lib_load_elasped: 202, func_load_elasped: 1
+Loaded function exp06_run_audit_24. lib_load_elasped: 188, func_load_elasped: 1
+Loaded function exp06_run_audit_14. lib_load_elasped: 210, func_load_elasped: 1
+Loaded function exp06_run_audit_6. lib_load_elasped: 198, func_load_elasped: 1
+Loaded function exp06_run_audit_4. lib_load_elasped: 350, func_load_elasped: 2
+Loaded function exp06_run_audit_40. lib_load_elasped: 232, func_load_elasped: 1
+Loaded function exp06_marketdata. lib_load_elasped: 3409, func_load_elasped: 2
+fail release: invalid id (mem = (nil), size = 48)
+Loaded function exp06_run_audit_33. lib_load_elasped: 276, func_load_elasped: 1
+Loaded function exp06_run_audit_7. lib_load_elasped: 209, func_load_elasped: 1
+Loaded function exp06_run_audit_2. lib_load_elasped: 254, func_load_elasped: 1
+Loaded function exp06_run_audit_26. lib_load_elasped: 215, func_load_elasped: 1
+Loaded function exp06_run_audit_8. lib_load_elasped: 195, func_load_elasped: 0
+Loaded function exp06_run_audit_16. lib_load_elasped: 190, func_load_elasped: 1
+Loaded function exp06_run_audit_19. lib_load_elasped: 189, func_load_elasped: 1
+Loaded function exp06_run_audit_17. lib_load_elasped: 213, func_load_elasped: 0
+Loaded function exp06_run_audit_37. lib_load_elasped: 169, func_load_elasped: 1
+Loaded function exp06_run_audit_21. lib_load_elasped: 191, func_load_elasped: 1
+Loaded function exp06_run_audit_20. lib_load_elasped: 282, func_load_elasped: 1
+Loaded function exp06_run_audit_13. lib_load_elasped: 372, func_load_elasped: 1
+Loaded function exp06_run_audit_9. lib_load_elasped: 215, func_load_elasped: 1
+Loaded function exp06_run_audit_39. lib_load_elasped: 260, func_load_elasped: 1
+Loaded function exp06_marginbalance. lib_load_elasped: 302, func_load_elasped: 1
+req_id = 1200002, token 1516244 us.
+req_id = 300004, token 634091 us.

@@ -1,0 +1,23 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_run_audit_39. lib_load_elasped: 307, func_load_elasped: 2
+Loaded function exp06_run_audit_37. lib_load_elasped: 309, func_load_elasped: 2
+Loaded function exp06_run_audit_40. lib_load_elasped: 236, func_load_elasped: 1
+Loaded function exp06_run_audit_51. lib_load_elasped: 235, func_load_elasped: 1
+Loaded function exp06_run_audit_42. lib_load_elasped: 318, func_load_elasped: 2
+Loaded function exp06_run_audit_22. lib_load_elasped: 287, func_load_elasped: 1
+Loaded function exp06_run_audit_53. lib_load_elasped: 291, func_load_elasped: 2
+Loaded function exp06_run_audit_17. lib_load_elasped: 286, func_load_elasped: 2
+Loaded function exp06_marketdata. lib_load_elasped: 4130, func_load_elasped: 2
+fail release: invalid id (mem = (nil), size = 48)
+Loaded function exp06_run_audit_9. lib_load_elasped: 386, func_load_elasped: 2
+Loaded function exp06_run_audit_76. lib_load_elasped: 328, func_load_elasped: 2
+Loaded function exp06_run_audit_77. lib_load_elasped: 340, func_load_elasped: 2
+Loaded function exp06_run_audit_21. lib_load_elasped: 363, func_load_elasped: 3
+Loaded function exp06_run_audit_56. lib_load_elasped: 328, func_load_elasped: 2
+Loaded function exp06_run_audit_43. lib_load_elasped: 280, func_load_elasped: 2
+Loaded function exp06_run_audit_72. lib_load_elasped: 274, func_load_elasped: 1
+Loaded function exp06_run_audit_80. lib_load_elasped: 281, func_load_elasped: 2
+Loaded function exp00_back. lib_load_elasped: 316, func_load_elasped: 1
+chain_length = 128, payload_size = 512, token 3458711 us.
+chain_length = 128, payload_size = 512, token 3002408 us.

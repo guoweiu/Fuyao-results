@@ -1,0 +1,102 @@
+I0420 14:12:19.813646 Main        (1521452) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:96] Register main thread: tid=1521452
+E0420 14:12:19.814214 Main        (1521452) /home/lgw/Lumine-benchmarks/Lumine/lib/utils/docker.cpp:57] Cannot find docker's cgroup in /proc/self/cgroup
+I0420 14:12:19.815223 Main        (1521452) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09Start[1]
+I0420 14:12:19.815281 Main        (1521452) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09End[2]
+I0420 14:12:19.815316 Main        (1521452) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09Register[3]
+I0420 14:12:19.815348 Main        (1521452) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09StartFinra[4]
+I0420 14:12:19.815768 Main        (1521452) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:100] Engine: Start 4 IO workers
+I0420 14:12:19.816040 IO-0 EL     (1521453) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:36] Start thread: IO-0 EL
+I0420 14:12:19.816125 IO-0 EL     (1521453) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:166] IO-0: Event loop starts
+I0420 14:12:19.816245 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:36] Start thread: IO-1 EL
+I0420 14:12:19.816324 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:166] IO-1: Event loop starts
+I0420 14:12:19.816433 IO-2 EL     (1521455) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:36] Start thread: IO-2 EL
+I0420 14:12:19.816514 IO-2 EL     (1521455) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:166] IO-2: Event loop starts
+I0420 14:12:19.816616 IO-3 EL     (1521456) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:36] Start thread: IO-3 EL
+I0420 14:12:19.816708 IO-3 EL     (1521456) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:166] IO-3: Event loop starts
+I0420 14:12:19.817260 Main        (1521452) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:138] Engine: Listen on /dev/shm/ipc6/engine.sock for IPC connections
+I0420 14:12:19.817324 Main        (1521452) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:157] Engine: Listen on 0.0.0.0:10028 for agent connections
+I0420 14:12:19.825725 Server EL   (1521457) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:36] Start thread: Server EL
+I0420 14:12:19.825786 Server EL   (1521457) /home/lgw/Lumine-benchmarks/Lumine/lib/server/server_base.cpp:49] Server: Event loop starts
+I0420 14:12:19.825867 Server EL   (1521457) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:731] Engine: New gateway connection (conn_id=0) assigned to IO worker 0
+I0420 14:12:19.825955 Server EL   (1521457) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:731] Engine: New gateway connection (conn_id=1) assigned to IO worker 1
+I0420 14:12:19.826010 Server EL   (1521457) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:731] Engine: New gateway connection (conn_id=2) assigned to IO worker 2
+I0420 14:12:19.826061 Server EL   (1521457) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:731] Engine: New gateway connection (conn_id=3) assigned to IO worker 3
+I0420 14:12:19.826067 IO-0 EL     (1521453) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 1
+I0420 14:12:19.826116 Server EL   (1521457) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:731] Engine: New gateway connection (conn_id=4) assigned to IO worker 0
+I0420 14:12:19.826127 IO-0 EL     (1521453) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/gateway_connection.cpp:147] GatewayConnection[0]: Handshake done
+I0420 14:12:19.826158 Server EL   (1521457) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:731] Engine: New gateway connection (conn_id=5) assigned to IO worker 1
+I0420 14:12:19.826103 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 0, total of type 0 is 1
+I0420 14:12:19.826209 IO-3 EL     (1521456) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 0, total of type 0 is 1
+I0420 14:12:19.826226 IO-0 EL     (1521453) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 2
+I0420 14:12:19.829456 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/gateway_connection.cpp:147] GatewayConnection[1]: Handshake done
+I0420 14:12:19.829466 IO-3 EL     (1521456) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/gateway_connection.cpp:147] GatewayConnection[3]: Handshake done
+I0420 14:12:19.826180 IO-2 EL     (1521455) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 0, total of type 0 is 1
+I0420 14:12:19.829489 IO-0 EL     (1521453) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/gateway_connection.cpp:147] GatewayConnection[4]: Handshake done
+I0420 14:12:19.826196 Server EL   (1521457) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:731] Engine: New gateway connection (conn_id=6) assigned to IO worker 2
+I0420 14:12:19.829530 IO-2 EL     (1521455) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/gateway_connection.cpp:147] GatewayConnection[2]: Handshake done
+I0420 14:12:19.829573 Server EL   (1521457) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:731] Engine: New gateway connection (conn_id=7) assigned to IO worker 3
+I0420 14:12:19.829593 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 0, total of type 0 is 2
+I0420 14:12:19.829631 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/gateway_connection.cpp:147] GatewayConnection[5]: Handshake done
+I0420 14:12:19.829656 IO-2 EL     (1521455) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 0, total of type 0 is 2
+I0420 14:12:19.829694 IO-2 EL     (1521455) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/gateway_connection.cpp:147] GatewayConnection[6]: Handshake done
+I0420 14:12:19.829689 IO-3 EL     (1521456) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 0, total of type 0 is 2
+I0420 14:12:19.829727 IO-3 EL     (1521456) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/gateway_connection.cpp:147] GatewayConnection[7]: Handshake done
+I0420 14:12:21.863025 Server EL   (1521457) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0420 14:12:21.863175 IO-0 EL     (1521453) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 1, total of type 1 is 1
+I0420 14:12:21.863416 IO-0 EL     (1521453) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0420 14:12:21.863447 IO-0 EL     (1521453) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:22] WorkerManager: Launcher of func_id 2 connected
+I0420 14:12:21.863495 IO-0 EL     (1521453) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 2 with client_id 1
+I0420 14:12:21.863586 IO-0 EL     (1521453) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 2 with client_id 2
+I0420 14:12:21.863706 IO-0 EL     (1521453) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] LauncherConnection[2]: Handshake done
+I0420 14:12:21.884279 Server EL   (1521457) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0420 14:12:21.884380 Server EL   (1521457) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0420 14:12:21.884408 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 1, total of type 1 is 1
+I0420 14:12:21.884486 IO-2 EL     (1521455) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 1, total of type 1 is 1
+I0420 14:12:21.884512 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0420 14:12:21.884543 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 2, client_id 1 connected
+I0420 14:12:21.884582 IO-2 EL     (1521455) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0420 14:12:21.884608 IO-2 EL     (1521455) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 2, client_id 2 connected
+I0420 14:12:21.884648 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:46] Dispatcher[2]: min_workers=2
+I0420 14:12:21.884684 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:50] Dispatcher[2]: max_workers=2
+I0420 14:12:21.884984 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[2-1]: Handshake done
+I0420 14:12:21.884985 IO-2 EL     (1521455) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[2-2]: Handshake done
+I0420 14:12:22.970425 Server EL   (1521457) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0420 14:12:22.970572 IO-3 EL     (1521456) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 1, total of type 1 is 1
+I0420 14:12:22.970886 IO-3 EL     (1521456) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0420 14:12:22.970916 IO-3 EL     (1521456) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:22] WorkerManager: Launcher of func_id 4 connected
+I0420 14:12:22.970954 IO-3 EL     (1521456) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 4 with client_id 3
+I0420 14:12:22.971045 IO-3 EL     (1521456) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:130] WorkerManager: Request new FuncWorker for func_id 4 with client_id 4
+I0420 14:12:22.971172 IO-3 EL     (1521456) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] LauncherConnection[4]: Handshake done
+I0420 14:12:22.989839 Server EL   (1521457) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0420 14:12:22.989949 Server EL   (1521457) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:746] Engine: New message connection
+I0420 14:12:22.990275 IO-0 EL     (1521453) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 1, total of type 1 is 2
+I0420 14:12:22.990353 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 1, total of type 1 is 2
+I0420 14:12:22.990370 IO-0 EL     (1521453) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0420 14:12:22.990409 IO-0 EL     (1521453) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 4, client_id 4 connected
+I0420 14:12:22.990426 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/engine.cpp:289] Engine: Receive new handshake message from message connection
+I0420 14:12:22.990450 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/worker_manager.cpp:59] WorkerManager: FuncWorker of func_id 4, client_id 3 connected
+I0420 14:12:22.990505 IO-0 EL     (1521453) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:46] Dispatcher[4]: min_workers=2
+I0420 14:12:22.990551 IO-0 EL     (1521453) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/dispatcher.cpp:50] Dispatcher[4]: max_workers=2
+I0420 14:12:23.056862 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[4-3]: Handshake done
+I0420 14:12:23.056880 IO-0 EL     (1521453) /home/lgw/Lumine-benchmarks/Lumine/src/host/engine/message_connection.cpp:267] FuncWorkerConnection[4-4]: Handshake done
+I0420 14:12:47.197768 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[4] counter: value=21, rate=2.1 per sec
+I0420 14:12:47.205401 IO-2 EL     (1521455) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[2] counter: value=21, rate=2.10126 per sec
+I0420 14:12:47.696866 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_external_requests counter: value=43, rate=4.09563 per sec
+I0420 14:12:57.197804 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[4] counter: value=41, rate=2 per sec
+I0420 14:12:57.204932 IO-2 EL     (1521455) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[2] counter: value=41, rate=2.0002 per sec
+I0420 14:12:58.196838 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_external_requests counter: value=85, rate=4.00038 per sec
+I0420 14:13:07.197072 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[4] counter: value=61, rate=2.0002 per sec
+I0420 14:13:07.204459 IO-2 EL     (1521455) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[2] counter: value=61, rate=2.0002 per sec
+I0420 14:13:08.697687 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_external_requests counter: value=127, rate=4 per sec
+I0420 14:13:17.196831 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[4] counter: value=81, rate=2.0002 per sec
+I0420 14:13:17.204986 IO-2 EL     (1521455) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[2] counter: value=81, rate=2 per sec
+I0420 14:13:19.196841 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_external_requests counter: value=169, rate=4.00038 per sec
+I0420 14:13:27.196698 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[4] counter: value=101, rate=2.0002 per sec
+I0420 14:13:27.204685 IO-2 EL     (1521455) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[2] counter: value=101, rate=2.0002 per sec
+I0420 14:13:29.698124 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_external_requests counter: value=211, rate=3.99962 per sec
+I0420 14:13:36.197895 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] inflight_external_requests statistics (237 samples): p30=1, p50=1, p70=1, p90=1, p99=1, p99.9=1
+I0420 14:13:36.199985 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] dispatch_overhead statistics (237 samples): p30=117, p50=1832, p70=1957, p90=2130, p99=2501, p99.9=4260
+I0420 14:13:36.699433 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] message_delay statistics (239 samples): p30=18, p50=19, p70=20, p90=24, p99=29, p99.9=31
+I0420 14:13:37.197607 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] external_requests_instant_rps statistics (240 samples): p30=2.03036, p50=16.7252, p70=136.407, p90=140.272, p99=143.761, p99.9=143.885
+I0420 14:13:37.197702 IO-1 EL     (1521454) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[4] counter: value=121, rate=1.9998 per sec
+I0420 14:13:37.205663 IO-2 EL     (1521455) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[2] counter: value=121, rate=2 per sec

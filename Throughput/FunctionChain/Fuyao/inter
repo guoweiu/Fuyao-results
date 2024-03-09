@@ -1,0 +1,44 @@
+
+# chain 16
+  
+  396036 requests in 1.00m, 72.52MB read
+  Socket errors: connect 0, read 0, write 0, timeout 22
+Requests/sec:   6600.12
+Transfer/sec:      1.21MB
+
+
+  
+# chain 16  
+
+  80805 requests in 1.00m, 14.95MB read
+Requests/sec:   1346.16
+Transfer/sec:    255.04KB
+
+
+
+
+# chain 32
+
+  20184 requests in 1.00m, 3.73MB read
+Requests/sec:    336.25
+Transfer/sec:     63.70KB
+
+
+
+# chain 64
+
+
+  4969 requests in 1.00m, 0.92MB read
+  Socket errors: connect 0, read 0, write 0, timeout 1031
+Requests/sec:     95.87
+Transfer/sec:     15.76KB
+
+
+
+
+# chain 128
+
+  Socket errors: connect 0, read 0, write 0, timeout 4687
+Requests/sec:     22.94
+Transfer/sec:      3.87KB
+

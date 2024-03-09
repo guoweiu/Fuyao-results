@@ -1,0 +1,40 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_run_audit_2. lib_load_elasped: 195, func_load_elasped: 1
+Loaded function exp06_run_audit_10. lib_load_elasped: 147, func_load_elasped: 0
+Loaded function exp06_run_audit_4. lib_load_elasped: 140, func_load_elasped: 0
+Loaded function exp06_marketdata. lib_load_elasped: 4775, func_load_elasped: 2
+force_push: msg_id = 10949, remain = 9, size = 64
+Send to executer failed.force_push: msg_id = 10952, remain = 73, size = 64
+Send to executer failed.Loaded function exp06_run_audit_6. lib_load_elasped: 229, func_load_elasped: 1
+Loaded function exp06_run_audit_9. lib_load_elasped: 215, func_load_elasped: 1
+Loaded function exp06_run_audit_7. lib_load_elasped: 224, func_load_elasped: 1
+Loaded function exp06_run_audit_3. lib_load_elasped: 182, func_load_elasped: 1
+Loaded function exp06_run_audit_5. lib_load_elasped: 254, func_load_elasped: 1
+Loaded function exp06_run_audit_8. lib_load_elasped: 259, func_load_elasped: 1
+Loaded function exp06_run_audit_1. lib_load_elasped: 400, func_load_elasped: 2
+force_push: msg_id = 55975, remain = 72, size = 64
+Send to executer failed.Loaded function exp06_marginbalance. lib_load_elasped: 242, func_load_elasped: 0
+req_id = 180109, token 9581867 us.
+req_id = 600226, token 15201334 us.
+req_id = 480294, token 13210 us.
+req_id = 720253, token 15315 us.
+req_id = 60046, token 13383712 us.
+req_id = 720028, token 19717 us.
+req_id = 900122, token 11661420 us.
+req_id = 60178, token 3972546 us.
+req_id = 120235, token 13448 us.
+req_id = 420152, token 15509136 us.
+req_id = 1020113, token 18358760 us.
+req_id = 600271, token 7339900 us.
+req_id = 1140164, token 6366555 us.
+req_id = 660011, token 25858667 us.
+req_id = 420135, token 12924379 us.
+req_id = 1200177, token 5148722 us.
+req_id = 900273, token 8966369 us.
+req_id = 1140136, token 13772919 us.
+req_id = 420198, token 13595662 us.
+req_id = 540088, token 4724829 us.
+req_id = 420255, token 8853680 us.
+req_id = 1020252, token 4233458 us.
+req_id = 720133, token 10673177 us.

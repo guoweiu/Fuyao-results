@@ -1,0 +1,42 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_run_audit_7. lib_load_elasped: 390, func_load_elasped: 2
+Loaded function exp06_run_audit_3. lib_load_elasped: 221, func_load_elasped: 1
+Loaded function exp06_run_audit_10. lib_load_elasped: 207, func_load_elasped: 1
+Loaded function exp06_marketdata. lib_load_elasped: 6097, func_load_elasped: 2
+Loaded function exp06_run_audit_8. lib_load_elasped: 267, func_load_elasped: 1
+Loaded function exp06_run_audit_1. lib_load_elasped: 236, func_load_elasped: 1
+Loaded function exp06_run_audit_5. lib_load_elasped: 189, func_load_elasped: 0
+Loaded function exp06_run_audit_4. lib_load_elasped: 219, func_load_elasped: 1
+Loaded function exp06_run_audit_2. lib_load_elasped: 205, func_load_elasped: 1
+Loaded function exp06_run_audit_9. lib_load_elasped: 249, func_load_elasped: 1
+Loaded function exp06_run_audit_6. lib_load_elasped: 209, func_load_elasped: 1
+force_push: msg_id = 53133, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 61477, remain = 8, size = 64
+Send to executer failed.Loaded function exp06_marginbalance. lib_load_elasped: 361, func_load_elasped: 2
+req_id = 480190, token 11858789 us.
+req_id = 1080255, token 1934797 us.
+req_id = 900009, token 20505387 us.
+req_id = 1020040, token 17803228 us.
+req_id = 300032, token 18974257 us.
+req_id = 840267, token 13079729 us.
+req_id = 720287, token 24790 us.
+req_id = 960292, token 6439539 us.
+req_id = 300033, token 15364482 us.
+req_id = 660154, token 13545583 us.
+req_id = 240093, token 19907919 us.
+req_id = 1080063, token 12341473 us.
+req_id = 1020073, token 13255927 us.
+req_id = 720289, token 11786338 us.
+req_id = 900083, token 19804485 us.
+req_id = 120294, token 12826 us.
+req_id = 360276, token 16994116 us.
+req_id = 1200098, token 7540910 us.
+req_id = 120265, token 2400591 us.
+req_id = 480121, token 1854959 us.
+req_id = 1200159, token 11432579 us.
+req_id = 660258, token 3915476 us.
+req_id = 60188, token 20636971 us.
+req_id = 300236, token 3120787 us.
+req_id = 420236, token 2560164 us.
+req_id = 1140194, token 2317578 us.

@@ -1,0 +1,24 @@
+
+
+# Fuyao(fanout=20, 4 entry, 80instances)
+
+#[Mean    =      111.499, StdDeviation   =       14.620]
+#[Max     =      149.376, Total count    =        88969]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  109873 requests in 1.00m, 17.81MB read
+  Socket errors: connect 0, read 0, write 0, timeout 31
+Requests/sec:   1830.36
+Transfer/sec:    303.87KB
+
+
+
+# Nightcore(fanout=20, 4 entry, 80instances)
+
+#[Mean    =      922.438, StdDeviation   =       83.219]
+#[Max     =     1177.600, Total count    =        10812]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  13567 requests in 1.00m, 2.20MB read
+Requests/sec:    226.00
+Transfer/sec:     37.52KB

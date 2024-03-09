@@ -1,0 +1,28 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_run_audit_14. lib_load_elasped: 440, func_load_elasped: 2
+Loaded function exp06_marketdata. lib_load_elasped: 5723, func_load_elasped: 2
+force_push: msg_id = 3051367, remain = 75, size = 64
+Send to executer failed.force_push: msg_id = 3051352, remain = 75, size = 64
+Send to executer failed.force_push: msg_id = 3051340, remain = -53, size = 11
+Send to executer failed.force_push: msg_id = 3051381, remain = -53, size = 11
+Send to executer failed.force_push: msg_id = 3051349, remain = 11, size = 64
+Send to executer failed.force_push: msg_id = 3051396, remain = 75, size = 64
+Send to executer failed.force_push: msg_id = 3051327, remain = -55, size = 9
+Send to executer failed.force_push: msg_id = 3051384, remain = -53, size = 11
+Send to executer failed.force_push: msg_id = 3051389, remain = 11, size = 64
+Send to executer failed.force_push: msg_id = 3051324, remain = -55, size = 9
+Send to executer failed.force_push: msg_id = 3051332, remain = 9, size = 64
+Send to executer failed.force_push: msg_id = 3051399, remain = -53, size = 11
+Send to executer failed.force_push: msg_id = 3051386, remain = 75, size = 64
+Send to executer failed.force_push: msg_id = 3051395, remain = -53, size = 11
+Send to executer failed.force_push: msg_id = 3051348, remain = -53, size = 11
+Send to executer failed.force_push: msg_id = 3051392, remain = -53, size = 11
+Send to executer failed.force_push: msg_id = 3051380, remain = 11, size = 64
+Send to executer failed.Loaded function exp06_run_audit_22. lib_load_elasped: 352, func_load_elasped: 1
+Loaded function exp06_run_audit_40. lib_load_elasped: 302, func_load_elasped: 1
+Loaded function exp06_run_audit_9. lib_load_elasped: 361, func_load_elasped: 2
+Loaded function exp06_run_audit_15. lib_load_elasped: 306, func_load_elasped: 2
+Loaded function exp06_run_audit_3. lib_load_elasped: 244, func_load_elasped: 1
+Loaded function exp06_run_audit_6. lib_load_elasped: 328, func_load_elasped: 2
+Loaded function exp06_run_audit_33. lib_load_elasped: 364, func_load_elasped: 2

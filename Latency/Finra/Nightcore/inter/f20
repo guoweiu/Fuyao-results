@@ -1,0 +1,214 @@
+I0421 11:32:27.300942 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:96] Register main thread: tid=2594195
+I0421 11:32:27.304565 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11MarginBalance[1]
+I0421 11:32:27.304743 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit1[2]
+I0421 11:32:27.304820 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit2[3]
+I0421 11:32:27.304861 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit3[4]
+I0421 11:32:27.304892 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit4[5]
+I0421 11:32:27.304923 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit5[6]
+I0421 11:32:27.304952 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit6[7]
+I0421 11:32:27.304980 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit7[8]
+I0421 11:32:27.305019 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit8[9]
+I0421 11:32:27.305052 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit9[10]
+I0421 11:32:27.305080 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit10[11]
+I0421 11:32:27.305108 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit11[12]
+I0421 11:32:27.305135 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit12[13]
+I0421 11:32:27.305167 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit13[14]
+I0421 11:32:27.305208 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit14[15]
+I0421 11:32:27.305238 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit15[16]
+I0421 11:32:27.305267 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit16[17]
+I0421 11:32:27.305300 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit17[18]
+I0421 11:32:27.305328 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit18[19]
+I0421 11:32:27.305356 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit19[20]
+I0421 11:32:27.305384 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit20[21]
+I0421 11:32:27.305418 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit21[22]
+I0421 11:32:27.305446 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit22[23]
+I0421 11:32:27.305474 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit23[24]
+I0421 11:32:27.305502 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit24[25]
+I0421 11:32:27.305530 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit25[26]
+I0421 11:32:27.305590 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit26[27]
+I0421 11:32:27.305623 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit27[28]
+I0421 11:32:27.305651 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit28[29]
+I0421 11:32:27.305681 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit29[30]
+I0421 11:32:27.305718 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit30[31]
+I0421 11:32:27.305748 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit31[32]
+I0421 11:32:27.305776 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit32[33]
+I0421 11:32:27.305812 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit33[34]
+I0421 11:32:27.305847 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit34[35]
+I0421 11:32:27.305876 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit35[36]
+I0421 11:32:27.305904 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit36[37]
+I0421 11:32:27.305931 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit37[38]
+I0421 11:32:27.305958 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit38[39]
+I0421 11:32:27.305986 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit39[40]
+I0421 11:32:27.306014 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit40[41]
+I0421 11:32:27.306041 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit41[42]
+I0421 11:32:27.306069 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit42[43]
+I0421 11:32:27.306097 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit43[44]
+I0421 11:32:27.306124 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit44[45]
+I0421 11:32:27.306151 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit45[46]
+I0421 11:32:27.306180 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit46[47]
+I0421 11:32:27.306212 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit47[48]
+I0421 11:32:27.306241 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit48[49]
+I0421 11:32:27.306269 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit49[50]
+I0421 11:32:27.306296 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit50[51]
+I0421 11:32:27.306323 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit51[52]
+I0421 11:32:27.306362 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit52[53]
+I0421 11:32:27.306391 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit53[54]
+I0421 11:32:27.306419 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit54[55]
+I0421 11:32:27.306446 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit55[56]
+I0421 11:32:27.306474 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit56[57]
+I0421 11:32:27.306501 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit57[58]
+I0421 11:32:27.306529 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit58[59]
+I0421 11:32:27.306558 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit59[60]
+I0421 11:32:27.306604 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit60[61]
+I0421 11:32:27.306635 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit61[62]
+I0421 11:32:27.306663 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit62[63]
+I0421 11:32:27.306690 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit63[64]
+I0421 11:32:27.306718 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit64[65]
+I0421 11:32:27.306760 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit65[66]
+I0421 11:32:27.306789 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit66[67]
+I0421 11:32:27.306816 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit67[68]
+I0421 11:32:27.306843 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit68[69]
+I0421 11:32:27.306871 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit69[70]
+I0421 11:32:27.306904 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit70[71]
+I0421 11:32:27.306931 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit71[72]
+I0421 11:32:27.306959 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit72[73]
+I0421 11:32:27.306986 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit73[74]
+I0421 11:32:27.307013 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit74[75]
+I0421 11:32:27.307040 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit75[76]
+I0421 11:32:27.307068 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit76[77]
+I0421 11:32:27.307095 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit77[78]
+I0421 11:32:27.307131 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit78[79]
+I0421 11:32:27.307160 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit79[80]
+I0421 11:32:27.307188 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit80[81]
+I0421 11:32:27.307215 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit81[82]
+I0421 11:32:27.307243 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit82[83]
+I0421 11:32:27.307271 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit83[84]
+I0421 11:32:27.307298 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit84[85]
+I0421 11:32:27.307332 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit85[86]
+I0421 11:32:27.307360 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit86[87]
+I0421 11:32:27.307388 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit87[88]
+I0421 11:32:27.307416 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit88[89]
+I0421 11:32:27.307443 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit89[90]
+I0421 11:32:27.307471 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit90[91]
+I0421 11:32:27.307498 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit91[92]
+I0421 11:32:27.307526 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit92[93]
+I0421 11:32:27.307554 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit93[94]
+I0421 11:32:27.307581 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit94[95]
+I0421 11:32:27.307608 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit95[96]
+I0421 11:32:27.307637 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit96[97]
+I0421 11:32:27.307664 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit97[98]
+I0421 11:32:27.307692 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit98[99]
+I0421 11:32:27.307719 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit99[100]
+I0421 11:32:27.307753 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp11RunAudit100[101]
+I0421 11:32:27.308299 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:107] My client_id is 90
+I0421 11:32:27.308379 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:173] Use extra pipes for messages
+I0421 11:32:27.309154 Main        (2594195) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:195] Handshake done
+req_id = 60002, token = 3953 us
+req_id = 60003, token = 35360 us
+req_id = 60004, token = 6672 us
+req_id = 60005, token = 2821 us
+req_id = 60006, token = 3306 us
+req_id = 60007, token = 34990 us
+req_id = 60008, token = 3141 us
+req_id = 60009, token = 3252 us
+req_id = 60010, token = 35567 us
+req_id = 60011, token = 3372 us
+req_id = 60012, token = 3086 us
+req_id = 60013, token = 3121 us
+req_id = 60014, token = 34683 us
+req_id = 60015, token = 3294 us
+req_id = 60016, token = 2936 us
+req_id = 60017, token = 3190 us
+req_id = 60018, token = 2810 us
+req_id = 60019, token = 3026 us
+req_id = 60020, token = 3147 us
+req_id = 60021, token = 3222 us
+req_id = 60022, token = 2924 us
+req_id = 60023, token = 3091 us
+req_id = 60024, token = 3189 us
+req_id = 60025, token = 34431 us
+req_id = 60026, token = 2945 us
+req_id = 60027, token = 3179 us
+req_id = 60028, token = 2834 us
+req_id = 60029, token = 28149 us
+req_id = 60030, token = 2791 us
+req_id = 60031, token = 2943 us
+req_id = 60032, token = 2726 us
+req_id = 60033, token = 3022 us
+req_id = 60034, token = 2883 us
+req_id = 60035, token = 2951 us
+req_id = 60036, token = 2964 us
+req_id = 60037, token = 2960 us
+req_id = 60038, token = 3034 us
+req_id = 60039, token = 3146 us
+req_id = 60040, token = 3221 us
+req_id = 60041, token = 2922 us
+req_id = 60042, token = 3537 us
+req_id = 60043, token = 3245 us
+req_id = 60044, token = 2924 us
+req_id = 60045, token = 2968 us
+req_id = 60046, token = 3209 us
+req_id = 60047, token = 2940 us
+req_id = 60048, token = 3483 us
+req_id = 60049, token = 2985 us
+req_id = 60050, token = 3453 us
+req_id = 60051, token = 3791 us
+req_id = 60052, token = 3005 us
+req_id = 60053, token = 43107 us
+req_id = 60054, token = 3424 us
+req_id = 60055, token = 3257 us
+req_id = 60056, token = 3421 us
+req_id = 60057, token = 2970 us
+req_id = 60058, token = 23479 us
+req_id = 60059, token = 3153 us
+req_id = 60060, token = 3352 us
+req_id = 60061, token = 3044 us
+req_id = 60062, token = 2951 us
+req_id = 60063, token = 3059 us
+req_id = 60064, token = 3149 us
+req_id = 60065, token = 3042 us
+req_id = 60066, token = 2747 us
+req_id = 60067, token = 3181 us
+req_id = 60068, token = 2851 us
+req_id = 60069, token = 3010 us
+req_id = 60070, token = 2958 us
+req_id = 60071, token = 3224 us
+req_id = 60072, token = 3293 us
+req_id = 60073, token = 2940 us
+req_id = 60074, token = 2917 us
+req_id = 60075, token = 3090 us
+req_id = 60076, token = 2791 us
+req_id = 60077, token = 2852 us
+req_id = 60078, token = 3079 us
+req_id = 60079, token = 3065 us
+req_id = 60080, token = 3093 us
+req_id = 60081, token = 3162 us
+req_id = 60082, token = 3315 us
+req_id = 60083, token = 3304 us
+req_id = 60084, token = 2816 us
+req_id = 60085, token = 3040 us
+req_id = 60086, token = 2928 us
+req_id = 60087, token = 3251 us
+req_id = 60088, token = 3029 us
+req_id = 60089, token = 2990 us
+req_id = 60090, token = 3053 us
+req_id = 60091, token = 3328 us
+req_id = 60092, token = 2958 us
+req_id = 60093, token = 3056 us
+req_id = 60094, token = 3013 us
+req_id = 60095, token = 2998 us
+req_id = 60096, token = 3152 us
+req_id = 60097, token = 3335 us
+req_id = 60098, token = 3021 us
+req_id = 60099, token = 2901 us
+req_id = 60100, token = 2780 us
+req_id = 60101, token = 3997 us
+req_id = 60102, token = 2995 us
+req_id = 60103, token = 3027 us
+req_id = 60104, token = 2694 us
+req_id = 60105, token = 3156 us
+req_id = 60106, token = 2735 us
+req_id = 60107, token = 3174 us
+req_id = 60108, token = 2863 us
+req_id = 60109, token = 2863 us
+req_id = 60110, token = 3248 us

@@ -1,0 +1,20 @@
+I0419 08:20:59.887486 Main        (122378) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:96] Register main thread: tid=122378
+I0419 08:20:59.889980 Main        (122378) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09Start[1]
+I0419 08:20:59.890167 Main        (122378) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09End[2]
+I0419 08:20:59.890244 Main        (122378) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp09Register[3]
+I0419 08:20:59.890497 Main        (122378) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:107] My client_id is 12
+I0419 08:20:59.890596 Main        (122378) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:173] Use extra pipes for messages
+I0419 08:20:59.891036 Main        (122378) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:195] Handshake done
+I0419 08:22:01.390215 Main        (122378) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 540020, end_time = 1681892521390201
+I0419 08:22:01.391108 Main        (122378) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 120021, end_time = 1681892521391103
+I0419 08:22:01.400945 Main        (122378) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 180021, end_time = 1681892521400940
+I0419 08:22:01.410158 Main        (122378) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 240021, end_time = 1681892521410152
+I0419 08:22:01.503533 Main        (122378) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 360021, end_time = 1681892521503529
+I0419 08:22:01.503806 Main        (122378) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 60023, end_time = 1681892521503803
+I0419 08:22:01.504073 Main        (122378) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 120022, end_time = 1681892521504070
+I0419 08:22:01.519854 Main        (122378) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 300022, end_time = 1681892521519849
+I0419 08:22:01.522167 Main        (122378) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 420021, end_time = 1681892521522158
+I0419 08:22:01.522643 Main        (122378) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 480021, end_time = 1681892521522639
+I0419 08:22:01.523068 Main        (122378) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 600022, end_time = 1681892521523064
+I0419 08:22:01.524510 Main        (122378) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 360022, end_time = 1681892521524506
+I0419 08:22:01.714217 Main        (122378) /home/lgw/Lumine-benchmarks/Experiments/09/src/1_end/end.cpp:48] req_id = 180024, end_time = 1681892521714212

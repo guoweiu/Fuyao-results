@@ -1,0 +1,7 @@
+terminate called after throwing an instance of 'zmq::error_t'
+  what():  Address already in use
+*** SIGABRT received at time=1681893279 on cpu 6 ***
+PC: @     0x7f281513c00b  (unknown)  raise
+    @     0x7f2815cfc819         64  absl::WriteFailureInfo()
+    @     0x7f2815cfca1e         96  absl::AbslFailureSignalHandler()
+    @     0x7f28156b1420  (unknown)  (unknown)

@@ -1,0 +1,44 @@
+# fanout 10
+
+  11097 requests in 1.50m, 1.80MB read
+Requests/sec:    123.25
+Transfer/sec:     20.46KB
+
+
+
+# fanout 20
+
+  5796 requests in 1.50m, 0.94MB read
+Requests/sec:     64.37
+Transfer/sec:     10.69KB
+
+
+
+
+# fanout 40
+
+  2730 requests in 1.50m, 453.22KB read
+  Socket errors: connect 0, read 0, write 0, timeout 1770
+Requests/sec:     30.32
+Transfer/sec:      5.03KB
+
+
+
+# fanout 60
+
+  1698 requests in 1.50m, 281.89KB read
+  Socket errors: connect 0, read 0, write 0, timeout 2799
+Requests/sec:     18.85
+Transfer/sec:      3.13KB
+
+
+
+
+# fanout 80
+
+  1220 requests in 1.50m, 202.54KB read
+  Socket errors: connect 0, read 0, write 0, timeout 3277
+Requests/sec:     13.54
+Transfer/sec:      2.25KB
+
+

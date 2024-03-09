@@ -1,0 +1,35 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_run_audit_9. lib_load_elasped: 297, func_load_elasped: 2
+Loaded function exp06_run_audit_69. lib_load_elasped: 271, func_load_elasped: 2
+Loaded function exp06_run_audit_79. lib_load_elasped: 284, func_load_elasped: 1
+Loaded function exp06_run_audit_55. lib_load_elasped: 271, func_load_elasped: 1
+Loaded function exp06_marketdata. lib_load_elasped: 4187, func_load_elasped: 1
+force_push: msg_id = 3284800, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3284774, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3285012, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3284489, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 3284191, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 3285010, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 3283961, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 3284539, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 3283806, remain = -54, size = 10
+Send to executer failed.Loaded function exp06_run_audit_16. lib_load_elasped: 297, func_load_elasped: 1
+Loaded function exp06_run_audit_2. lib_load_elasped: 259, func_load_elasped: 1
+Loaded function exp06_run_audit_63. lib_load_elasped: 258, func_load_elasped: 1
+Loaded function exp06_run_audit_71. lib_load_elasped: 357, func_load_elasped: 2
+Loaded function exp06_run_audit_38. lib_load_elasped: 300, func_load_elasped: 2
+Loaded function exp06_run_audit_15. lib_load_elasped: 314, func_load_elasped: 2
+Loaded function exp06_run_audit_66. lib_load_elasped: 351, func_load_elasped: 2
+Loaded function exp06_run_audit_33. lib_load_elasped: 302, func_load_elasped: 2
+Loaded function exp06_run_audit_6. lib_load_elasped: 292, func_load_elasped: 1
+Loaded function exp06_run_audit_5. lib_load_elasped: 343, func_load_elasped: 2
+Loaded function exp06_run_audit_20. lib_load_elasped: 295, func_load_elasped: 2
+Loaded function exp06_run_audit_40. lib_load_elasped: 351, func_load_elasped: 2
+Loaded function exp06_run_audit_29. lib_load_elasped: 304, func_load_elasped: 1
+Loaded function exp06_run_audit_39. lib_load_elasped: 297, func_load_elasped: 1
+Loaded function exp06_run_audit_1. lib_load_elasped: 299, func_load_elasped: 1
+Loaded function exp06_run_audit_27. lib_load_elasped: 326, func_load_elasped: 1
+Loaded function exp06_run_audit_80. lib_load_elasped: 351, func_load_elasped: 2
+Loaded function exp00_back. lib_load_elasped: 311, func_load_elasped: 1
+chain_length = 128, payload_size = 512, token 3084799 us.

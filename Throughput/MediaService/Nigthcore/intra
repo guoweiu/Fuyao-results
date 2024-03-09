@@ -1,0 +1,139 @@
+# qps 1600 (606)
+
+  Latency Distribution (HdrHistogram - Uncorrected Latency (measured without taking delayed starts into account))
+ 50.000%  167.93ms
+ 75.000%  185.98ms
+ 90.000%  200.45ms
+ 99.000%  247.29ms
+ 99.900%  267.77ms
+ 99.990%  280.06ms
+ 99.999%  286.98ms
+100.000%  286.98ms
+
+
+#[Mean    =      170.646, StdDeviation   =       24.240]
+#[Max     =      286.720, Total count    =        29241]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  36419 requests in 1.00m, 5.04MB read
+Requests/sec:    606.89
+Transfer/sec:     85.94KB
+
+
+# qps 600(571)
+
+ 50.000%  107.58ms
+ 75.000%  146.05ms
+ 90.000%  156.80ms
+ 99.000%  195.20ms
+ 99.900%  241.54ms
+ 99.990%  258.43ms
+ 99.999%  262.65ms
+100.000%  262.65ms
+
+
+#[Mean    =      102.489, StdDeviation   =       50.259]
+#[Max     =      262.400, Total count    =        28310]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  34299 requests in 1.00m, 4.74MB read
+Requests/sec:    571.57
+Transfer/sec:     80.94KB
+
+# qps 500
+
+ 50.000%   57.69ms
+ 75.000%   82.05ms
+ 90.000%  102.97ms
+ 99.000%  138.88ms
+ 99.900%  168.57ms
+ 99.990%  193.92ms
+ 99.999%  207.49ms
+100.000%  207.49ms
+
+#[Mean    =       59.849, StdDeviation   =       31.693]
+#[Max     =      207.360, Total count    =        25000]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  30000 requests in 1.00m, 4.15MB read
+Requests/sec:    499.94
+Transfer/sec:     70.79KB
+
+# qps 200
+
+ 50.000%   18.96ms
+ 75.000%   24.42ms
+ 90.000%   27.81ms
+ 99.000%   37.82ms
+ 99.900%   54.78ms
+ 99.990%   59.94ms
+ 99.999%   64.32ms
+100.000%   64.32ms
+
+#[Mean    =       19.673, StdDeviation   =        6.798]
+#[Max     =       64.288, Total count    =        10000]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  12001 requests in 1.00m, 1.66MB read
+Requests/sec:    199.97
+Transfer/sec:     28.32KB
+
+
+# qps 100
+
+ 50.000%   17.18ms
+ 75.000%   21.65ms
+ 90.000%   25.36ms
+ 99.000%   34.17ms
+ 99.900%   41.53ms
+ 99.990%   43.78ms
+ 99.999%   45.09ms
+100.000%   45.09ms
+
+#[Mean    =       17.772, StdDeviation   =        5.902]
+#[Max     =       45.056, Total count    =         5000]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  6000 requests in 1.00m, 849.61KB read
+Requests/sec:     99.98
+Transfer/sec:     14.16KB
+
+# qps 50
+
+ 50.000%   10.22ms
+ 75.000%   11.44ms
+ 90.000%   12.85ms
+ 99.000%   17.42ms
+ 99.900%   19.90ms
+ 99.990%   21.34ms
+ 99.999%   21.34ms
+100.000%   21.34ms
+
+#[Mean    =       10.595, StdDeviation   =        1.861]
+#[Max     =       21.328, Total count    =         2498]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  3005 requests in 1.00m, 425.51KB read
+Requests/sec:     50.07
+Transfer/sec:      7.09KB
+
+# qps 10
+
+ 50.000%    9.95ms
+ 75.000%   11.09ms
+ 90.000%   11.85ms
+ 99.000%   16.51ms
+ 99.900%   58.75ms
+ 99.990%   58.75ms
+ 99.999%   58.75ms
+100.000%   58.75ms
+
+#[Mean    =       10.676, StdDeviation   =        4.964]
+#[Max     =       58.720, Total count    =          500]
+#[Buckets =           27, SubBuckets     =         2048]
+----------------------------------------------------------
+  600 requests in 1.00m, 84.96KB read
+Requests/sec:     10.00
+Transfer/sec:      1.42KB
+
+

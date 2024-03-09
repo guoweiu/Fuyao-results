@@ -1,0 +1,44 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_marketdata. lib_load_elasped: 10811, func_load_elasped: 7
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+fail release: invalid id (mem = (nil), size = 48)
+force_push: msg_id = 3042686, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 3042590, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 3042903, remain = 10, size = 64
+Send to executer failed.Loaded function exp06_run_audit_21. lib_load_elasped: 260, func_load_elasped: 1
+Loaded function exp06_run_audit_25. lib_load_elasped: 277, func_load_elasped: 1
+Loaded function exp06_run_audit_6. lib_load_elasped: 232, func_load_elasped: 2
+Loaded function exp06_run_audit_18. lib_load_elasped: 343, func_load_elasped: 2
+Loaded function exp06_run_audit_31. lib_load_elasped: 302, func_load_elasped: 1
+Loaded function exp06_run_audit_29. lib_load_elasped: 322, func_load_elasped: 1

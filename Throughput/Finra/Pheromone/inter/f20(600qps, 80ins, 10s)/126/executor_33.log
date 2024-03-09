@@ -1,0 +1,110 @@
+Read file config.yml
+Running executor...
+Loaded function exp06_run_audit_14. lib_load_elasped: 372, func_load_elasped: 2
+Loaded function exp06_run_audit_11. lib_load_elasped: 312, func_load_elasped: 1
+Loaded function exp06_run_audit_5. lib_load_elasped: 144, func_load_elasped: 0
+Loaded function exp06_run_audit_7. lib_load_elasped: 215, func_load_elasped: 1
+Loaded function exp06_run_audit_18. lib_load_elasped: 149, func_load_elasped: 0
+Loaded function exp06_run_audit_1. lib_load_elasped: 225, func_load_elasped: 1
+Loaded function exp06_run_audit_13. lib_load_elasped: 190, func_load_elasped: 1
+Loaded function exp06_marketdata. lib_load_elasped: 3083, func_load_elasped: 1
+Loaded function exp06_run_audit_19. lib_load_elasped: 242, func_load_elasped: 1
+force_push: msg_id = 215523, remain = 8, size = 64
+Send to executer failed.force_push: msg_id = 215673, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 215679, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 215637, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 215634, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 215677, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 215678, remain = 74, size = 64
+Send to executer failed.Loaded function exp06_run_audit_10. lib_load_elasped: 388, func_load_elasped: 1
+Loaded function exp06_run_audit_2. lib_load_elasped: 334, func_load_elasped: 1
+force_push: msg_id = 216225, remain = -57, size = 7
+Send to executer failed.Loaded function exp06_run_audit_16. lib_load_elasped: 351, func_load_elasped: 1
+Loaded function exp06_run_audit_9. lib_load_elasped: 308, func_load_elasped: 1
+Loaded function exp06_run_audit_20. lib_load_elasped: 355, func_load_elasped: 2
+Loaded function exp06_run_audit_17. lib_load_elasped: 446, func_load_elasped: 2
+Loaded function exp06_run_audit_3. lib_load_elasped: 394, func_load_elasped: 2
+Loaded function exp06_run_audit_6. lib_load_elasped: 369, func_load_elasped: 2
+force_push: msg_id = 225788, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 225778, remain = -54, size = 10
+Send to executer failed.force_push: msg_id = 226689, remain = 10, size = 64
+Send to executer failed.force_push: msg_id = 226643, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 226690, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 226694, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 226618, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 226691, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 226699, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 226669, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 229228, remain = -56, size = 8
+Send to executer failed.force_push: msg_id = 229234, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 229227, remain = 72, size = 64
+Send to executer failed.force_push: msg_id = 235030, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 235029, remain = -54, size = 10
+Send to executer failed.Loaded function exp06_run_audit_8. lib_load_elasped: 422, func_load_elasped: 2
+Loaded function exp06_run_audit_4. lib_load_elasped: 571, func_load_elasped: 1
+force_push: msg_id = 240059, remain = -56, size = 8
+Send to executer failed.force_push: msg_id = 240130, remain = -54, size = 10
+Send to executer failed.Loaded function exp06_run_audit_15. lib_load_elasped: 541, func_load_elasped: 4
+Loaded function exp06_run_audit_12. lib_load_elasped: 423, func_load_elasped: 2
+force_push: msg_id = 260126, remain = 73, size = 64
+Send to executer failed.force_push: msg_id = 310578, remain = 74, size = 64
+Send to executer failed.force_push: msg_id = 310588, remain = -54, size = 10
+Send to executer failed.Loaded function exp06_marginbalance. lib_load_elasped: 246, func_load_elasped: 0
+req_id = 360019, token 15801276 us.
+req_id = 120085, token 29703812 us.
+req_id = 1080065, token 21653 us.
+req_id = 960284, token 27819772 us.
+req_id = 900255, token 29992952 us.
+req_id = 1200080, token 41474160 us.
+req_id = 1020189, token 36907992 us.
+req_id = 540035, token 12783289 us.
+req_id = 1080168, token 31090995 us.
+req_id = 600255, token 18191406 us.
+req_id = 120086, token 44019267 us.
+req_id = 180227, token 17469643 us.
+req_id = 420286, token 37853 us.
+req_id = 1020281, token 4233396 us.
+req_id = 780229, token 17425308 us.
+req_id = 360103, token 42097469 us.
+req_id = 300157, token 46400635 us.
+req_id = 660113, token 41994686 us.
+req_id = 720179, token 64449 us.
+req_id = 420126, token 29907714 us.
+req_id = 1020150, token 39674354 us.
+req_id = 180062, token 26537437 us.
+req_id = 1140287, token 24814479 us.
+req_id = 240174, token 25800928 us.
+req_id = 900151, token 19817122 us.
+req_id = 360155, token 7320978 us.
+req_id = 720075, token 24517114 us.
+req_id = 180202, token 4437450 us.
+req_id = 840203, token 13061017 us.
+req_id = 360222, token 32598344 us.
+req_id = 900087, token 27466535 us.
+req_id = 1140285, token 17771797 us.
+req_id = 420141, token 49695908 us.
+req_id = 240238, token 4449019 us.
+req_id = 480293, token 23152547 us.
+req_id = 360236, token 28186148 us.
+req_id = 1200132, token 4425677 us.
+req_id = 1080281, token 26330135 us.
+req_id = 180297, token 27572643 us.
+req_id = 900287, token 17835863 us.
+req_id = 60191, token 14152686 us.
+req_id = 60268, token 19269754 us.
+req_id = 1140142, token 4174656 us.
+req_id = 600242, token 18301337 us.
+req_id = 660179, token 26861863 us.
+req_id = 960075, token 21756158 us.
+req_id = 600012, token 50629046 us.
+req_id = 1020071, token 16642057 us.
+req_id = 360294, token 3854267 us.
+req_id = 480091, token 12902072 us.
+req_id = 420171, token 41606214 us.
+req_id = 480210, token 16560167 us.
+req_id = 1080031, token 3782855 us.
+req_id = 1200295, token 17775305 us.
+req_id = 480079, token 12411197 us.
+req_id = 660087, token 30754614 us.
+req_id = 600268, token 18677649 us.
+req_id = 540202, token 905831 us.
