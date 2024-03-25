@@ -1,0 +1,143 @@
+I0424 06:37:15.781634 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:96] Register main thread: tid=1867987
+I0424 06:37:15.783262 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieId1[20]
+I0424 06:37:15.783402 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadText1[21]
+I0424 06:37:15.783456 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUniqueId1[22]
+I0424 06:37:15.783494 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserId1[23]
+I0424 06:37:15.783523 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadRating2[24]
+I0424 06:37:15.783560 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieId3[25]
+I0424 06:37:15.783589 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadRating3[26]
+I0424 06:37:15.783616 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadText3[27]
+I0424 06:37:15.783643 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUniqueId3[28]
+I0424 06:37:15.783673 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserId3[29]
+I0424 06:37:15.783701 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieReview4[30]
+I0424 06:37:15.783728 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02ReadReview4[31]
+I0424 06:37:15.783754 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02StoreReview4[32]
+I0424 06:37:15.783784 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserReview4[33]
+I0424 06:37:15.783823 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02RegisterMovieId[34]
+I0424 06:37:15.783857 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02ComposeReview[35]
+I0424 06:37:15.784021 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:107] My client_id is 42
+I0424 06:37:15.784108 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:173] Use extra pipes for messages
+I0424 06:37:15.784616 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:195] Handshake done
+I0424 06:37:22.545212 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60002, UploadRating3 token 90552
+I0424 06:37:22.913804 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60004, UploadRating3 token 2306
+I0424 06:37:23.416807 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60007, UploadRating3 token 2015
+I0424 06:37:23.913226 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60008, UploadRating3 token 2005
+I0424 06:37:24.416510 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60011, UploadRating3 token 1934
+I0424 06:37:24.914506 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60012, UploadRating3 token 1967
+I0424 06:37:25.417857 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60015, UploadRating3 token 2021
+I0424 06:37:25.913717 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60016, UploadRating3 token 2207
+I0424 06:37:26.417728 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60019, UploadRating3 token 1939
+I0424 06:37:26.913530 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60020, UploadRating3 token 2200
+I0424 06:37:27.416301 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60023, UploadRating3 token 2041
+I0424 06:37:27.914028 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60024, UploadRating3 token 2252
+I0424 06:37:28.417539 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60027, UploadRating3 token 2184
+I0424 06:37:28.913036 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60028, UploadRating3 token 2015
+I0424 06:37:29.417301 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60031, UploadRating3 token 2048
+I0424 06:37:29.914360 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60032, UploadRating3 token 2333
+I0424 06:37:30.417962 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60035, UploadRating3 token 1828
+I0424 06:37:30.914220 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60036, UploadRating3 token 2373
+I0424 06:37:31.416367 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60039, UploadRating3 token 1832
+I0424 06:37:31.913070 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60040, UploadRating3 token 1844
+I0424 06:37:32.417476 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60043, UploadRating3 token 1896
+I0424 06:37:32.913884 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60044, UploadRating3 token 2014
+I0424 06:37:33.416931 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60047, UploadRating3 token 1789
+I0424 06:37:33.913185 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60048, UploadRating3 token 1923
+I0424 06:37:34.417439 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60051, UploadRating3 token 2010
+I0424 06:37:34.913745 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60052, UploadRating3 token 2194
+I0424 06:37:35.416863 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60055, UploadRating3 token 2042
+I0424 06:37:35.913371 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60056, UploadRating3 token 2253
+I0424 06:37:36.418274 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60059, UploadRating3 token 1982
+I0424 06:37:36.913928 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60060, UploadRating3 token 2077
+I0424 06:37:37.418142 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60063, UploadRating3 token 2116
+I0424 06:37:37.912944 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60064, UploadRating3 token 2105
+I0424 06:37:38.418546 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60067, UploadRating3 token 2207
+I0424 06:37:38.913576 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60068, UploadRating3 token 2201
+I0424 06:37:39.417097 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60071, UploadRating3 token 2006
+I0424 06:37:39.913560 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60072, UploadRating3 token 2298
+I0424 06:37:40.415271 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60075, UploadRating3 token 2089
+I0424 06:37:40.911001 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60076, UploadRating3 token 2196
+I0424 06:37:41.417667 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60079, UploadRating3 token 2184
+I0424 06:37:41.912961 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60080, UploadRating3 token 2188
+I0424 06:37:42.414499 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60083, UploadRating3 token 1728
+I0424 06:37:42.913518 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60084, UploadRating3 token 2309
+I0424 06:37:43.418249 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60087, UploadRating3 token 2183
+I0424 06:37:43.912844 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60088, UploadRating3 token 2120
+I0424 06:37:44.416691 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60091, UploadRating3 token 2107
+I0424 06:37:44.913651 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60092, UploadRating3 token 2237
+I0424 06:37:45.416407 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60095, UploadRating3 token 1896
+I0424 06:37:45.912884 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60096, UploadRating3 token 1987
+I0424 06:37:46.417911 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60099, UploadRating3 token 1945
+I0424 06:37:46.913280 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60100, UploadRating3 token 2113
+I0424 06:37:47.417908 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60103, UploadRating3 token 1908
+I0424 06:37:47.913064 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60104, UploadRating3 token 2025
+I0424 06:37:48.417182 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60107, UploadRating3 token 2072
+I0424 06:37:48.913540 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60108, UploadRating3 token 2402
+I0424 06:37:49.417897 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60111, UploadRating3 token 2059
+I0424 06:37:49.910475 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60112, UploadRating3 token 2072
+I0424 06:37:49.917197 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60113, UploadRating3 token 1818
+I0424 06:37:50.412972 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60114, UploadRating3 token 2065
+I0424 06:37:50.917238 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60117, UploadRating3 token 1978
+I0424 06:37:51.413528 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60118, UploadRating3 token 2057
+I0424 06:37:51.916417 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60121, UploadRating3 token 1938
+I0424 06:37:52.411473 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60122, UploadRating3 token 2249
+I0424 06:37:52.917260 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60125, UploadRating3 token 2178
+I0424 06:37:53.414074 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60126, UploadRating3 token 2180
+I0424 06:37:53.917930 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60129, UploadRating3 token 2018
+I0424 06:37:54.413405 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60130, UploadRating3 token 2254
+I0424 06:37:54.917886 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60133, UploadRating3 token 1903
+I0424 06:37:55.413516 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60134, UploadRating3 token 2066
+I0424 06:37:55.917595 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60137, UploadRating3 token 2176
+I0424 06:37:56.413317 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60138, UploadRating3 token 2196
+I0424 06:37:56.917596 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60141, UploadRating3 token 2256
+I0424 06:37:57.412612 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60142, UploadRating3 token 2020
+I0424 06:37:57.915309 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60145, UploadRating3 token 1995
+I0424 06:37:58.413546 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60146, UploadRating3 token 2393
+I0424 06:37:58.917787 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60149, UploadRating3 token 2149
+I0424 06:37:59.413269 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60150, UploadRating3 token 2241
+I0424 06:38:00.416515 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60155, UploadRating3 token 2002
+I0424 06:38:00.913219 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60156, UploadRating3 token 2268
+I0424 06:38:01.417600 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60159, UploadRating3 token 2372
+I0424 06:38:01.913108 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60160, UploadRating3 token 1934
+I0424 06:38:02.417448 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60163, UploadRating3 token 2241
+I0424 06:38:02.913094 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60164, UploadRating3 token 2195
+I0424 06:38:03.414066 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60167, UploadRating3 token 1639
+I0424 06:38:03.914045 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60168, UploadRating3 token 2023
+I0424 06:38:04.417059 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60171, UploadRating3 token 2025
+I0424 06:38:04.913577 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60172, UploadRating3 token 2313
+I0424 06:38:05.416954 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60175, UploadRating3 token 2137
+I0424 06:38:05.914214 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60176, UploadRating3 token 2248
+I0424 06:38:06.417477 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60179, UploadRating3 token 2002
+I0424 06:38:06.913840 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60180, UploadRating3 token 2205
+I0424 06:38:07.417316 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60183, UploadRating3 token 2132
+I0424 06:38:07.913427 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60184, UploadRating3 token 2168
+I0424 06:38:08.414746 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60187, UploadRating3 token 1894
+I0424 06:38:08.910469 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60188, UploadRating3 token 2291
+I0424 06:38:08.917670 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60189, UploadRating3 token 2043
+I0424 06:38:09.413850 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60190, UploadRating3 token 2152
+I0424 06:38:09.917413 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60193, UploadRating3 token 2276
+I0424 06:38:10.413918 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60194, UploadRating3 token 2256
+I0424 06:38:10.917486 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60197, UploadRating3 token 2202
+I0424 06:38:11.411203 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60198, UploadRating3 token 2178
+I0424 06:38:11.917092 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60201, UploadRating3 token 2187
+I0424 06:38:12.412581 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60202, UploadRating3 token 2042
+I0424 06:38:12.917953 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60205, UploadRating3 token 2213
+I0424 06:38:13.413007 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60206, UploadRating3 token 2097
+I0424 06:38:13.915599 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60209, UploadRating3 token 2059
+I0424 06:38:14.412823 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60210, UploadRating3 token 2104
+I0424 06:38:14.917360 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60213, UploadRating3 token 2133
+I0424 06:38:15.413349 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60214, UploadRating3 token 2184
+I0424 06:38:15.917660 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60217, UploadRating3 token 2214
+I0424 06:38:16.413534 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60218, UploadRating3 token 2205
+I0424 06:38:16.915346 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60221, UploadRating3 token 2031
+I0424 06:38:17.411024 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60222, UploadRating3 token 2305
+I0424 06:38:18.417675 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60227, UploadRating3 token 2037
+I0424 06:38:18.913173 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60228, UploadRating3 token 2006
+I0424 06:38:19.915553 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60233, UploadRating3 token 2115
+I0424 06:38:20.413255 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60234, UploadRating3 token 2251
+I0424 06:38:20.917758 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60237, UploadRating3 token 2161
+I0424 06:38:21.413524 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60238, UploadRating3 token 2030
+I0424 06:38:21.917029 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60241, UploadRating3 token 2203
+I0424 06:38:22.412166 Main        (1867987) /home/lgw/Lumine-benchmarks/Experiments/02/src/3_ComposeReviewService/UploadRating3.cpp:50] req_id = 60242, UploadRating3 token 2344
+I0424 06:43:09.741556 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:551] Leave RDMA_SERVING state and enter RDMA_RECLAIM state
+I0424 06:43:09.741819 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:559] DRC reclamation succeeded!
+I0424 06:45:09.841960 Main        (1867987) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:392] reclaim drc, guid_name = exp02StoreReview4

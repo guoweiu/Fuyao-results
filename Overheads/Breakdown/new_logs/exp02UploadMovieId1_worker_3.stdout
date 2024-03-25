@@ -1,0 +1,20 @@
+I0424 11:39:13.975977 Main        (1919718) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:96] Register main thread: tid=1919718
+I0424 11:39:13.977774 Main        (1919718) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieId1[20]
+I0424 11:39:13.977911 Main        (1919718) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadText1[21]
+I0424 11:39:13.977961 Main        (1919718) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUniqueId1[22]
+I0424 11:39:13.977996 Main        (1919718) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserId1[23]
+I0424 11:39:13.978023 Main        (1919718) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadRating2[24]
+I0424 11:39:13.978056 Main        (1919718) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieId3[25]
+I0424 11:39:13.978082 Main        (1919718) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadRating3[26]
+I0424 11:39:13.978106 Main        (1919718) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadText3[27]
+I0424 11:39:13.978131 Main        (1919718) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUniqueId3[28]
+I0424 11:39:13.978157 Main        (1919718) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserId3[29]
+I0424 11:39:13.978182 Main        (1919718) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieReview4[30]
+I0424 11:39:13.978206 Main        (1919718) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02ReadReview4[31]
+I0424 11:39:13.978230 Main        (1919718) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02StoreReview4[32]
+I0424 11:39:13.978258 Main        (1919718) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserReview4[33]
+I0424 11:39:13.978293 Main        (1919718) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02RegisterMovieId[34]
+I0424 11:39:13.978324 Main        (1919718) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02ComposeReview[35]
+I0424 11:39:13.978485 Main        (1919718) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:107] My client_id is 10
+I0424 11:39:13.978546 Main        (1919718) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:173] Use extra pipes for messages
+I0424 11:39:13.978949 Main        (1919718) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:195] Handshake done

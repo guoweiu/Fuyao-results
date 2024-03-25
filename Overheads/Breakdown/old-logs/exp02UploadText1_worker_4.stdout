@@ -1,0 +1,146 @@
+I0424 03:21:37.203346 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:96] Register main thread: tid=1858156
+I0424 03:21:37.205176 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieId1[20]
+I0424 03:21:37.205320 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadText1[21]
+I0424 03:21:37.205373 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUniqueId1[22]
+I0424 03:21:37.205409 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserId1[23]
+I0424 03:21:37.205436 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadRating2[24]
+I0424 03:21:37.205463 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieId3[25]
+I0424 03:21:37.205488 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadRating3[26]
+I0424 03:21:37.205514 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadText3[27]
+I0424 03:21:37.205545 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUniqueId3[28]
+I0424 03:21:37.205576 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserId3[29]
+I0424 03:21:37.205602 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieReview4[30]
+I0424 03:21:37.205626 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02ReadReview4[31]
+I0424 03:21:37.205649 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02StoreReview4[32]
+I0424 03:21:37.205677 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserReview4[33]
+I0424 03:21:37.205713 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02RegisterMovieId[34]
+I0424 03:21:37.205739 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02ComposeReview[35]
+I0424 03:21:37.205913 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:107] My client_id is 17
+I0424 03:21:37.205998 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:173] Use extra pipes for messages
+I0424 03:21:37.206430 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:195] Handshake done
+I0424 03:22:00.308421 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60003, UploadRating2 token 8500
+I0424 03:22:00.776321 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60004, UploadRating2 token 1019
+I0424 03:22:00.781088 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60005, UploadRating2 token 825
+I0424 03:22:01.276998 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60006, UploadRating2 token 998
+I0424 03:22:01.780494 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60009, UploadRating2 token 897
+I0424 03:22:02.276481 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60010, UploadRating2 token 960
+I0424 03:22:02.781402 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60013, UploadRating2 token 956
+I0424 03:22:03.276387 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60014, UploadRating2 token 1102
+I0424 03:22:03.281429 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60015, UploadRating2 token 959
+I0424 03:22:03.776402 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60016, UploadRating2 token 1056
+I0424 03:22:04.280915 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60019, UploadRating2 token 954
+I0424 03:22:04.776903 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60020, UploadRating2 token 997
+I0424 03:22:05.279949 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60023, UploadRating2 token 977
+I0424 03:22:05.775645 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60024, UploadRating2 token 969
+I0424 03:22:05.780823 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60025, UploadRating2 token 958
+I0424 03:22:06.276688 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60026, UploadRating2 token 995
+I0424 03:22:06.779694 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60029, UploadRating2 token 803
+I0424 03:22:07.276398 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60030, UploadRating2 token 884
+I0424 03:22:07.780976 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60033, UploadRating2 token 803
+I0424 03:22:08.276080 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60034, UploadRating2 token 964
+I0424 03:22:08.781010 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60037, UploadRating2 token 813
+I0424 03:22:09.276423 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60038, UploadRating2 token 1001
+I0424 03:22:09.780823 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60041, UploadRating2 token 972
+I0424 03:22:10.277270 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60042, UploadRating2 token 970
+I0424 03:22:10.780983 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60045, UploadRating2 token 899
+I0424 03:22:11.276691 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60046, UploadRating2 token 1040
+I0424 03:22:11.780023 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60049, UploadRating2 token 1033
+I0424 03:22:12.276078 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60050, UploadRating2 token 1009
+I0424 03:22:13.780022 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60057, UploadRating2 token 1049
+I0424 03:22:14.280904 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60059, UploadRating2 token 964
+I0424 03:22:14.776033 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60060, UploadRating2 token 989
+I0424 03:22:15.280475 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60063, UploadRating2 token 975
+I0424 03:22:15.775653 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60064, UploadRating2 token 993
+I0424 03:22:16.280159 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60067, UploadRating2 token 956
+I0424 03:22:16.776163 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60068, UploadRating2 token 979
+I0424 03:22:17.280095 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60071, UploadRating2 token 982
+I0424 03:22:17.776315 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60072, UploadRating2 token 1085
+I0424 03:22:18.280163 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60075, UploadRating2 token 957
+I0424 03:22:18.776542 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60076, UploadRating2 token 1022
+I0424 03:22:19.280525 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60079, UploadRating2 token 979
+I0424 03:22:19.775950 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60080, UploadRating2 token 987
+I0424 03:22:20.280916 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60083, UploadRating2 token 1076
+I0424 03:22:20.775926 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60084, UploadRating2 token 943
+I0424 03:22:21.280505 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60087, UploadRating2 token 1023
+I0424 03:22:21.776329 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60088, UploadRating2 token 1011
+I0424 03:22:22.280386 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60091, UploadRating2 token 929
+I0424 03:22:22.776155 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60092, UploadRating2 token 950
+I0424 03:22:23.281119 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60095, UploadRating2 token 1009
+I0424 03:22:23.775838 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60096, UploadRating2 token 993
+I0424 03:22:24.281185 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60099, UploadRating2 token 1036
+I0424 03:22:24.776346 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60100, UploadRating2 token 1022
+I0424 03:22:25.281231 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60103, UploadRating2 token 892
+I0424 03:22:25.775864 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60104, UploadRating2 token 988
+I0424 03:22:26.281396 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60107, UploadRating2 token 889
+I0424 03:22:26.776395 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60108, UploadRating2 token 1024
+I0424 03:22:27.280338 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60111, UploadRating2 token 1034
+I0424 03:22:27.776195 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60112, UploadRating2 token 1018
+I0424 03:22:28.280748 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60115, UploadRating2 token 914
+I0424 03:22:28.775938 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60116, UploadRating2 token 902
+I0424 03:22:29.280445 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60119, UploadRating2 token 908
+I0424 03:22:29.775914 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60120, UploadRating2 token 1015
+I0424 03:22:30.281057 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60123, UploadRating2 token 953
+I0424 03:22:30.776250 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60124, UploadRating2 token 999
+I0424 03:22:31.280399 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60127, UploadRating2 token 980
+I0424 03:22:31.776147 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60128, UploadRating2 token 913
+I0424 03:22:32.280976 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60131, UploadRating2 token 1092
+I0424 03:22:32.776244 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60132, UploadRating2 token 1005
+I0424 03:22:33.280049 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60135, UploadRating2 token 1066
+I0424 03:22:33.776563 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60136, UploadRating2 token 1068
+I0424 03:22:34.279882 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60139, UploadRating2 token 892
+I0424 03:22:34.776392 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60140, UploadRating2 token 991
+I0424 03:22:35.280240 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60143, UploadRating2 token 948
+I0424 03:22:35.776512 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60144, UploadRating2 token 983
+I0424 03:22:36.280256 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60147, UploadRating2 token 1086
+I0424 03:22:36.776040 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60148, UploadRating2 token 1019
+I0424 03:22:37.280117 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60151, UploadRating2 token 924
+I0424 03:22:37.775780 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60152, UploadRating2 token 995
+I0424 03:22:37.780760 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60153, UploadRating2 token 897
+I0424 03:22:38.275730 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60154, UploadRating2 token 990
+I0424 03:22:38.780731 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60157, UploadRating2 token 877
+I0424 03:22:39.276317 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60158, UploadRating2 token 1021
+I0424 03:22:39.779986 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60161, UploadRating2 token 905
+I0424 03:22:40.276294 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60162, UploadRating2 token 937
+I0424 03:22:40.780351 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60165, UploadRating2 token 929
+I0424 03:22:41.276493 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60166, UploadRating2 token 998
+I0424 03:22:41.780856 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60169, UploadRating2 token 851
+I0424 03:22:42.276654 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60170, UploadRating2 token 1052
+I0424 03:22:42.780665 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60173, UploadRating2 token 998
+I0424 03:22:43.276430 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60174, UploadRating2 token 994
+I0424 03:22:43.780552 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60177, UploadRating2 token 1014
+I0424 03:22:44.276143 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60178, UploadRating2 token 991
+I0424 03:22:44.780090 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60181, UploadRating2 token 1009
+I0424 03:22:45.275939 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60182, UploadRating2 token 1015
+I0424 03:22:45.780512 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60185, UploadRating2 token 907
+I0424 03:22:46.276227 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60186, UploadRating2 token 971
+I0424 03:22:47.280808 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60191, UploadRating2 token 930
+I0424 03:22:47.776667 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60192, UploadRating2 token 993
+I0424 03:22:48.280238 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60195, UploadRating2 token 971
+I0424 03:22:48.776027 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60196, UploadRating2 token 1092
+I0424 03:22:49.280384 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60199, UploadRating2 token 928
+I0424 03:22:49.776027 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60200, UploadRating2 token 940
+I0424 03:22:50.280795 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60203, UploadRating2 token 1109
+I0424 03:22:50.775784 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60204, UploadRating2 token 966
+I0424 03:22:51.280884 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60207, UploadRating2 token 978
+I0424 03:22:51.775712 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60208, UploadRating2 token 986
+I0424 03:22:52.280544 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60211, UploadRating2 token 937
+I0424 03:22:52.775775 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60212, UploadRating2 token 968
+I0424 03:22:53.280295 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60215, UploadRating2 token 960
+I0424 03:22:53.775459 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60216, UploadRating2 token 878
+I0424 03:22:54.280909 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60219, UploadRating2 token 884
+I0424 03:22:54.776442 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60220, UploadRating2 token 1008
+I0424 03:22:55.280583 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60223, UploadRating2 token 922
+I0424 03:22:55.775731 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60224, UploadRating2 token 936
+I0424 03:22:56.280117 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60227, UploadRating2 token 994
+I0424 03:22:56.775848 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60228, UploadRating2 token 1029
+I0424 03:22:57.280312 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60231, UploadRating2 token 980
+I0424 03:22:57.776493 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60232, UploadRating2 token 968
+I0424 03:22:58.280003 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60235, UploadRating2 token 905
+I0424 03:22:58.775721 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60236, UploadRating2 token 980
+I0424 03:22:58.780811 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60237, UploadRating2 token 948
+I0424 03:22:59.276491 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60238, UploadRating2 token 911
+I0424 03:22:59.780134 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60241, UploadRating2 token 941
+I0424 03:23:00.277246 Main        (1858156) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_TextService/UploadText1.cpp:60] req_id = 60242, UploadRating2 token 986
+I0424 03:25:35.330540 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:551] Leave RDMA_SERVING state and enter RDMA_RECLAIM state
+I0424 03:25:35.330757 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:559] DRC reclamation succeeded!
+I0424 03:27:35.430998 Main        (1858156) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:392] reclaim drc, guid_name = exp02UploadText3

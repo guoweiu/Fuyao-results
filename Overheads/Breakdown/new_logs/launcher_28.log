@@ -1,0 +1,23 @@
+I0424 11:39:20.904636 Main        (1920301) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:96] Register main thread: tid=1920301
+E0424 11:39:20.905210 Main        (1920301) /home/lgw/Lumine-benchmarks/Lumine/lib/utils/docker.cpp:57] Cannot find docker's cgroup in /proc/self/cgroup
+I0424 11:39:20.905521 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:60] Does not find cpuset setting for IO threads (can be set by FAAS_IO_THREAD_CPUSET)
+I0424 11:39:20.905566 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:78] Does not find nice setting for IO threads (can be set by FAAS_IO_THREAD_NICE)
+I0424 11:39:20.905585 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/src/host/launcher/launcher.cpp:93] Launcher: Event loop starts
+I0424 11:39:20.905649 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/src/host/launcher/engine_connection.cpp:91] EngineConnection: Connected to engine, start writing handshake message
+I0424 11:39:20.907785 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieId1[20]
+I0424 11:39:20.907864 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadText1[21]
+I0424 11:39:20.907915 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUniqueId1[22]
+I0424 11:39:20.907954 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserId1[23]
+I0424 11:39:20.907989 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadRating2[24]
+I0424 11:39:20.908025 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieId3[25]
+I0424 11:39:20.908060 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadRating3[26]
+I0424 11:39:20.908094 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadText3[27]
+I0424 11:39:20.908127 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUniqueId3[28]
+I0424 11:39:20.908164 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserId3[29]
+I0424 11:39:20.908199 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieReview4[30]
+I0424 11:39:20.908233 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02ReadReview4[31]
+I0424 11:39:20.908266 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02StoreReview4[32]
+I0424 11:39:20.908301 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserReview4[33]
+I0424 11:39:20.908347 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02RegisterMovieId[34]
+I0424 11:39:20.908383 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02ComposeReview[35]
+I0424 11:39:20.908656 Launcher EL (1920302) /home/lgw/Lumine-benchmarks/Lumine/src/host/launcher/engine_connection.cpp:63] EngineConnection: Handshake done

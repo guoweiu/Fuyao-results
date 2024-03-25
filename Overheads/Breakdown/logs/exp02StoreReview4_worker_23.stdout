@@ -1,0 +1,140 @@
+I0424 06:37:18.800955 Main        (1868256) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:96] Register main thread: tid=1868256
+I0424 06:37:18.803552 Main        (1868256) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieId1[20]
+I0424 06:37:18.803744 Main        (1868256) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadText1[21]
+I0424 06:37:18.803824 Main        (1868256) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUniqueId1[22]
+I0424 06:37:18.803885 Main        (1868256) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserId1[23]
+I0424 06:37:18.803935 Main        (1868256) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadRating2[24]
+I0424 06:37:18.803994 Main        (1868256) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieId3[25]
+I0424 06:37:18.804042 Main        (1868256) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadRating3[26]
+I0424 06:37:18.804091 Main        (1868256) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadText3[27]
+I0424 06:37:18.804136 Main        (1868256) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUniqueId3[28]
+I0424 06:37:18.804186 Main        (1868256) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserId3[29]
+I0424 06:37:18.804233 Main        (1868256) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieReview4[30]
+I0424 06:37:18.804278 Main        (1868256) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02ReadReview4[31]
+I0424 06:37:18.804323 Main        (1868256) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02StoreReview4[32]
+I0424 06:37:18.804373 Main        (1868256) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserReview4[33]
+I0424 06:37:18.804434 Main        (1868256) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02RegisterMovieId[34]
+I0424 06:37:18.804488 Main        (1868256) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02ComposeReview[35]
+I0424 06:37:18.804744 Main        (1868256) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:107] My client_id is 78
+I0424 06:37:18.804842 Main        (1868256) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:173] Use extra pipes for messages
+I0424 06:37:18.805359 Main        (1868256) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:195] Handshake done
+I0424 06:37:22.544924 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60002, StoreReview token 81221
+I0424 06:37:22.913642 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60004, StoreReview token 819
+I0424 06:37:23.416648 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60007, StoreReview token 729
+I0424 06:37:23.913089 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60008, StoreReview token 750
+I0424 06:37:24.416380 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60011, StoreReview token 720
+I0424 06:37:24.914326 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60012, StoreReview token 664
+I0424 06:37:25.417724 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60015, StoreReview token 779
+I0424 06:37:25.913584 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60016, StoreReview token 833
+I0424 06:37:26.417595 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60019, StoreReview token 785
+I0424 06:37:26.913395 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60020, StoreReview token 865
+I0424 06:37:27.416169 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60023, StoreReview token 710
+I0424 06:37:27.913895 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60024, StoreReview token 733
+I0424 06:37:28.417405 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60027, StoreReview token 741
+I0424 06:37:28.912911 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60028, StoreReview token 706
+I0424 06:37:29.417167 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60031, StoreReview token 721
+I0424 06:37:29.914227 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60032, StoreReview token 854
+I0424 06:37:30.417829 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60035, StoreReview token 557
+I0424 06:37:30.914085 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60036, StoreReview token 850
+I0424 06:37:31.416233 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60039, StoreReview token 600
+I0424 06:37:31.912940 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60040, StoreReview token 682
+I0424 06:37:32.417343 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60043, StoreReview token 633
+I0424 06:37:32.913750 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60044, StoreReview token 756
+I0424 06:37:33.416798 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60047, StoreReview token 602
+I0424 06:37:33.913060 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60048, StoreReview token 631
+I0424 06:37:34.417306 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60051, StoreReview token 627
+I0424 06:37:34.913619 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60052, StoreReview token 767
+I0424 06:37:35.416671 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60055, StoreReview token 740
+I0424 06:37:35.913185 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60056, StoreReview token 682
+I0424 06:37:36.418145 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60059, StoreReview token 694
+I0424 06:37:36.913788 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60060, StoreReview token 721
+I0424 06:37:37.418011 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60063, StoreReview token 740
+I0424 06:37:37.912767 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60064, StoreReview token 686
+I0424 06:37:38.418369 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60067, StoreReview token 780
+I0424 06:37:38.913451 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60068, StoreReview token 809
+I0424 06:37:39.416972 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60071, StoreReview token 728
+I0424 06:37:39.913425 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60072, StoreReview token 731
+I0424 06:37:40.415140 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60075, StoreReview token 710
+I0424 06:37:40.910871 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60076, StoreReview token 834
+I0424 06:37:41.417535 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60079, StoreReview token 794
+I0424 06:37:41.912809 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60080, StoreReview token 697
+I0424 06:37:42.414369 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60083, StoreReview token 553
+I0424 06:37:42.913380 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60084, StoreReview token 829
+I0424 06:37:43.418118 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60087, StoreReview token 821
+I0424 06:37:43.912694 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60088, StoreReview token 702
+I0424 06:37:44.416560 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60091, StoreReview token 752
+I0424 06:37:44.913475 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60092, StoreReview token 782
+I0424 06:37:45.416277 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60095, StoreReview token 618
+I0424 06:37:45.912739 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60096, StoreReview token 623
+I0424 06:37:46.417780 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60099, StoreReview token 599
+I0424 06:37:46.913146 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60100, StoreReview token 798
+I0424 06:37:47.417776 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60103, StoreReview token 809
+I0424 06:37:47.912938 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60104, StoreReview token 722
+I0424 06:37:48.417005 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60107, StoreReview token 613
+I0424 06:37:48.913372 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60108, StoreReview token 676
+I0424 06:37:49.417729 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60111, StoreReview token 713
+I0424 06:37:49.910318 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60112, StoreReview token 833
+I0424 06:37:49.917043 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60113, StoreReview token 683
+I0424 06:37:50.412851 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60114, StoreReview token 628
+I0424 06:37:50.917084 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60117, StoreReview token 707
+I0424 06:37:51.413404 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60118, StoreReview token 701
+I0424 06:37:51.916263 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60121, StoreReview token 615
+I0424 06:37:52.411320 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60122, StoreReview token 857
+I0424 06:37:52.917104 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60125, StoreReview token 733
+I0424 06:37:53.413919 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60126, StoreReview token 727
+I0424 06:37:53.917775 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60129, StoreReview token 710
+I0424 06:37:54.413237 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60130, StoreReview token 717
+I0424 06:37:54.917735 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60133, StoreReview token 668
+I0424 06:37:55.413394 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60134, StoreReview token 639
+I0424 06:37:55.917435 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60137, StoreReview token 770
+I0424 06:37:56.413152 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60138, StoreReview token 678
+I0424 06:37:56.917392 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60141, StoreReview token 720
+I0424 06:37:57.412484 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60142, StoreReview token 726
+I0424 06:37:57.915155 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60145, StoreReview token 551
+I0424 06:37:58.413385 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60146, StoreReview token 819
+I0424 06:37:58.917631 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60149, StoreReview token 707
+I0424 06:37:59.413101 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60150, StoreReview token 707
+I0424 06:38:00.416342 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60155, StoreReview token 674
+I0424 06:38:00.913054 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60156, StoreReview token 657
+I0424 06:38:01.417396 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60159, StoreReview token 789
+I0424 06:38:01.912989 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60160, StoreReview token 710
+I0424 06:38:02.417290 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60163, StoreReview token 777
+I0424 06:38:02.912926 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60164, StoreReview token 734
+I0424 06:38:03.413916 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60167, StoreReview token 530
+I0424 06:38:03.913892 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60168, StoreReview token 721
+I0424 06:38:04.416905 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60171, StoreReview token 718
+I0424 06:38:04.913376 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60172, StoreReview token 724
+I0424 06:38:05.416800 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60175, StoreReview token 723
+I0424 06:38:05.914058 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60176, StoreReview token 751
+I0424 06:38:06.417321 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60179, StoreReview token 558
+I0424 06:38:06.913641 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60180, StoreReview token 692
+I0424 06:38:07.417160 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60183, StoreReview token 673
+I0424 06:38:07.913269 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60184, StoreReview token 699
+I0424 06:38:08.414592 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60187, StoreReview token 546
+I0424 06:38:08.910267 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60188, StoreReview token 824
+I0424 06:38:08.917518 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60189, StoreReview token 713
+I0424 06:38:09.413686 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60190, StoreReview token 715
+I0424 06:38:09.917212 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60193, StoreReview token 692
+I0424 06:38:10.413765 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60194, StoreReview token 662
+I0424 06:38:10.917330 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60197, StoreReview token 690
+I0424 06:38:11.411047 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60198, StoreReview token 737
+I0424 06:38:11.916915 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60201, StoreReview token 671
+I0424 06:38:12.412461 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60202, StoreReview token 738
+I0424 06:38:12.917797 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60205, StoreReview token 682
+I0424 06:38:13.412883 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60206, StoreReview token 741
+I0424 06:38:13.915438 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60209, StoreReview token 662
+I0424 06:38:14.412686 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60210, StoreReview token 716
+I0424 06:38:14.917204 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60213, StoreReview token 710
+I0424 06:38:15.413191 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60214, StoreReview token 687
+I0424 06:38:15.917502 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60217, StoreReview token 726
+I0424 06:38:16.413367 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60218, StoreReview token 687
+I0424 06:38:16.915192 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60221, StoreReview token 514
+I0424 06:38:17.410868 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60222, StoreReview token 874
+I0424 06:38:18.417518 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60227, StoreReview token 697
+I0424 06:38:18.913021 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60228, StoreReview token 626
+I0424 06:38:19.915398 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60233, StoreReview token 733
+I0424 06:38:20.413116 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60234, StoreReview token 784
+I0424 06:38:20.917602 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60237, StoreReview token 723
+I0424 06:38:21.413404 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60238, StoreReview token 750
+I0424 06:38:21.916872 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60241, StoreReview token 730
+I0424 06:38:22.412017 Main        (1868256) /home/lgw/Lumine-benchmarks/Experiments/02/src/4_ReviewStorageService/StoreReview4.cpp:52] req_id = 60242, StoreReview token 922

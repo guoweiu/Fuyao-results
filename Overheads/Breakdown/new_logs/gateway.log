@@ -1,0 +1,75 @@
+I0424 11:39:08.883800 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:96] Register main thread: tid=1919461
+I0424 11:39:08.885475 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieId1[20]
+I0424 11:39:08.885526 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadText1[21]
+I0424 11:39:08.885550 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUniqueId1[22]
+I0424 11:39:08.885569 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserId1[23]
+I0424 11:39:08.885588 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadRating2[24]
+I0424 11:39:08.885607 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieId3[25]
+I0424 11:39:08.885625 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadRating3[26]
+I0424 11:39:08.885643 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadText3[27]
+I0424 11:39:08.885660 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUniqueId3[28]
+I0424 11:39:08.885680 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserId3[29]
+I0424 11:39:08.885699 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieReview4[30]
+I0424 11:39:08.885721 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02ReadReview4[31]
+I0424 11:39:08.885739 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02StoreReview4[32]
+I0424 11:39:08.885757 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserReview4[33]
+I0424 11:39:08.885779 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02RegisterMovieId[34]
+I0424 11:39:08.885797 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02ComposeReview[35]
+I0424 11:39:08.885956 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:75] Server: Start 4 IO workers
+I0424 11:39:08.886236 IO-0 EL     (1919462) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:166] IO-0: Event loop starts
+I0424 11:39:08.886435 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:166] IO-1: Event loop starts
+I0424 11:39:08.886623 IO-2 EL     (1919464) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:166] IO-2: Event loop starts
+I0424 11:39:08.886783 IO-3 EL     (1919465) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:166] IO-3: Event loop starts
+I0424 11:39:08.886920 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:94] Server: Listen on 192.168.1.129:10012 for engine connections
+I0424 11:39:08.886983 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:102] Server: Listen on 192.168.1.129:8084 for HTTP requests
+I0424 11:39:08.887009 Main        (1919461) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:109] Server: Listen on 192.168.1.129:50012 for gRPC requests
+I0424 11:39:08.887163 Server EL   (1919466) /home/lgw/Lumine-benchmarks/Lumine/lib/server/server_base.cpp:49] Server: Event loop starts
+I0424 11:39:10.959135 Server EL   (1919466) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:419] Server: Number of connected nodes: 1
+I0424 11:39:10.959386 Server EL   (1919466) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:423] Server: New engine connection (node_id=102, conn_id=0) assigned to IO worker 0
+I0424 11:39:10.959550 Server EL   (1919466) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:423] Server: New engine connection (node_id=102, conn_id=1) assigned to IO worker 1
+I0424 11:39:10.959584 IO-0 EL     (1919462) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 104, total of type 104 is 1
+I0424 11:39:10.959633 Server EL   (1919466) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:423] Server: New engine connection (node_id=102, conn_id=2) assigned to IO worker 2
+I0424 11:39:10.959680 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 104, total of type 104 is 1
+I0424 11:39:10.959789 Server EL   (1919466) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:423] Server: New engine connection (node_id=102, conn_id=3) assigned to IO worker 3
+I0424 11:39:10.959868 Server EL   (1919466) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:423] Server: New engine connection (node_id=102, conn_id=4) assigned to IO worker 0
+I0424 11:39:10.959869 IO-2 EL     (1919464) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 104, total of type 104 is 1
+I0424 11:39:10.959942 Server EL   (1919466) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:423] Server: New engine connection (node_id=102, conn_id=6) assigned to IO worker 2
+I0424 11:39:10.959953 IO-3 EL     (1919465) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 104, total of type 104 is 1
+I0424 11:39:10.960006 Server EL   (1919466) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:423] Server: New engine connection (node_id=102, conn_id=5) assigned to IO worker 1
+I0424 11:39:10.960027 IO-2 EL     (1919464) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 104, total of type 104 is 2
+I0424 11:39:10.960017 IO-0 EL     (1919462) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 104, total of type 104 is 2
+I0424 11:39:10.960069 Server EL   (1919466) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/server.cpp:423] Server: New engine connection (node_id=102, conn_id=7) assigned to IO worker 3
+I0424 11:39:10.960153 IO-3 EL     (1919465) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-3: New connection of type 104, total of type 104 is 2
+I0424 11:39:10.960144 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 104, total of type 104 is 2
+I0424 11:39:22.830721 IO-0 EL     (1919462) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-0: New connection of type 0, total of type 0 is 1
+I0424 11:39:22.830839 IO-0 EL     (1919462) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/http_connection.cpp:86] HttpConnection closed by client
+I0424 11:39:22.830930 IO-0 EL     (1919462) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:150] IO-0: One connection of type 0 closed, total of type 0 is 0
+I0424 11:39:22.831799 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-1: New connection of type 0, total of type 0 is 1
+I0424 11:39:22.837219 IO-2 EL     (1919464) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:212] IO-2: New connection of type 0, total of type 0 is 1
+I0424 11:39:32.332112 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests counter: value=39, rate=4.10526 per sec
+I0424 11:39:32.332239 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] dispatched_requests[102] counter: value=39, rate=4.10526 per sec
+I0424 11:39:32.832607 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[35] counter: value=41, rate=4.1 per sec
+I0424 11:39:41.831890 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests counter: value=77, rate=4.00042 per sec
+I0424 11:39:41.831969 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] dispatched_requests[102] counter: value=77, rate=4.00042 per sec
+I0424 11:39:42.833351 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[35] counter: value=81, rate=4 per sec
+I0424 11:39:51.332511 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests counter: value=115, rate=4 per sec
+I0424 11:39:51.332593 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] dispatched_requests[102] counter: value=115, rate=4 per sec
+I0424 11:39:52.832463 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[35] counter: value=121, rate=4.0004 per sec
+I0424 11:40:00.832503 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests counter: value=153, rate=4.00042 per sec
+I0424 11:40:00.832581 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] dispatched_requests[102] counter: value=153, rate=4.00042 per sec
+I0424 11:40:02.833252 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[35] counter: value=161, rate=4 per sec
+I0424 11:40:10.331993 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests counter: value=191, rate=4.00042 per sec
+I0424 11:40:10.332071 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] dispatched_requests[102] counter: value=191, rate=4.00042 per sec
+I0424 11:40:12.831742 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[35] counter: value=201, rate=4.0008 per sec
+I0424 11:40:19.831935 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests counter: value=229, rate=4.00042 per sec
+I0424 11:40:19.832011 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] dispatched_requests[102] counter: value=229, rate=4.00042 per sec
+I0424 11:40:21.832566 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] running_requests statistics (237 samples): p30=1, p50=1, p70=2, p90=2, p99=2, p99.9=2
+I0424 11:40:22.332353 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] requests_instant_rps statistics (238 samples): p30=2.02274, p50=151.676, p70=190.006, p90=194.553, p99=244.798, p99.9=246.853
+I0424 11:40:22.332518 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] inflight_requests statistics (239 samples): p30=1, p50=1, p70=2, p90=2, p99=2, p99.9=2
+I0424 11:40:22.832542 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] request_interval statistics (240 samples): p30=5311, p50=493434, p70=494378, p90=494981, p99=496114, p99.9=496166
+I0424 11:40:22.832604 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:265] incoming_requests[35] counter: value=241, rate=4 per sec
+I0424 11:40:22.838617 IO-2 EL     (1919464) /home/lgw/Lumine-benchmarks/Lumine/lib/common/stat.h:176] dispatch_overhead statistics (241 samples): p30=510, p50=534, p70=552, p90=615, p99=1197, p99.9=1354
+I0424 11:40:22.841816 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/http_connection.cpp:86] HttpConnection closed by client
+I0424 11:40:22.841954 IO-1 EL     (1919463) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:150] IO-1: One connection of type 0 closed, total of type 0 is 0
+I0424 11:40:22.842708 IO-2 EL     (1919464) /home/lgw/Lumine-benchmarks/Lumine/src/dpu/gateway/http_connection.cpp:86] HttpConnection closed by client
+I0424 11:40:22.842810 IO-2 EL     (1919464) /home/lgw/Lumine-benchmarks/Lumine/lib/server/io_worker.cpp:150] IO-2: One connection of type 0 closed, total of type 0 is 0

@@ -1,0 +1,142 @@
+I0424 03:21:35.169862 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:96] Register main thread: tid=1857989
+I0424 03:21:35.171452 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieId1[20]
+I0424 03:21:35.171587 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadText1[21]
+I0424 03:21:35.171638 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUniqueId1[22]
+I0424 03:21:35.171673 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserId1[23]
+I0424 03:21:35.171701 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadRating2[24]
+I0424 03:21:35.171729 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieId3[25]
+I0424 03:21:35.171755 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadRating3[26]
+I0424 03:21:35.171780 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadText3[27]
+I0424 03:21:35.171810 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUniqueId3[28]
+I0424 03:21:35.171839 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserId3[29]
+I0424 03:21:35.171865 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieReview4[30]
+I0424 03:21:35.171889 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02ReadReview4[31]
+I0424 03:21:35.171914 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02StoreReview4[32]
+I0424 03:21:35.171942 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserReview4[33]
+I0424 03:21:35.171978 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02RegisterMovieId[34]
+I0424 03:21:35.172005 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02ComposeReview[35]
+I0424 03:21:35.172168 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:107] My client_id is 6
+I0424 03:21:35.172256 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:173] Use extra pipes for messages
+I0424 03:21:35.197391 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:195] Handshake done
+I0424 03:22:00.328022 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60002, ComposeReview token 53469
+I0424 03:22:01.283314 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60007, ComposeReview token 4740
+I0424 03:22:01.779650 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60008, ComposeReview token 4677
+I0424 03:22:02.283111 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60011, ComposeReview token 3926
+I0424 03:22:02.779597 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60012, ComposeReview token 4741
+I0424 03:22:03.784448 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60017, ComposeReview token 4523
+I0424 03:22:04.280010 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60018, ComposeReview token 4778
+I0424 03:22:04.782740 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60021, ComposeReview token 4284
+I0424 03:22:05.279924 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60022, ComposeReview token 4565
+I0424 03:22:06.283620 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60027, ComposeReview token 4331
+I0424 03:22:06.779918 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60028, ComposeReview token 4656
+I0424 03:22:07.283094 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60031, ComposeReview token 4078
+I0424 03:22:07.779506 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60032, ComposeReview token 4773
+I0424 03:22:08.284048 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60035, ComposeReview token 4339
+I0424 03:22:08.779441 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60036, ComposeReview token 4749
+I0424 03:22:09.284387 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60039, ComposeReview token 4282
+I0424 03:22:09.780096 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60040, ComposeReview token 4802
+I0424 03:22:10.282973 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60043, ComposeReview token 4174
+I0424 03:22:10.780168 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60044, ComposeReview token 4804
+I0424 03:22:11.283300 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60047, ComposeReview token 4128
+I0424 03:22:11.779202 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60048, ComposeReview token 4779
+I0424 03:22:12.284053 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60051, ComposeReview token 4374
+I0424 03:22:12.779387 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60052, ComposeReview token 4642
+I0424 03:22:12.784003 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60053, ComposeReview token 4169
+I0424 03:22:13.279524 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60054, ComposeReview token 4497
+I0424 03:22:13.284369 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60055, ComposeReview token 4250
+I0424 03:22:13.785106 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60056, ComposeReview token 10750
+I0424 03:22:14.281956 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60058, ComposeReview token 7592
+I0424 03:22:14.785455 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60061, ComposeReview token 6651
+I0424 03:22:15.282343 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60062, ComposeReview token 7500
+I0424 03:22:15.784964 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60065, ComposeReview token 6485
+I0424 03:22:16.281946 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60066, ComposeReview token 7346
+I0424 03:22:16.783336 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60069, ComposeReview token 4288
+I0424 03:22:17.282559 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60070, ComposeReview token 7170
+I0424 03:22:17.783413 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60073, ComposeReview token 4562
+I0424 03:22:18.279451 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60074, ComposeReview token 4805
+I0424 03:22:18.785941 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60077, ComposeReview token 6765
+I0424 03:22:19.282611 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60078, ComposeReview token 7539
+I0424 03:22:19.782965 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60081, ComposeReview token 4408
+I0424 03:22:20.281442 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60082, ComposeReview token 6163
+I0424 03:22:20.784866 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60085, ComposeReview token 6251
+I0424 03:22:21.282460 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60086, ComposeReview token 7505
+I0424 03:22:21.785908 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60089, ComposeReview token 6822
+I0424 03:22:22.282075 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60090, ComposeReview token 7229
+I0424 03:22:22.785522 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60093, ComposeReview token 6520
+I0424 03:22:23.281866 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60094, ComposeReview token 6698
+I0424 03:22:23.783024 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60097, ComposeReview token 4430
+I0424 03:22:24.281856 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60098, ComposeReview token 7309
+I0424 03:22:24.786053 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60101, ComposeReview token 6965
+I0424 03:22:25.281597 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60102, ComposeReview token 7001
+I0424 03:22:25.785245 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60105, ComposeReview token 6730
+I0424 03:22:26.282428 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60106, ComposeReview token 7606
+I0424 03:22:26.785665 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60109, ComposeReview token 6641
+I0424 03:22:27.282240 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60110, ComposeReview token 7479
+I0424 03:22:27.786394 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60113, ComposeReview token 7143
+I0424 03:22:28.282598 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60114, ComposeReview token 7402
+I0424 03:22:28.785713 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60117, ComposeReview token 5894
+I0424 03:22:29.281786 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60118, ComposeReview token 6990
+I0424 03:22:29.785091 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60121, ComposeReview token 6491
+I0424 03:22:30.279553 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60122, ComposeReview token 4995
+I0424 03:22:30.785359 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60125, ComposeReview token 6435
+I0424 03:22:31.281967 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60126, ComposeReview token 7289
+I0424 03:22:31.785628 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60129, ComposeReview token 6738
+I0424 03:22:32.282329 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60130, ComposeReview token 7213
+I0424 03:22:32.786543 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60133, ComposeReview token 6553
+I0424 03:22:33.282185 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60134, ComposeReview token 6871
+I0424 03:22:33.785892 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60137, ComposeReview token 6532
+I0424 03:22:34.281337 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60138, ComposeReview token 6949
+I0424 03:22:34.785807 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60141, ComposeReview token 6662
+I0424 03:22:35.281745 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60142, ComposeReview token 7306
+I0424 03:22:35.783631 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60145, ComposeReview token 4221
+I0424 03:22:36.282449 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60146, ComposeReview token 7120
+I0424 03:22:36.785914 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60149, ComposeReview token 7124
+I0424 03:22:37.281913 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60150, ComposeReview token 7403
+I0424 03:22:38.286226 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60155, ComposeReview token 6909
+I0424 03:22:38.781405 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60156, ComposeReview token 7056
+I0424 03:22:39.285367 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60159, ComposeReview token 6447
+I0424 03:22:39.781571 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60160, ComposeReview token 7033
+I0424 03:22:40.286719 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60163, ComposeReview token 6888
+I0424 03:22:40.782173 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60164, ComposeReview token 7330
+I0424 03:22:41.283134 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60167, ComposeReview token 3939
+I0424 03:22:41.781273 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60168, ComposeReview token 6982
+I0424 03:22:42.285782 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60171, ComposeReview token 6514
+I0424 03:22:42.782621 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60172, ComposeReview token 7565
+I0424 03:22:43.285861 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60175, ComposeReview token 6837
+I0424 03:22:43.782251 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60176, ComposeReview token 7285
+I0424 03:22:44.285444 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60179, ComposeReview token 6705
+I0424 03:22:44.781962 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60180, ComposeReview token 7423
+I0424 03:22:45.284926 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60183, ComposeReview token 6354
+I0424 03:22:45.782448 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60184, ComposeReview token 7404
+I0424 03:22:46.283131 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60187, ComposeReview token 4221
+I0424 03:22:46.778866 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60188, ComposeReview token 4618
+I0424 03:22:46.786216 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60189, ComposeReview token 6903
+I0424 03:22:47.281654 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60190, ComposeReview token 7340
+I0424 03:22:47.786463 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60193, ComposeReview token 7230
+I0424 03:22:48.281927 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60194, ComposeReview token 7298
+I0424 03:22:48.786534 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60197, ComposeReview token 6856
+I0424 03:22:49.279544 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60198, ComposeReview token 4815
+I0424 03:22:49.786379 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60201, ComposeReview token 6455
+I0424 03:22:50.282499 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60202, ComposeReview token 7300
+I0424 03:22:50.784876 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60205, ComposeReview token 6376
+I0424 03:22:51.281533 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60206, ComposeReview token 7272
+I0424 03:22:51.783925 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60209, ComposeReview token 4544
+I0424 03:22:52.282290 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60210, ComposeReview token 7250
+I0424 03:22:52.785687 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60213, ComposeReview token 6314
+I0424 03:22:53.281712 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60214, ComposeReview token 6902
+I0424 03:22:53.785288 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60217, ComposeReview token 6089
+I0424 03:22:54.281740 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60218, ComposeReview token 7301
+I0424 03:22:54.784767 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60221, ComposeReview token 4610
+I0424 03:22:55.279875 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60222, ComposeReview token 4764
+I0424 03:22:55.784006 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60225, ComposeReview token 4357
+I0424 03:22:56.281817 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60226, ComposeReview token 7352
+I0424 03:22:56.783989 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60229, ComposeReview token 4573
+I0424 03:22:57.279596 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60230, ComposeReview token 4889
+I0424 03:22:57.783382 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60233, ComposeReview token 4076
+I0424 03:22:58.281538 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60234, ComposeReview token 7059
+I0424 03:22:59.285516 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60239, ComposeReview token 6301
+I0424 03:22:59.782134 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60240, ComposeReview token 6965
+I0424 03:23:00.283775 Main        (1857989) /home/lgw/Lumine-benchmarks/Experiments/02/src/0_ComposeReviewService/ComposeReview.cpp:135] req_id = 60243, ComposeReview token 4577
+I0424 03:25:35.330236 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:392] reclaim drc, guid_name = exp02UploadMovieId1
+I0424 03:25:35.330365 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:392] reclaim drc, guid_name = exp02UploadText1
+I0424 03:25:35.330447 Main        (1857989) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:392] reclaim drc, guid_name = exp02UploadUniqueId1

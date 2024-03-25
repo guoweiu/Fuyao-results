@@ -1,0 +1,144 @@
+I0424 06:37:10.632058 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/lib/base/thread.cpp:96] Register main thread: tid=1867566
+I0424 06:37:10.633713 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieId1[20]
+I0424 06:37:10.633893 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadText1[21]
+I0424 06:37:10.633951 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUniqueId1[22]
+I0424 06:37:10.633991 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserId1[23]
+I0424 06:37:10.634022 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadRating2[24]
+I0424 06:37:10.634060 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieId3[25]
+I0424 06:37:10.634091 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadRating3[26]
+I0424 06:37:10.634121 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadText3[27]
+I0424 06:37:10.634157 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUniqueId3[28]
+I0424 06:37:10.634188 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserId3[29]
+I0424 06:37:10.634217 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadMovieReview4[30]
+I0424 06:37:10.634245 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02ReadReview4[31]
+I0424 06:37:10.634273 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02StoreReview4[32]
+I0424 06:37:10.634306 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02UploadUserReview4[33]
+I0424 06:37:10.634346 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02RegisterMovieId[34]
+I0424 06:37:10.634382 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/lib/common/config.cpp:332] Load configuration for function exp02ComposeReview[35]
+I0424 06:37:10.634547 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:107] My client_id is 12
+I0424 06:37:10.634632 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:173] Use extra pipes for messages
+I0424 06:37:10.635016 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:195] Handshake done
+I0424 06:37:22.545446 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60002, UploadMovieId1 token 116836
+I0424 06:37:22.913944 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60004, UploadMovieId1 token 6679
+I0424 06:37:23.416961 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60007, UploadMovieId1 token 5813
+I0424 06:37:23.913377 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60008, UploadMovieId1 token 5989
+I0424 06:37:24.416660 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60011, UploadMovieId1 token 5616
+I0424 06:37:24.914699 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60012, UploadMovieId1 token 6631
+I0424 06:37:25.418007 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60015, UploadMovieId1 token 6036
+I0424 06:37:25.913869 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60016, UploadMovieId1 token 6350
+I0424 06:37:26.417881 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60019, UploadMovieId1 token 5370
+I0424 06:37:26.913668 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60020, UploadMovieId1 token 6301
+I0424 06:37:27.416453 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60023, UploadMovieId1 token 5471
+I0424 06:37:27.914179 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60024, UploadMovieId1 token 6390
+I0424 06:37:28.417691 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60027, UploadMovieId1 token 6213
+I0424 06:37:28.913154 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60028, UploadMovieId1 token 6006
+I0424 06:37:29.417419 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60031, UploadMovieId1 token 6013
+I0424 06:37:29.914478 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60032, UploadMovieId1 token 6785
+I0424 06:37:30.418078 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60035, UploadMovieId1 token 5781
+I0424 06:37:30.914334 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60036, UploadMovieId1 token 6857
+I0424 06:37:31.416481 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60039, UploadMovieId1 token 5470
+I0424 06:37:31.913185 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60040, UploadMovieId1 token 5620
+I0424 06:37:32.417592 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60043, UploadMovieId1 token 5539
+I0424 06:37:32.913998 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60044, UploadMovieId1 token 6331
+I0424 06:37:33.417048 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60047, UploadMovieId1 token 5266
+I0424 06:37:33.913301 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60048, UploadMovieId1 token 6009
+I0424 06:37:34.417556 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60051, UploadMovieId1 token 5681
+I0424 06:37:34.913861 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60052, UploadMovieId1 token 6415
+I0424 06:37:35.416993 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60055, UploadMovieId1 token 5806
+I0424 06:37:35.913497 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60056, UploadMovieId1 token 6787
+I0424 06:37:36.418404 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60059, UploadMovieId1 token 6029
+I0424 06:37:36.914038 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60060, UploadMovieId1 token 6442
+I0424 06:37:37.418255 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60063, UploadMovieId1 token 5966
+I0424 06:37:37.913060 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60064, UploadMovieId1 token 6370
+I0424 06:37:38.418675 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60067, UploadMovieId1 token 6108
+I0424 06:37:38.913688 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60068, UploadMovieId1 token 6410
+I0424 06:37:39.417209 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60071, UploadMovieId1 token 5868
+I0424 06:37:39.913681 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60072, UploadMovieId1 token 6552
+I0424 06:37:40.415385 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60075, UploadMovieId1 token 3696
+I0424 06:37:40.911110 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60076, UploadMovieId1 token 3833
+I0424 06:37:41.417782 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60079, UploadMovieId1 token 6033
+I0424 06:37:41.913087 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60080, UploadMovieId1 token 6547
+I0424 06:37:42.414607 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60083, UploadMovieId1 token 3325
+I0424 06:37:42.913631 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60084, UploadMovieId1 token 6695
+I0424 06:37:43.418365 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60087, UploadMovieId1 token 5928
+I0424 06:37:43.912956 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60088, UploadMovieId1 token 6309
+I0424 06:37:44.416814 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60091, UploadMovieId1 token 5728
+I0424 06:37:44.913776 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60092, UploadMovieId1 token 6743
+I0424 06:37:45.416519 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60095, UploadMovieId1 token 5437
+I0424 06:37:45.912997 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60096, UploadMovieId1 token 6252
+I0424 06:37:46.418024 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60099, UploadMovieId1 token 5654
+I0424 06:37:46.913392 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60100, UploadMovieId1 token 6483
+I0424 06:37:47.418024 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60103, UploadMovieId1 token 5804
+I0424 06:37:47.913193 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60104, UploadMovieId1 token 6456
+I0424 06:37:48.417299 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60107, UploadMovieId1 token 5811
+I0424 06:37:48.913670 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60108, UploadMovieId1 token 6816
+I0424 06:37:49.418013 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60111, UploadMovieId1 token 6158
+I0424 06:37:49.910586 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60112, UploadMovieId1 token 3713
+I0424 06:37:49.917316 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60113, UploadMovieId1 token 5445
+I0424 06:37:50.413086 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60114, UploadMovieId1 token 5936
+I0424 06:37:50.917355 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60117, UploadMovieId1 token 5624
+I0424 06:37:51.413640 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60118, UploadMovieId1 token 6178
+I0424 06:37:51.916533 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60121, UploadMovieId1 token 5559
+I0424 06:37:52.411589 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60122, UploadMovieId1 token 3983
+I0424 06:37:52.917378 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60125, UploadMovieId1 token 6062
+I0424 06:37:53.414187 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60126, UploadMovieId1 token 6687
+I0424 06:37:53.918047 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60129, UploadMovieId1 token 6050
+I0424 06:37:54.413529 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60130, UploadMovieId1 token 6537
+I0424 06:37:54.918000 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60133, UploadMovieId1 token 5796
+I0424 06:37:55.413636 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60134, UploadMovieId1 token 6555
+I0424 06:37:55.917713 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60137, UploadMovieId1 token 6129
+I0424 06:37:56.413440 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60138, UploadMovieId1 token 6807
+I0424 06:37:56.917727 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60141, UploadMovieId1 token 5974
+I0424 06:37:57.412769 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60142, UploadMovieId1 token 6181
+I0424 06:37:57.915460 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60145, UploadMovieId1 token 3790
+I0424 06:37:58.413671 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60146, UploadMovieId1 token 6700
+I0424 06:37:58.917952 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60149, UploadMovieId1 token 6127
+I0424 06:37:59.413428 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60150, UploadMovieId1 token 6690
+I0424 06:38:00.416661 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60155, UploadMovieId1 token 5839
+I0424 06:38:00.913340 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60156, UploadMovieId1 token 6528
+I0424 06:38:01.417758 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60159, UploadMovieId1 token 6273
+I0424 06:38:01.913222 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60160, UploadMovieId1 token 5861
+I0424 06:38:02.417593 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60163, UploadMovieId1 token 6261
+I0424 06:38:02.913248 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60164, UploadMovieId1 token 6387
+I0424 06:38:03.414206 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60167, UploadMovieId1 token 3133
+I0424 06:38:03.914192 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60168, UploadMovieId1 token 6503
+I0424 06:38:04.417208 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60171, UploadMovieId1 token 5847
+I0424 06:38:04.913707 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60172, UploadMovieId1 token 6788
+I0424 06:38:05.417102 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60175, UploadMovieId1 token 6175
+I0424 06:38:05.914335 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60176, UploadMovieId1 token 6773
+I0424 06:38:06.417624 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60179, UploadMovieId1 token 5438
+I0424 06:38:06.913979 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60180, UploadMovieId1 token 6752
+I0424 06:38:07.417464 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60183, UploadMovieId1 token 6141
+I0424 06:38:07.913573 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60184, UploadMovieId1 token 6306
+I0424 06:38:08.414892 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60187, UploadMovieId1 token 3639
+I0424 06:38:08.910628 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60188, UploadMovieId1 token 3927
+I0424 06:38:08.917818 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60189, UploadMovieId1 token 6086
+I0424 06:38:09.413972 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60190, UploadMovieId1 token 6644
+I0424 06:38:09.917572 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60193, UploadMovieId1 token 6446
+I0424 06:38:10.414053 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60194, UploadMovieId1 token 6845
+I0424 06:38:10.917633 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60197, UploadMovieId1 token 6110
+I0424 06:38:11.411350 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60198, UploadMovieId1 token 3847
+I0424 06:38:11.917240 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60201, UploadMovieId1 token 6080
+I0424 06:38:12.412698 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60202, UploadMovieId1 token 6031
+I0424 06:38:12.918099 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60205, UploadMovieId1 token 6117
+I0424 06:38:13.413154 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60206, UploadMovieId1 token 6497
+I0424 06:38:13.915744 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60209, UploadMovieId1 token 3646
+I0424 06:38:14.412968 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60210, UploadMovieId1 token 6216
+I0424 06:38:14.917507 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60213, UploadMovieId1 token 6121
+I0424 06:38:15.413498 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60214, UploadMovieId1 token 6182
+I0424 06:38:15.917806 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60217, UploadMovieId1 token 6088
+I0424 06:38:16.413693 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60218, UploadMovieId1 token 6782
+I0424 06:38:16.915448 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60221, UploadMovieId1 token 3709
+I0424 06:38:17.411169 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60222, UploadMovieId1 token 4061
+I0424 06:38:18.417823 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60227, UploadMovieId1 token 5904
+I0424 06:38:18.913320 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60228, UploadMovieId1 token 6374
+I0424 06:38:19.915655 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60233, UploadMovieId1 token 3732
+I0424 06:38:20.413377 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60234, UploadMovieId1 token 6446
+I0424 06:38:20.917906 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60237, UploadMovieId1 token 6267
+I0424 06:38:21.413673 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60238, UploadMovieId1 token 6376
+I0424 06:38:21.917178 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60241, UploadMovieId1 token 6076
+I0424 06:38:22.412351 Main        (1867566) /home/lgw/Lumine-benchmarks/Experiments/02/src/1_MovieIdService/UploadMovieId1.cpp:65] req_id = 60242, UploadMovieId1 token 4130
+I0424 06:41:09.640760 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:551] Leave RDMA_SERVING state and enter RDMA_RECLAIM state
+I0424 06:41:09.640985 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:559] DRC reclamation succeeded!
+I0424 06:43:09.741218 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:392] reclaim drc, guid_name = exp02UploadRating3
+I0424 06:43:09.741436 Main        (1867566) /home/lgw/Lumine-benchmarks/Lumine/src/host/worker/cpp/func_worker.cpp:392] reclaim drc, guid_name = exp02UploadMovieId3
